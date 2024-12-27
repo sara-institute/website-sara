@@ -1,0 +1,32 @@
+---
+title: "SARA Summer School of Research Methods 2025"
+subtitle: ""
+pagetitle: "Research Methods"
+
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+::: {.col}
+::: {.card}
+
+## More Information Coming Soon!
+
+Thank you for your interest in our upcoming courses at the **SARA Institute of Data Science**! We are currently preparing all the details and will be sharing them with you very soon. 
+
+Stay tuned for updates on course schedules, registration details, and how you can participate in our exciting programs!
+
+In the meantime, feel free to explore our other offerings or reach out to us with any questions. We can’t wait to help you on your learning journey!
+
+<br>
+
+:::
+:::
+
+<br>

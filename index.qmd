@@ -1,0 +1,225 @@
+---
+pagetitle: "SARA Institute of Data Science"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+::: {.column-screen .banner-blue}
+
+![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names."}
+
+# [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
+
+:::
+
+::: {.column-page}
+
+# Mission for Community Empowerment
+
+[SARA Institute empowers under-represented communities in India through data science education. We aim to build an inclusive data science community where everyone can learn, grow, and contribute.]{.p-mission}
+
+::: {.button}
+[Learn more](about.qmd)
+:::
+:::
+
+::: {.column-screen}
+
+![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
+:::
+
+
+::::: {.column-page}
+
+# Inclusive Education
+
+[All our courses are free and open-source for every student.]{.p-mission}
+
+<br>
+
+:::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1649433391420-542fcd3835ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Computer Skills
+
+You will learn how to use a personal computer,  components of computers, how to
+
+Learning computer skills enhances employability, facilitate efficient communication, information retrieval, and collaboration.
+
+[Learn more](computer-course/computer-course.qmd)
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Data Science
+
+Uncovering hidden patterns to drive decision making and innovation using data science education.
+
+[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
+:::
+
+::: {.card}
+
+![](https://images.unsplash.com/photo-1508004680771-708b02aabdc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Research Methods
+
+Scholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.
+
+[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
+:::
+:::
+
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## English Language
+
+Learning English enhanced global communication, opens doors to diverse cultures, facilitates travel, and provides a competitive edge in the global job market.
+
+[Learn more](english-course/english-course.qmd)
+
+:::
+:::
+
+::::
+
+<br>
+
+:::::
+
+
+::::: {.column-screen .banner-cream}
+
+# Data Science Trainings
+
+[Four annual week-long residential trainings of data science and research.]{.p-mission}
+
+:::: {.feedback-layout-grid }
+
+::: {.col}
+:::
+
+::: {.col}
+::: {.card}
+## SARA Data Science Summer School July 2024 {.centering}
+
+![](images/2024summer.png){width="90%"}
+
+> The SARA institute helped me to overcome the fear over computers. I never did any course such as MS-CIT but enrolling myself directly to study basic coding and R programming language with SARA helped me to be confident about it. Now I understand that everything is possible using the programming language and more efficiently. The knowledge that is kept away from the marginalized communities due to the high cost, SARA institute bridges that gap and makes it available to our students who can't afford it. I would request everyone to enroll yourself for the future courses because you will get a lot to learn and will be much more confident with the new age technologies.<br>***Avichal Warke, PhD Scholar, JNU***
+
+> First of all thank you so much for a brilliant workshop. Dr. Ajay sir has a great sense of humour which makes the lecture very accessible. Thanks a lot for making data science interesting. I learned a lot and have a wonderful time with everyone. The study material used in the workshop is outstanding, teaching style is clear, beautiful and nice. This was a fabulous event. Thank you!<br>***Akansha Singh, MSc Bioinformatics, UP***
+
+> At first, I want to congratulate Dr. Koli for successfully conducting this 5 days workshop in data science. There were several doubts in my mind about the workshop initially, but form the first day, I felt that it is the right place for beginners who want to start learning R programming. I have one constructive feedback please arragne the next workshop as early as possible, extending it to the ten days at the next level where we finished. I will definitely attend the workshop.<br>***Shibu Das, PhD Scholar, JNU***
+
+> During five days summer program I learned a lot and have great time with everyone. By joining this summer workshop I believe it will enhance my research skills and technical knowledge. I appreciate SARA Institute for conducting such type of workshops for the community. I wish you (Dr. Koli & Dr. Kiran) all the very best for reaching your goal. You are doing great work for minor community children to reach their goal. Hoping and wishing you will reach your goal soon. We will be with you in your journey.<br>***Chandan Soren, PhD Scholar, JNU***
+
+> It is good and new thing for everyone. Things are not easy in R for me. But I hope it will work better with the help of classes. All the arrangement is good. Good luck SARA!<br>***Tamana Bhatia, MA Geography, HR***
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+## SARA Statistics Winter School December 2024 {.centering}
+
+![](images/2024winter.png)
+
+> I would like to sincerely thank Ajay Sir and Kiran Ma'am for the outstanding workshop. As someone from a social sciences background, I was initially apprehensive about learning statistics and R. However, Ajay Sir's clear and patient explanations, starting from the basics, made the concepts easy to understand and much less intimidating. He ensured that we not only understood the theoretical aspects of statistics but also gained practical experience using R, which made the entire learning process much more approachable. The overall experience was fantastic, with great accommodation and delicious food. I highly recommend this workshop to anyone looking to learn statistics and R. <br>***Sapna Kanwar, MA, JNU***
+
+
+> I really enjoyed the workshop. It is a full package that teaches us to integrate three skills: understanding Research Methodology, knowledge of statistics and use of R for data analysis. To teach all these skills in five days is a tedious task and Dr Ajay Kohli has done a commendable job. Facilities for food and  accommodation are wonderful. Overall, it is a great opportunity for the marginalized to keep themselves relevant in the dynamic world.<br>***Dharmanshu Dhakar, PhD Scholar, MP***
+
+>  I want to share my experience of the workshop. Firstly, the workshop was especially organised for the students from the marginalised sections which itself is a great contribution towards the society. The workshop was charged nominally and also provided scholarship for few students. Secondly, the teacher, Dr. Ajay Koli, who is also the executive director of the SARA institute is a very dedicated teacher. Along with his proficiency in data science, he also knows how to make difficult topic easy to understand. Third, the learning experience was very good. We get to learn about Research Methodology, Statistics and data analysis in R. We all know, how important it is to understand data in the new data driven world. All the number of lectures and hours sessions are very well designed. Fourth, I should definitely talk about the food and staying arrangements, all things were top notch. Timely food, blankets and warm water for bathing, everything was there. And lastly, the atmosphere of the Institute was very good. Dr. Ajay sir, Dr. Kiran and lovely Kiara, all now felt like an extended family. I would definitely attend the next workshop and recommend this workshop to others also. I am very thankful to the SARA team for making this workshop fruitful to me. Thank you.<br>***Mahavir Bhagat, PhD Scholar, JNU***
+
+> The SARA Statistics Winter School of 2024 was a wonderful and exciting endeavour of learning, collaborating, and engaging with different perspectives and viewpoints of Ajay sir and my dear participants who gave various insights and inputs on numerous topics. ... This would have not been possible for students coming from marginalized and under-represented groups in India in such a cost-effective manner, with all the necessary infrastructure, accomodation and food. I would also like to thank all the sponsors who contributed their savings for us. I sincerely thank the SARA Institute and team for making this 5-day winter school an enthralling and fantastic experience filled with knowledge, experience and wisdom. Lastly, I would like to see the SARA Institute making milestones in the future of data science education in India and abroad and bring out brilliant data scientists and engineers with your collective efforts. Thanks & Regards<br>***Yashang Jambhulkar, BA, Maharashtra***
+
+:::
+:::
+
+::::
+<br>
+:::::
+
+:::: {.column-screen}
+
+![](images/visit-lehrara.png)
+::::
+
+:::: {.column-page}
+
+# Our Community, Our Strength
+
+[At SARA, our community is the heart of everything we do. <br>We empower individuals from under-represented backgrounds, creating opportunities to learn, grow and succeed together. By collaboration and mutual support, we are building a brigher 
+future for everyone. Join us in our mission to make an impact!]{.p-mission}
+
+::: {.button}
+[Support SARA](support.qmd)
+:::
+
+::::
+
+
+
+::: {.column-screen .banner-cream}
+
+# Thank You!
+
+[A community organization is built by happy & well-supported people.]{.p-mission}
+
+[Thank you for being a part of the SARA!]{.p-mission}
+
+<br>
+
+::: {.flex-container}
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD<br>Co-Founder & Exec. Director, SARA Institute.
+
+:::
+
+::: {.col}
+:::
+
+::: {.col}
+![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD<br>Co-Founder & Director, SARA Institute.
+:::
+
+::: {.col}
+:::
+
+:::
+:::
+
+
+<br>
+
+[Your support and participation<br> are invaluable as we embark on this journey together.]{.p-mission}
+
+
+[Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Support](support.qmd) &nbsp; [Contact](contact.qmd)
+
+:::
+
+<br>
+
+

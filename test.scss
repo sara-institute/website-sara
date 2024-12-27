@@ -1,0 +1,266 @@
+/*-- scss:defaults --*/
+
+// color system
+$clr-navyblue:    #003262;
+$clr-gray:        #2A2121;
+$clr-blue:        #0061ab;
+$clr-cream:       #f2f2f2;
+$clr-white:       #fff;
+$clr-tom:        #ef4338;
+
+.clr-blue {
+  color: $clr-blue;
+}
+
+.clr-tom {
+  color: $clr-tom;
+}
+
+.clr-cream {
+  color: $clr-cream;
+}
+
+.clr-white {
+  color: $clr-white;
+}
+
+$font-family-sans-serif: "Poppins", sans-serif;
+
+//$font-size-root: 1.6rem;
+$font-size-base: 1.1rem; 
+$font-size-sm:  $font-size-base * 0.875 !default;
+$font-size-lg:  $font-size-base * 1.25 !default; // font size of home top logo
+
+$h1-font-size: $font-size-base *2;
+$h2-font-size: $font-size-base *1.45;
+$h3-font-size: $font-size-base *1.25;
+$h4-font-size: $font-size-base *1.20;
+
+//// all settings for the top navigation bar section
+$navbar-bg: $clr-navyblue;
+$navbar-fg: $clr-cream; //color of nav bar text
+$navbar-hl: $clr-cream; //nav bar text hover color
+
+$link-color: $clr-tom; //#2A2121;
+
+h1{
+  //font-family: "Poppins", sans-serif;
+  color: #000;
+  font-weight: 900;
+  line-height: 1.25em;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+h2{
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-weight: 700;
+  line-height: 1.25em;
+}
+
+@media (max-width: 400px) {
+  h1 {
+      font-size: $font-size-base *1.25;
+      padding-top: 1.0rem;
+      padding-bottom: 1.0rem;
+    }
+    
+  h2{
+      font-size: $font-size-base *1.00;
+  }
+}
+
+//// to keep gap zero between the top and bottom bgs.
+.content {
+  margin-top: -13px;
+  margin-bottom: -80px;
+}
+
+.banner-blue {
+  background-color: $clr-navyblue;
+}
+
+.banner-cream {
+  background-color: $clr-cream;
+  padding: .7777777789em 0em 0em;
+}
+
+.p-mission {
+  font-size: $font-size-base *1.20;
+  font-weight: 100;
+  //font-family: "Noto", Sans-Serif;
+  line-height: 200%;
+}
+
+@media (max-width: 600px) {
+  .p-mission {
+    font-size: $font-size-base *1.05;
+    font-weight: 400;
+    font-family: "Noto", Sans-Serif;
+    line-height: 100%;
+  }
+}
+
+@media (min-width: 1000px) {
+  .p-mission {
+    font-size: $font-size-base *1.75;
+    font-weight: 75;
+    font-family: "Noto", Sans-Serif;
+    line-height: 150%;
+  }
+}
+
+.card {
+  padding: 2rem;
+  border-top: 8px solid;
+  border-radius: 0.5rem; 
+  box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
+  background: #cdc8c8;
+  text-align: left;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.layout-grid {
+  --gap: 0.85rem;
+  display: grid;
+  gap: var(--gap);
+}
+
+@media (min-width: 800px) {
+  .layout-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.layout-grid > * {
+  flex: 1;
+}
+
+.col {
+  display: grid;
+  gap: var(--gap);
+  align-content: center;
+}
+
+
+// grid code for the feedback section of the homepage
+
+.feedback-layout-grid {
+  --gap: 0.5rem;
+  display: grid;
+  gap: var(--gap);
+  align-items: start; //to start both columns from the same height
+  align-content: space-between;
+}
+
+@media (min-width: 800px) {
+  .feedback-layout-grid {
+    grid-template-columns: 0.5fr 1.5fr 1.5fr 0.5fr; //the first and the last values control the left and right margin space
+  }
+}
+
+.layout-grid > * {
+  flex: 1;
+}
+
+
+// to have blue button
+.button {
+  background-color: $clr-navyblue;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: inherit;
+  line-height: 1.5;
+  padding: .77777778em 5em 0em;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s ease-in-out;
+  user-select: none;
+  vertical-align: middle;
+  font-size: 1.0em;
+  margin: 40px 2px 80px 2px;
+}
+
+@media (max-width: 400px) {
+  .button {
+    font-size: .75em;
+    font-weight: 400;
+    padding: .77777778em 2.0em 0em;
+    margin: 30px 2px 60px 2px;
+  }
+  
+}
+
+.button a:link {
+  color: #fff;
+}
+
+.button a:visited {
+  color: #fff;
+}
+
+.button:hover {
+  background-color: rgb(0, 50, 98, 0.85); /* $clr-navyblue */
+  
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.fa-facebook:hover {
+    color: #316FF6;
+}
+
+.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+.fa-instagram:hover {
+    color: #a51f3c;
+}
+
+.fa-linkedin:hover {
+    color: #0077b5;
+}
+
+.fa-youtube:hover {
+    color: #CD201F;
+}
+
+.fa-github:hover {
+    color: #000;
+}
+
+.fa-whatsapp:hover {
+    color: #25D366;    
+}
+
+// below important to zero top padding gap solution is from the Stackoverflow
+.content {
+  margin-top: -30px;
+  margin-bottom: -80px;
+}
+
+.centering {
+  text-align: center;
+}
+
+.lefting {
+  text-align: left;
+}
+

@@ -1,0 +1,92 @@
+project:
+  type: website
+  preview: 
+    browser: true
+  #output-dir: docs
+
+website:
+  title: "SARA INSTITUTE"
+  favicon: "images/logo_sara.png"
+  site-url: "https://sara-edu.netlify.app/"
+  description: "We offer free & open-source data science education to underrepresented communities in India."
+  twitter-card: true
+  image: "images/banner-sara.png"
+  cookie-consent: false
+  # announcement: 
+  #   icon: stars
+  #   dismissable: true
+  #   content: "Registration Open for Statistics Course, December 16 - 20, 2024. [More Info](stats/2024-stats-winter/stats-winter-2024.qmd)"
+  #   type: danger
+  #   position: below-navbar
+  
+  
+  navbar:
+    search: false
+    pinned: true
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        menu: 
+          - text: Mission  
+            href: about.qmd
+          - text: Timeline
+            href: timeline.qmd
+      - text: Courses
+        menu: 
+          - text: Computer Skills
+            href: computer-course/computer-course.qmd
+          - text: English Language
+            href: english-course/english-course.qmd
+      - text: Trainings
+        menu:
+          - text: Research Methods
+            href: research-methods/2025-summer-school/summer-school-2025.qmd
+          - text: R Langauge
+            href: r-lang/2024-r-lang/r-bootcamp-2024.qmd  
+          - text: Statistics
+            href: stats/2024-stats-winter/stats-winter-2024.qmd
+          - text: Publish with Quarto
+            href: publish-quarto/2025-quarto-bootcamp/quarto-bootcamp-2025.qmd
+      - text: News & Events
+        href: news.qmd
+      - text: Support 
+        href: support.qmd
+      - text: Contact
+        href: contact.qmd
+        
+     
+       
+        
+  page-footer:
+    background: "#003262"
+    left: "SARA Institute &copy; 2023-2024"
+    center:
+      - icon: twitter-x
+        href: https://twitter.com/sara_institute
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/sara-edu
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/company/sara-institute/
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/@SARADataScience
+        aria-label: YouTube  
+      - icon: whatsapp
+        href: https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J
+        aria-label: WhatsApp  
+  
+    right: "[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
+    border: true
+    
+      
+format:
+  html:
+    page-layout: full
+    theme: 
+     - flatly
+     - test.scss
+    css: styles.css
+    toc: false

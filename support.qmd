@@ -1,0 +1,71 @@
+---
+pagetitle: "Support"
+#page-layout: full
+#backgroundcolor: "#e9e9e9"
+#format: html
+#css: styles.css
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# Support SARA
+
+::: {.col}
+::: {.card}
+
+## [Donations made to the SARA Institute are eligible for 80G tax exemption.]{.clr-blue}
+
+## How to Donate:
+
+> UPI ID: `919243152024@sbi`
+
+## Bank Transfer:
+
+Account Name: SARA EDUCATION TRUST.
+
+Account Number: `42920911856`.      
+
+Bank Name: STATE BANK OF INDIA.        
+
+IFSC Code: `SBIN0000721`.   
+
+
+:::
+:::
+
+<br>
+
+::: {.col}
+::: {.card}
+
+## Support SARA on Social Media.
+
+<br>[{{< iconify fa6-brands:bluesky >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp;<br>[{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+<br>
+
+SARA Institute is a registered charitable educational institute in India. Your generosity can make a profound impact on the lives of our students striving for a brighter future. By donating to SARA Institute, you're not just giving money; you're investing in the potential of countless individuals to break barriers, achieve their dreams, and contribute positively to their communities.
+
+Every donation, no matter the size, plays a crucial role in supporting our mission to provide quality education to those who need it most. Whether it's improving educational facilities, or developing innovative programs, your contribution makes it possible for us to empower students with the tools they need to succeed.
+
+Join us in creating a world where education knows no bounds. Together, we can pave the way for a future where every individual has the opportunity to learn, grow, and thrive.
+
+Thank you for your generosity and for being a part of our journey towards a brighter tomorrow. For more information kindly reach us at <sara.institute.info@gmail.com>
+
+<br>
+
+**{{< fa phone >}}**
+Call us: 925 315 2024 
+
+<br>
+
+:::
+:::
+
+<br>

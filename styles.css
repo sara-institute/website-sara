@@ -1,0 +1,33 @@
+
+/* this image trick is from Kevin's youtube channel https://youtu.be/345V2MU3E_w  */
+
+body {
+  text-align: center;
+  color: #000
+  width: auto;
+  background-color: #e9e9e9;
+}
+
+img {
+  max-width: 100%
+  height: auto;
+  vertical-align: middle;
+  font-style: italic;
+  background-repeat: no-repeat;
+  background-size: cover;
+  shape-margin: 0.75rem;
+}
+
+:root {
+  
+  --fs-xl: clamp(3.5rem, 12vw + 1rem, 12rem);
+  --fs-600: 2rem;
+  --fs-400: 1rem;
+}
+
+@media (min-width: 40em) {
+  :root {
+    --fs-600: 3rem;
+    --fs-400: 1.125
+  }
+}

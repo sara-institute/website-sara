@@ -1,0 +1,114 @@
+---
+title: Timeline
+layout: page
+description: The details of important events conducted and attended by the SARA Institute team.
+#author: Ajay Koli
+affiliation: SARA Institute
+date: 06/14/2023
+date-modified: last-modified
+toc: true
+#toc-title: "Timeline"
+#toc-location: left
+---
+
+<!-- !["Quantum Leap" artwork by Malvika Raj](images/quantum_leap.jpg){width="700"} -->
+
+<br>
+
+# 🚀 LAUNCH, April 2023
+
+## 05 April 2023, SARA Institute Inauguration
+
+SARA Institute was inaugurated and started its first class.
+
+::: {layout="[[1,1], [1]]"}
+![First data science class](images/first_class1.jpg)
+
+![First R data science course](images/first_class2.jpg)
+
+![Family & Friends at Inaugration](images/inaugration.jpg)
+:::
+
+## 14 April 2023, SARA Institute
+
+We celebrated Babasaheb Dr. Bhim Rao Ambedkar's Birth Anniversary at the SARA.
+
+![](images/baba_jayanti.jpg){fig-align="center" width="400"}
+
+## 04 June 2023, Bichala & Salarpur Villages, RJ
+
+We visited 2-3 villages to promote data science education among the SC/ST/OBC students.
+
+Attended the Kabir Jayanti celebration.
+
+Also, meet a Bahujan student who secured 93% marks in the 10th class.
+
+::: {layout-ncol="2" layout-nrow="2" layout-valign="bottom"}
+![](images/kabir1.jpg)
+
+![](images/kabir2.jpg)
+
+![](images/kabir3.jpeg)
+
+![](images/kabir4.jpg)
+:::
+
+## 11 June 2023, Tijara, RJ
+
+SC-ST Youth Awareness Event conducted at Tijara, RJ.
+
+::: {layout-nrow="2" layout-valign="bottom"}
+![](images/tijara1.jpeg)
+
+![](images/tijara2.jpeg)
+
+![](images/tijara3.jpeg){width="500"}
+
+![](images/tijara4.jpeg)
+:::
+
+## 26 July 2023, Tijara, RJ
+
+We were invited as the chief guests at this event. Purpose of this event was to facilitate the Bahujan students who secured distinction in secondary and higher secondary exams in Rajasthan. We interacted with the students and shared information about the SARA Institute.
+
+::: {layout-nrow="2"}
+
+![](images/tijara-july1.jpeg)
+
+![](images/tijara-july2.jpeg)
+
+![](images/tijara-july3.jpeg)
+
+![](images/tijara-july4.jpeg)
+:::
+
+
+# 💙 SONIPAT, September 2023
+
+## 27 September 2023, Sonipat, HR
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jai Bhim 💙<br><br>To achieve our dreams, today <a href="https://twitter.com/kiran_kolii?ref_src=twsrc%5Etfw">@kiran_kolii</a> &amp; I are moving to a new place 😁 <a href="https://t.co/Fzhj4mkmhC">pic.twitter.com/Fzhj4mkmhC</a></p>&mdash; Ajay Koli, PhD (@ajay_kolii) <a href="https://twitter.com/ajay_kolii/status/1706974417568604442?ref_src=twsrc%5Etfw">September 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## 01 October 2023, Dr. Ambedkar Bhawan, Sonipat
+
+Dear President and committee members of the Ambedkar Educational Society Sonipat, we wanted to extend our heartfelt gratitude for your generosity in providing us with free space in the Dr. Ambedkar Bhawan to educate underrepresented students in India. Your support is not just appreciated; it is truly a beacon of hope and opportunity.
+
+Your belief in our mission to empower those who have historically been underprivileged is invaluable. It is thanks to partners like you that we can create a more inclusive and equitable educational landscape in our country.
+
+::: {layout-ncol="2"}
+
+![](images/bhawan1.jpg)
+
+![](images/bhawan2.jpg)
+
+:::
+
+The free space you have provided is not just a physical location; it is a place where dreams are nurtured, where aspirations take flight, and where the future of countless students is being transformed for the better.
+
+Your contribution goes far beyond bricks and mortar; it is an investment in the potential and promise of these students, and it will undoubtedly lead to a brighter, more promising future for them and our nation as a whole.
+
+Once again, thank you for your unwavering support and for being a crucial part of our journey to make education accessible to all. Together, we are making a profound difference in the lives of countless underrepresented students.
+
+With deep gratitude,
+
+Ajay Koli & Kiran Koli

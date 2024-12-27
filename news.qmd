@@ -1,0 +1,34 @@
+---
+pagetitle: "News & Events"
+page-layout: full
+backgroundcolor: "#e9e9e9"
+#css: styles.css
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# News & Events
+
+::: {.col}
+::: {.card}
+
+## Nov 2, 2024
+
+We at SARA Institute would like to extend our heartfelt gratitude to [*The News Beak*](https://www.youtube.com/c/thenewsbeak) for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like *The News Beak* not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.
+
+This feature will undoubtedly help spread awareness about our initiatives, fostering more support and engagement from the community. We are committed to continuing our work with the same enthusiasm and to reaching even more students who can benefit from quality education and mentorship.
+
+Thank you once again, *The News Beak*, for shining a light on our journey. Your support plays a vital role in motivating us to keep moving forward and expanding our impact.
+
+{{< video https://youtu.be/c0ZJQSdoWXI?si=knEdw6BUsRvAzW07 >}}
+
+:::
+:::
+
+<br>

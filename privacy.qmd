@@ -1,0 +1,143 @@
+---
+pagetitle: "Privacy"
+page-layout: full
+backgroundcolor: "#e9e9e9"
+format: html
+css: styles.css
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# Privacy Policy
+
+::: {.col}
+::: {.card}
+
+At the **SARA Institute of Data Science**, we are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you interact with our website, services, and courses.
+
+---
+
+## 1. Information We Collect
+
+We collect personal information to provide you with the best educational experience. The types of information we collect include:
+
+- **Personal Identification Information**: Name, email address, phone number, and other contact details.
+
+- **Payment Information**: When you enroll in a course, we collect payment details necessary to process your payment, such as credit card information or bank account details.
+
+- **Course Participation Data**: Information about your participation in courses, including attendance, progress, and feedback.
+
+- **Technical Information**: IP address, browser type, operating system, and usage patterns when you visit our website.
+
+---
+
+## 2. How We Use Your Information
+
+We use your information for the following purposes:
+
+- **To Provide Educational Services**: This includes processing your registration, delivering course content, tracking your progress, and issuing certificates upon completion.
+
+- **Communication**: We may use your contact information to send updates about courses, upcoming events, important notices, and promotional offers.
+
+- **Improvement of Services**: We analyze data to improve the quality and effectiveness of our courses and to enhance user experience on our website.
+
+- **Payment Processing**: To securely process payments and issue refunds (where applicable).
+
+- **Legal and Compliance**: To comply with legal requirements and enforce our policies.
+
+---
+
+## 3. How We Share Your Information
+
+We respect your privacy and do not sell, rent, or trade your personal information with third parties. However, we may share your information in the following circumstances:
+
+- **Service Providers**: We may share information with third-party service providers who assist us in operating our website, processing payments, or delivering course content. These service providers are required to keep your information confidential and use it only for the purposes we specify.
+
+- **Legal Requirements**: We may disclose your information if required by law, court order, or government regulations.
+
+- **Business Transfers**: In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred to the new entity.
+
+---
+
+## 4. How We Protect Your Information
+
+We take the security of your personal information seriously and implement the following measures:
+
+- **Data Encryption**: Sensitive information such as payment details is encrypted using secure socket layer (SSL) technology.
+- **Access Controls**: We restrict access to personal data to authorized personnel only, ensuring that your information is only accessible to those who need it to provide services to you.
+- **Regular Security Audits**: We regularly review and update our security practices to protect against unauthorized access, misuse, or disclosure of personal data.
+
+---
+
+## 5. Your Rights and Choices
+
+You have the following rights regarding your personal information:
+
+- **Access**: You can request a copy of the personal information we hold about you.
+- **Correction**: You can request that we correct any inaccuracies in your information.
+- **Deletion**: You can request that we delete your personal information, subject to certain legal obligations.
+- **Opt-out of Marketing**: You can opt-out of receiving marketing communications by following the unsubscribe link in our emails or by contacting us directly.
+
+To exercise any of these rights, please contact us using the details provided below.
+
+---
+
+## 6. Cookies and Tracking Technologies
+
+Our website uses cookies and similar tracking technologies to enhance your experience and analyze site traffic. Cookies are small files stored on your device that help us remember your preferences, track usage, and provide personalized content.
+
+You can control cookie preferences through your browser settings. However, disabling cookies may affect the functionality of our website.
+
+---
+
+## 7. Third-Party Links
+
+Our website may contain links to third-party websites. Please note that we are not responsible for the privacy practices or content of those websites. We encourage you to read the privacy policies of any external sites you visit.
+
+---
+
+## 8. Data Retention
+
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. Once your information is no longer needed, we will securely dispose of it.
+
+---
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the updated policy will take effect immediately. We encourage you to review this policy periodically to stay informed about how we protect your data.
+
+---
+
+## 10. Contact Us
+
+If you have any questions about this Privacy Policy or wish to exercise your rights regarding your personal data, please contact us at:
+
+**SARA Institute of Data Science** 
+
+Email: <sara.institute.info@gmail.com>  
+
+Phone: 925 315 2024
+
+---
+
+By using our website or enrolling in our courses, you consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy. Thank you for trusting the **SARA Institute of Data Science** with your information.
+
+:::
+:::
+
+<br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

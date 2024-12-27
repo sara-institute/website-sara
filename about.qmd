@@ -1,0 +1,73 @@
+---
+pagetitle: "About"
+#layout: page
+#page-layout: full
+#backgroundcolor: "#e9e9e9"
+#format: html
+#css: styles.css
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# Mission
+
+[SARA Institute is dedicated to empowering underrepresented communities in India through data science education. Our mission is to cultivate a vibrant data science community where individuals from all backgrounds can thrive, learn, and contribute to society.]{.p-mission}
+
+<br>
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+
+![](images/visit-rj.jpg){width=45%}
+![](images/visit-hr.jpg){width=45%}
+
+:::
+
+## Educating tomorrow's data scientists
+
+> Welcome to SARA!
+
+At SARA Institute, we believe in the transformative power of education. Our mission is to provide data science education to underserved communities, empowering individuals to reach their full potential and create positive change in their lives and communities.
+
+Founded on the principles of equity and access, SARA is committed to breaking down barriers to education and ensuring that everyone, regardless of their background or circumstances, has the opportunity to learn and thrive.
+
+At SARA Institute, we believe that education is a fundamental human right and a catalyst for social change. Join us in our mission to build a brighter, more equitable future through education. Together, we can make a difference in the lives of individuals and communities around the world.
+
+:::
+:::
+
+<br>
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+![](images/founders_sara.jpg){width=51%}
+![](images/koli-family.jpg){width=45%}
+:::
+
+## Who we are
+
+The Sara Education Trust (Registered) was established by Dr. Ajay Koli and Dr. Kiran Koli, visionaries committed to transforming education. Their dedication to providing accessible learning opportunities led to the inception of the Savitribai Ramabai Institute of Data Science (SARA Institute) on April 5, 2023.
+
+At SARA, we believe in the power of education without barriers. That's why we offer tuition-free courses in data science, computer skills, English language proficiency, and research methodologies to all students.
+
+Before embarking on their mission with SARA, Dr. Ajay and Dr. Kiran served as full-time Assistant Professors at various private universities. Today, their sole focus is on nurturing SARA Institute's educational initiatives.
+
+Based in Sonipat, they reside in a rented house, juggling their roles as educators and recently embracing parenthood with the arrival of their ❤️ beautiful daughter.
+
+Their journey is indebted to the support and collaboration of the Ambedkar Educational Society, Sonipat, for graciously permitting SARA Institute to conduct classes at the esteemed Ambedkar Bhawan, Sonipat.
+
+With a steadfast commitment to excellence and inclusivity, Dr. Ajay and Dr. Kiran continue to inspire and empower students on their educational journey at SARA Institute.
+:::
+:::
+
+<br>

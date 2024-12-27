@@ -1,0 +1,66 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Our Story\"\n",
+        "author: \"SARA Team\"\n",
+        "pagetitle: \"Story\"\n",
+        "date: last-modified\n",
+        "toc: true\n",
+        "#linestretch: 3\n",
+        "backgroundcolor: \"#e9e9e9\"\n",
+        "include-in-header: \n",
+        "  text: |\n",
+        "    <style type=\"text/css\">\n",
+        "      h2, .h2 {\n",
+        "        border-bottom: none;\n",
+        "      }\n",
+        "    </style>\n",
+        "---\n",
+        "\n",
+        "```{css, echo = FALSE}\n",
+        ".justify {\n",
+        "  text-align: justify !important\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "## April 2023, Launch\n",
+        "\n",
+        "05 April 2023, SARA Institute Inauguration\n",
+        "\n",
+        "![Students, family & friends at the inaugration of SARA.](images/inaugration.jpg)\n",
+        "\n",
+        "![First data science class at the SARA.](images/first_class1.jpg)\n",
+        "\n",
+        "## Sept 2023, Sonipat\n",
+        "\n",
+        "We moved to Sonipat to run SARA at the Dr. Ambedkar Bhawan, Sonipat.\n",
+        "\n",
+        "::: {layout=\"[[1,1], [1]]\"}\n",
+        "\n",
+        "![](images/sonipat.png)\n",
+        "\n",
+        "![New office of SARA Institute, Sonipat](images/sara-sonipat.jpg)\n",
+        ":::\n",
+        "\n",
+        "## 1st Data Science Summer School"
+      ],
+      "id": "a4ad20f1"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

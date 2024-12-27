@@ -1,0 +1,36 @@
+---
+title: "Publish with Quarto 2025"
+subtitle: "SARA Data Science Bootcamp March 2025"
+pagetitle: "SARA - Publish Bootcamp"
+#author: Dr. Ajay Kumar Koli
+#date: last-modified
+#toc: true
+#linestretch: 3
+#backgroundcolor: "#e9e9e9"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+::: {.col}
+::: {.card}
+
+## More Information Coming Soon!
+
+Thank you for your interest in our upcoming courses at the **SARA Institute of Data Science**! We are currently preparing all the details and will be sharing them with you very soon. 
+
+Stay tuned for updates on course schedules, registration details, and how you can participate in our exciting programs!
+
+In the meantime, feel free to explore our other offerings or reach out to us with any questions. We can’t wait to help you on your learning journey!
+
+<br>
+
+:::
+:::
+
+<br>

@@ -1,0 +1,68 @@
+---
+title: "SARA Timeline"
+#author: "SARA Team"
+pagetitle: "SARA - Story"
+#date: last-modified
+toc: true
+#linestretch: 3
+backgroundcolor: "#e9e9e9"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+::: {.card}
+
+## April 2023, Launched SARA
+
+05 April 2023, SARA Institute inauguration at Terra City, Bhiwadi, Rajasthan.
+
+![Students, family & friends at the inaugration of SARA.](images/launch-sara.jpg)
+
+![First data science class at the SARA.](images/first_class1.jpg)
+
+:::
+
+<br>
+
+:::: {.card}
+## Sept 2023, Moved to Sonipat
+
+We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat.
+
+::: {layout="[[1,1], [1]]"}
+
+![](images/sonipat.png)
+
+![New office of SARA Institute, Sonipat](images/sara-sonipat.jpg)
+:::
+
+::::
+
+<br>
+
+::: {.card}
+
+## July 2024
+
+1st SARA Data Science Summer School
+
+![](images/2024summer.png)
+
+:::
+
+::: {.card}
+
+## December 2024 
+
+SARA Statistics Winter School
+
+![](images/2024winter.png)
+
+:::
+
+<br>
