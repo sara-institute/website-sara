@@ -1,8 +1,5 @@
 ---
-title: "2024 SARA Statistics Winter School"
-subtitle: "We sincerely thank all participants and supporters for their invaluable contributions to the success of the SARA Statistics Winter School Dec 2024."
 pagetitle: "SARA - Stats"
-#backgroundcolor: "#e9e9e9"
 include-in-header: 
   text: |
     <style type="text/css">
@@ -12,6 +9,10 @@ include-in-header:
     </style>
 
 ---
+
+# 2024 SARA Statistics Winter School
+
+[We sincerely thank all participants and supporters for their invaluable contributions to the success of the SARA Statistics Winter School Dec 2024.]{.p-mission}
 
 ![](images/winter2024.jpeg)
 

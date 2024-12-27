@@ -1,10 +1,10 @@
 ---
-title: "Computer Skills"
-subtitle: "SARA Institute of Data Science"
 pagetitle: "SARA - Courses"
 #author: "Dr. Kiran Lata, PhD"
 #date: last-modified
 ---
+
+# Computer Skills
 
 ::: {.col}
 ::: {.card}
