@@ -6,7 +6,7 @@ project:
 
 website:
   title: "SARA INSTITUTE"
-  favicon: "images/logo_sara.png"
+  favicon: "images/logo-sara.png"
   site-url: "https://sara-edu.netlify.app/"
   description: "We offer free & open-source data science education to underrepresented communities in India."
   twitter-card: true

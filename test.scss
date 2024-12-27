@@ -44,7 +44,7 @@ $navbar-hl: $clr-cream; //nav bar text hover color
 $link-color: $clr-tom; //#2A2121;
 
 h1{
-  //font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #000;
   font-weight: 900;
   line-height: 1.25em;
@@ -74,7 +74,7 @@ h2{
 
 //// to keep gap zero between the top and bottom bgs.
 .content {
-  margin-top: -13px;
+  margin-top: auto;
   margin-bottom: -80px;
 }
 
