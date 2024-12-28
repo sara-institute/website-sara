@@ -31,8 +31,6 @@ Kakroi Road, Sonipat.
 Haryana - 131001, India.       
 Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d17631.750001600412!2d77.0063004!3d28.9874932!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390dbb4946f90a19%3A0xafa9442f42980f24!2sDr.%20Ambedkar%20Bhawan!5e1!3m2!1sen!2sin!4v1730708429842!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 <br>
 
 **{{< fa phone >}} Phone:**<br>

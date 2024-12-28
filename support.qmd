@@ -23,7 +23,7 @@ include-in-header:
 
 ## How to Donate:
 
-> UPI ID: `919243152024@sbi`
+> UPI ID: `919253152024@sbi`
 
 ## Bank Transfer:
 
