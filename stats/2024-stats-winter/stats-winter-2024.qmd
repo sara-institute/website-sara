@@ -10,7 +10,9 @@ include-in-header:
 
 ---
 
-# 2024 SARA Statistics Winter School
+# 2024 SARA Statistics Winter School 
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/sara-institute/course-stats.git" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="GitHub Stars">GitHub Stars </a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
 [We sincerely thank all participants and supporters for their invaluable contributions to the success of the SARA Statistics Winter School Dec 2024.]{.p-mission}
 
@@ -67,7 +69,7 @@ Payment UPI ID: 919253152024@sbi
 
 **December 16 -- 20, 2024**
 
-The course modules and details are [here]().
+The course slides are [here](https://sara-course-stats.netlify.app/).
 
 :::
 

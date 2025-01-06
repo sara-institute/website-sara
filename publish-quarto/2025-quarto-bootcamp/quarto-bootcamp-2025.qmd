@@ -10,7 +10,7 @@ include-in-header:
 
 ---
 
-# Publish with Quarto 2025
+# Publish using Data Science 2025
 
 SARA Data Science Bootcamp March 2025
 
