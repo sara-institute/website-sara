@@ -1,5 +1,5 @@
 ---
-pagetitle: "SARA Institute of Data Science"
+pagetitle: "SARA | The Non-Profit Data Science Institute"
 include-in-header: 
   text: |
     <style type="text/css">

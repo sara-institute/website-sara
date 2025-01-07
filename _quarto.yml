@@ -7,10 +7,10 @@ project:
 website:
   title: "SARA INSTITUTE"
   favicon: "images/logo-sara.png"
-  site-url: "https://sara-edu.netlify.app/"
-  description: "We offer free & open-source data science education to underrepresented communities in India."
+  description: "The best data science education is free and open-source. SARA is committed to provide free data science education to under-represented communities in India."
   twitter-card: true
   image: "images/banner-sara.png"
+  site-url: "https://sara-edu.netlify.app/"
   cookie-consent: false
   # announcement: 
   #   icon: stars
@@ -22,7 +22,7 @@ website:
   
   navbar:
     search: false
-    pinned: true
+    pinned: false
     right:
       - text: Home
         href: index.qmd
@@ -44,9 +44,9 @@ website:
             href: research-methods/2025-summer-school/summer-school-2025.qmd
           - text: R Langauge
             href: r-lang/2024-r-lang/r-bootcamp-2024.qmd  
-          - text: Statistics
+          - text: Statistics using R
             href: stats/2024-stats-winter/stats-winter-2024.qmd
-          - text: Publish with Quarto
+          - text: Publish using Data Science
             href: publish-quarto/2025-quarto-bootcamp/quarto-bootcamp-2025.qmd
       - text: News & Events
         href: news.qmd
@@ -60,7 +60,7 @@ website:
         
   page-footer:
     background: "#003262"
-    left: "SARA Institute &copy; 2023-2024"
+    left: "SARA Institute &copy; 2023-2025"
     center:
       - icon: twitter-x
         href: https://twitter.com/sara_institute

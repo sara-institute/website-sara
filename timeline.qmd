@@ -13,11 +13,11 @@ include-in-header:
     </style>
 ---
 
-# SARA Timeline
+# SARA Timeline {.unnumbered .unlisted}
 
 ::: {.card}
 
-## April 2023, Launched SARA
+## April 2023
 
 05 April 2023, SARA Institute inauguration at Terra City, Bhiwadi, Rajasthan.
 
@@ -30,7 +30,7 @@ include-in-header:
 <br>
 
 :::: {.card}
-## Sept 2023, Moved to Sonipat
+## Sept 2023 
 
 We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat.
 
@@ -61,7 +61,7 @@ We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan
 
 SARA Statistics Winter School
 
-![](images/2024winter.png)
+![](images/2024winter.jpeg)
 
 :::
 
