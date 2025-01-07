@@ -21,7 +21,7 @@ include-in-header:
 
 # Mission for Community Empowerment
 
-[SARA Institute empowers under-represented communities in India through data science education. We aim to build an inclusive data science community where everyone can learn, grow, and contribute.]{.p-mission}
+[The best data science education should be free and accessible to all. At SARA, we are dedicated to empowering underrepresented communities in India through high-quality, open-source data science education. Our mission is to foster an inclusive and supportive community where everyone has the opportunity to learn, grow, and make meaningful contributions to the world of data science.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -140,7 +140,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.card}
 ## SARA Statistics Winter School December 2024 {.centering}
 
-![](images/2024winter.png)
+![](images/2024winter.jpeg)
 
 > I would like to sincerely thank Ajay Sir and Kiran Ma'am for the outstanding workshop. As someone from a social sciences background, I was initially apprehensive about learning statistics and R. However, Ajay Sir's clear and patient explanations, starting from the basics, made the concepts easy to understand and much less intimidating. He ensured that we not only understood the theoretical aspects of statistics but also gained practical experience using R, which made the entire learning process much more approachable. The overall experience was fantastic, with great accommodation and delicious food. I highly recommend this workshop to anyone looking to learn statistics and R. <br>***Sapna Kanwar, MA, JNU***
 

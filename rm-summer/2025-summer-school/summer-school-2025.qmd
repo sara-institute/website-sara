@@ -10,7 +10,7 @@ include-in-header:
 
 ---
 
-# SARA Summer School of Research Methods 2025
+# "Research Methods & Design" <br> SARA Summer School 2025
 
 ::: {.col}
 ::: {.card}

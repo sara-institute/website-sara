@@ -10,9 +10,7 @@ include-in-header:
 
 ---
 
-# Publish using Data Science 2025
-
-SARA Data Science Bootcamp March 2025
+# "Publish using Data Science" <br> SARA Data Science Bootcamp 2025
 
 ::: {.col}
 ::: {.card}
