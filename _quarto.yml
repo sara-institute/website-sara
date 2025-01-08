@@ -1,5 +1,12 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "blog/**/*.qmd"
+    - "talk/**/*.qmd"
+    - "project/**/*.qmd"
+    - "about/index.*md"
   preview: 
     browser: true
   #output-dir: docs
@@ -9,8 +16,11 @@ website:
   favicon: "images/logo-sara.png"
   site-url: "https://sara-edu.netlify.app/"
   description: "The best data science education is free and open-source. SARA is committed to provide free data science education to under-represented communities in India."
-  twitter-card: true
-  image: "images/banner-sara.png"
+  twitter-card: 
+    creator: "@sara_institute"
+    site: "@sara_institute"
+    card-style: summary_large_image
+    image: social-default.png
   cookie-consent: false
   # announcement: 
   #   icon: stars
@@ -46,7 +56,7 @@ website:
             href: r-bootcamp/2024-r-lang/r-bootcamp-2024.qmd  
           - text: Statistics using R
             href: stats-winter/2024-stats-winter/stats-winter-2024.qmd
-          - text: Publish using Data Science
+          - text: Publish using Quarto
             href: publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.qmd
       - text: News & Events
         href: news.qmd
@@ -93,3 +103,6 @@ format:
      - test.scss
     css: styles.css
     toc: false
+
+execute:
+  freeze: auto

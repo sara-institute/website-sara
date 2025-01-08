@@ -1,10 +1,9 @@
 ---
+title: "Computer Skills"
 pagetitle: "SARA - Courses"
 #author: "Dr. Kiran Lata, PhD"
 #date: last-modified
 ---
-
-# Computer Skills
 
 ::: {.col}
 ::: {.card}

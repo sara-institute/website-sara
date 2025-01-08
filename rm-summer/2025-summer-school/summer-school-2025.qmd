@@ -1,4 +1,6 @@
 ---
+title: "Research Design & Methods"
+subtitle: "SARA Data Science Summer School 2025"
 pagetitle: "SARA-RM"
 include-in-header: 
   text: |
@@ -9,8 +11,6 @@ include-in-header:
     </style>
 
 ---
-
-# "Research Methods & Design" <br> SARA Summer School 2025
 
 ::: {.col}
 ::: {.card}

@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sara-edu.netlify.app/blog.html</loc>
-    <lastmod>2024-11-05T13:24:43.543Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/privacy.html</loc>
-    <lastmod>2024-11-05T13:24:43.578Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/computer-course/computer-course.html</loc>
-    <lastmod>2024-12-27T14:37:01.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/index.html</loc>
-    <lastmod>2025-01-07T14:06:36.041Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/terms.html</loc>
-    <lastmod>2024-11-05T13:24:43.607Z</lastmod>
+    <loc>https://sara-edu.netlify.app/timeline.html</loc>
+    <lastmod>2025-01-07T07:04:53.478Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/support.html</loc>
     <lastmod>2024-12-28T04:35:48.766Z</lastmod>
   </url>
   <url>
-    <loc>https://sara-edu.netlify.app/stats-winter/2024-stats-winter/stats-winter-2024.html</loc>
-    <lastmod>2025-01-07T13:58:29.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/contact.html</loc>
-    <lastmod>2024-12-28T04:35:48.812Z</lastmod>
-  </url>
-  <url>
     <loc>https://sara-edu.netlify.app/rm-summer/2025-summer-school/summer-school-2025.html</loc>
-    <lastmod>2025-01-07T13:51:14.740Z</lastmod>
+    <lastmod>2025-01-08T12:35:56.526Z</lastmod>
   </url>
   <url>
-    <loc>https://sara-edu.netlify.app/english-course/english-course.html</loc>
-    <lastmod>2024-12-27T14:37:48.913Z</lastmod>
+    <loc>https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.html</loc>
+    <lastmod>2025-01-08T12:31:59.120Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/news.html</loc>
     <lastmod>2024-11-05T13:24:43.577Z</lastmod>
   </url>
   <url>
-    <loc>https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.html</loc>
-    <lastmod>2025-01-07T13:51:16.279Z</lastmod>
+    <loc>https://sara-edu.netlify.app/english-course/english-course.html</loc>
+    <lastmod>2025-01-08T14:19:49.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/computer-course/computer-course.html</loc>
+    <lastmod>2025-01-08T14:21:21.661Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/about.html</loc>
-    <lastmod>2024-11-05T13:24:43.542Z</lastmod>
+    <lastmod>2025-01-08T13:50:34.157Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/blog.html</loc>
+    <lastmod>2024-11-05T13:24:43.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/contact.html</loc>
+    <lastmod>2024-12-28T04:35:48.812Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/index.html</loc>
+    <lastmod>2025-01-08T14:13:09.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/privacy.html</loc>
+    <lastmod>2024-11-05T13:24:43.578Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/r-bootcamp/2024-r-lang/r-bootcamp-2024.html</loc>
-    <lastmod>2025-01-07T13:58:29.855Z</lastmod>
+    <lastmod>2025-01-08T12:27:15.409Z</lastmod>
   </url>
   <url>
-    <loc>https://sara-edu.netlify.app/timeline.html</loc>
-    <lastmod>2025-01-07T07:04:53.478Z</lastmod>
+    <loc>https://sara-edu.netlify.app/stats-winter/2024-stats-winter/stats-winter-2024.html</loc>
+    <lastmod>2025-01-08T12:35:56.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/terms.html</loc>
+    <lastmod>2024-11-05T13:24:43.607Z</lastmod>
   </url>
 </urlset>

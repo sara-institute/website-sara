@@ -1,4 +1,6 @@
 ---
+title: "Publish using Quarto"
+subtitle: "SARA Data Science Bootcamp 2025"
 pagetitle: "SARA - Publish Bootcamp"
 include-in-header: 
   text: |
@@ -10,7 +12,7 @@ include-in-header:
 
 ---
 
-# "Publish using Data Science" <br> SARA Data Science Bootcamp 2025
+
 
 ::: {.col}
 ::: {.card}

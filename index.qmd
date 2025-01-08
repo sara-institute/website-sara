@@ -9,19 +9,21 @@ include-in-header:
     </style>
 ---
 
-::: {.column-screen .banner-blue}
+::: {.banner-blue}
+::: {.column-screen}
 
-![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names."}
+![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names." }
 
 # [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
 
+:::
 :::
 
 ::: {.column-page}
 
 # Mission for Community Empowerment
 
-[The best data science education should be free and accessible to all. At SARA, we are dedicated to empowering underrepresented communities in India through high-quality, open-source data science education. Our mission is to foster an inclusive and supportive community where everyone has the opportunity to learn, grow, and make meaningful contributions to the world of data science.]{.p-mission}
+[The best data science education should be free, accessible, and transformative. At SARA, we are committed to empowering underrepresented communities in India through high-quality, open-source data science education. Our mission is to cultivate an inclusive and supportive environment where everyone has the tools and opportunities to learn, innovate, and contribute to shaping the future of data science.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
