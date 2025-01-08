@@ -1,5 +1,5 @@
 ---
-title: "Statistics using R"
+title: "<br>Statistics using R"
 subtitle: "SARA Data Science Winter School 2024"
 pagetitle: "SARA - Stats"
 include-in-header: 

@@ -1,4 +1,5 @@
 ---
+title: "<br>Support SARA"
 pagetitle: "Support"
 #page-layout: full
 #backgroundcolor: "#e9e9e9"
@@ -13,8 +14,6 @@ include-in-header:
     </style>
 
 ---
-
-# Support SARA
 
 ::: {.col}
 ::: {.card}

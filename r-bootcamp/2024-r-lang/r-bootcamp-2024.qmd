@@ -1,5 +1,5 @@
 ---
-title: "R for Beginners" 
+title: "<br>R for Beginners" 
 subtitle: "SARA Data Science Bootcamp 2024"
 #date: today
 pagetitle: "SARA - R"

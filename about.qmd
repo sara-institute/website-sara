@@ -1,4 +1,6 @@
 ---
+title: "<br>Mission"
+subtitle: "SARA for Community Empowerment"
 pagetitle: "About"
 #layout: page
 #page-layout: full
@@ -14,8 +16,6 @@ include-in-header:
     </style>
 
 ---
-
-# Mission
 
 [SARA Institute is committed to empowering underrepresented communities in India by providing accessible and high-quality data science education. Our mission is to build a vibrant, inclusive data science community where individuals from all backgrounds can thrive, innovate, and contribute to creating a better society.]{.p-mission}
 
