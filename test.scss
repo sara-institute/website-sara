@@ -72,12 +72,6 @@ h2{
   }
 }
 
-//// to keep gap zero between the top and bottom bgs.
-.content {
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
 .banner-blue {
   background-color: $clr-navyblue;
 }
@@ -251,10 +245,14 @@ h2{
 }
 
 // below important to zero top padding gap solution is from the Stackoverflow
+
+// below important to zero top padding gap solution is from the Stackoverflow
 .content {
   margin-top: -30px;
   margin-bottom: -80px;
 }
+
+//  above important to zero top padding gap solution is from the Stackoverflow
 
 .centering {
   text-align: center;
