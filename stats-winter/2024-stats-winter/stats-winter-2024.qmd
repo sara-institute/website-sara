@@ -63,6 +63,21 @@ Payment UPI ID: 919253152024@sbi
 
 ::: {.card}
 
+::: {.centering}
+
+## Check Course Slides: <https://sara-course-r4b.netlify.app/> 
+
+```{=html}
+<iframe width="780" height="500" src="https://sara-course-stats.netlify.app/" title="Webpage example"></iframe>
+```
+
+:::
+:::
+
+<br>
+
+::: {.card}
+
 ## Courses
 
 **5 Days Courses (10 AM to 1 PM & 2 PM to 5 PM; 30 Hours)**
