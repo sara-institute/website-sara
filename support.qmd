@@ -18,7 +18,7 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-## [Donations made to the SARA Institute are eligible for 80G tax exemption.]{.clr-blue}
+## [Donations made to the SARA EDUCATION TRUST are eligible for 80G tax exemption.]{.clr-blue}
 
 ## How to Donate:
 
@@ -45,7 +45,7 @@ IFSC Code: `SBIN0000721`.
 
 ## Support SARA on Social Media.
 
-<br>[{{< iconify fa6-brands:bluesky >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp;<br>[{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+<br>[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 <br>
 

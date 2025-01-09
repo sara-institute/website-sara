@@ -173,7 +173,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 future for everyone. Join us in our mission to make an impact!]{.p-mission}
 
 ::: {.button}
-[Support SARA](support.qmd)
+ {{< fa heart >}} &nbsp; [Donate to SARA](support.qmd)
 :::
 
 ::::

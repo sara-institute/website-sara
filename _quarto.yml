@@ -72,9 +72,8 @@ website:
     background: "#003262"
     left: "SARA Institute &copy; 2023-2025"
     center:
-      - icon: blue-sky
-        href: https://bsky.app/profile/sarainstitute.bsky.social
-        aria-label: Bluesky
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/sarainstitute.bsky.social  
       - icon: twitter-x
         href: https://twitter.com/sara_institute
         aria-label: Twitter
