@@ -84,10 +84,6 @@ It includes food and accommodation for nine days:
 
 ## Check Course Slides: <https://sara-course-r4b.netlify.app/> 
 
-```{=html}
-<iframe width="780" height="500" src="https://sara-course-r4b.netlify.app/" title="Webpage example"></iframe>
-```
-
 :::
 :::
 
