@@ -22,12 +22,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  # announcement: 
-  #   icon: stars
-  #   dismissable: true
-  #   content: "Registration Open for Statistics Course, December 16 - 20, 2024. [More Info](stats/2024-stats-winter/stats-winter-2024.qmd)"
-  #   type: danger
-  #   position: below-navbar
+  announcement:
+    #icon: stars
+    dismissable: true
+    content: "🎉 Registration Open for, Data Science Bootcamp March 2025. [More Info](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025)"
+    type: danger
+    position: below-navbar
   
   
   navbar:
