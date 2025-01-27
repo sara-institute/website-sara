@@ -18,7 +18,25 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-## Nov 2, 2024
+## 28 May 2024
+
+On behalf of the entire **SARA Institute of Data Science** team, we extend our deepest gratitude to the **Food Technology Department** at **Guru Jambheshwar University, Hisar**, for graciously hosting us for the Data Science Workshop.  
+
+A special thanks to **Dr. Prof. Manish Kumar**, Head of the Department, for your unwavering support, vision, and leadership in fostering innovation and learning. Your team's enthusiasm and collaborative spirit made the event an incredible success!  
+
+We are honored to have had the opportunity to share insights and empower students with data science knowledge. Looking forward to more collaborations and impactful learning experiences in the future!  
+
+::: {layout-ncol=2}
+
+![](images/gju1.jpg)
+
+![](images/gju2.jpg)
+
+:::
+
+------
+
+## 2 November 2024
 
 We at SARA Institute would like to extend our heartfelt gratitude to [*The News Beak*](https://www.youtube.com/c/thenewsbeak) for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like *The News Beak* not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.
 

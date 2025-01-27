@@ -29,7 +29,7 @@ include-in-header:
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGbZquWzf8&#x2F;63DuPd5ot0N2kRrxoFSUMw&#x2F;view?utm_content=DAGbZquWzf8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">flyer-sara-bootcamp-march-2025</a> by Sara Institute
 
 
-###  [To Print, Download the Flyer above. {{< fa file-pdf >}}](march-bootcamp-sara.pdf)
+###  [To Print, Download the Flyer above. {{< fa file-pdf >}}](flyer-sara-bootcamp-march-2025.pdf)
 
 <br>
 
