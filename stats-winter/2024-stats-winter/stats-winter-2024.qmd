@@ -1,6 +1,11 @@
 ---
-title: "<br>Statistics using R"
-subtitle: "SARA Data Science Winter School 2024"
+title: |
+    <br>Statistics using R \
+    \
+    SARA Data Science Winter School Dec 2024 \
+    \
+    Free for All \
+subtitle: ""
 pagetitle: "SARA - Stats"
 include-in-header: 
   text: |
@@ -42,20 +47,14 @@ The classes were offered physically in-person at the SARA Institute, Dr. Ambedka
 
 [THERE IS NO TUITION FEE.]{.clr-navyblue}
 
-[FOR FOOD AND ACCOMMODATION PAY Rs. 6000.]{.clr-navyblue}
-
 *15 December: Arrival of the participants.*
 
 *16 to 20 December: Classes for the participants.*
 
 *21 December: Departure of the participants.*
 	
-### [Total 12 participants were given a 40% discount on food & accommodation for the SARA Statistics Winter School 2024.]{.clr-tom}	
-
 <br>
 	
-Payment UPI ID: 919253152024@sbi
-
 :::
 :::
 
@@ -80,8 +79,6 @@ Payment UPI ID: 919253152024@sbi
 
 **December 16 -- 20, 2024**
 
-The course slides are [here](https://sara-course-stats.netlify.app/).
-
 :::
 
 
@@ -91,17 +88,9 @@ The course slides are [here](https://sara-course-stats.netlify.app/).
 
 ## Fee
 
-**There is no tuition fee for any participant.** The fee of Rs. 6000 includes only the food and accommodation for five days (December 16 - 20) at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+**There is no tuition fee for any participant.**
 
-## Cancellation Policy
-
-  - Registered participants requesting to withdraw from the SARA Winter School within two weeks of payment receive a full refund of the food and accommodation fees less an administrative charge of 500 INR.
-  
-  - Withdrawals received more than two weeks after payment has been made and before **[Sunday, November 10, 2024]{.clr-blue}**, receive a 50% refund. No refunds will be given for withdrawals after **[Sunday, November 10, 2024]{.clr-blue}**.
-  
-  - Registered participants on winter school canceled by the SARA Institute will be offered a full refund of their food and accommodation fees.
-  
-  - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Winter School.
+The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Winter School.
   
 **For further details about the winter school, courses, instructors, financial assistance, food, and accommodation please contact:**
 
@@ -121,6 +110,7 @@ Know about our previous data science [training](summer.html).
 
 :::
 
+<br>
 
 ::: {.card}
 
@@ -150,28 +140,6 @@ Enjoy vegetarian meals served for breakfast, lunch, and dinner.
 - For Male Participants: Two male participants will be comfortably lodged in a "male only" sharing room within the premises. Additionally, they will have access to a "male only" shared bathroom for their comfort and convenience.
 
 We are committed to making your stay enjoyable and memorable. Should you have any special requirements or concerns, please don't hesitate to reach out to our team. We look forward to hosting you and creating wonderful memories together at Dr. Ambedkar Bhawan. 
-
-## Travel Guidelines
-
-Here are some travel guidelines to reach Sonipat, Haryana:
-
-**By Air:**
-The nearest airport to Sonipat is Indira Gandhi International Airport (DEL) in New Delhi, which is approximately 75 kilometers away. From the airport, you can hire a taxi or take a bus to reach Sonipat.
-
-**By Train:**
-Sonipat is well-connected by rail to major cities across India. The Sonipat Railway Station is situated on the Northern Railway network and serves as an important junction. You can check for trains to Sonipat from your departure point and book tickets accordingly.
-
-**By Road:**
-Sonipat is easily accessible by road, with well-maintained highways connecting it to nearby cities like Delhi, Chandigarh, and Jaipur. You can either drive to Sonipat or opt for bus services operated by state transport or private operators. 
-
-- If you're coming from Delhi, you can take NH44 or NH9 to reach Sonipat, which is approximately a 1.5 to 2-hour drive depending on traffic conditions.
-- From Chandigarh, you can take NH44 via Ambala and continue towards Sonipat.
-- If you're traveling from Jaipur, you can take NH48 and NH352A to reach Sonipat.
-
-**Local Transportation:**
-Once you reach Sonipat, you can easily get around the city using auto-rickshaws, cycle rickshaws, or taxis. Public buses also ply on various routes within the city and to nearby areas.
-
-Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
 
 :::
 

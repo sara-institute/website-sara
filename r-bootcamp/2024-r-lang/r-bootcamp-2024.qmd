@@ -1,16 +1,12 @@
 ---
-title: "<br>R for Beginners" 
-subtitle: "SARA Data Science Bootcamp 2024"
-#date: today
+title: |
+    <br>R for Beginners \
+    \
+    SARA Data Science Bootcamp July 2024\
+    \
+    Free for All \
+subtitle: ""
 pagetitle: "SARA - R"
-links:
-  - icon: file-sldies-fill
-    name: Slides
-    url: https://sara-course-r4b.netlify.app/
-  - icon: github
-    name: Code
-    url: https://github.com/gadenbuie/slides/tree/gh-pages/bslib-modern-dashboards
-    
 include-in-header: 
   text: |
     <style type="text/css">
@@ -57,22 +53,12 @@ The classes were offered physically in-person at the SARA Institute, Dr. Ambedka
 
 [THERE IS NO TUITION FEE.]{.clr-blue}
 
-[FOR FOOD AND ACCOMMODATION PAY Rs. 6000-/.]{.clr-blue}
-
-It includes food and accommodation for nine days:
-
 *20 & 21 July: Arrival of the participants.*
 
 *22 to 26 July: Classes of the participants.*
 
 *27 & 28 July: Departure of the participants.*
 	
-### [~~A 40% Discount for First 15 Participants is over.~~]{.clr-red}	
-	
-[Payment Link](https://razorpay.me/@sarainstitute)
-
-[Registration Link](https://forms.gle/5xtQCMtAyZDSpfMQ9)
-
 :::
 :::
 

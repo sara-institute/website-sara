@@ -40,7 +40,7 @@ include-in-header:
 
 # Inclusive Education
 
-[All our courses are free and open-source for every student.]{.p-mission}
+[All Our Courses are Free and Open-source for Every Student.]{.p-mission}
 
 <br>
 
@@ -110,9 +110,9 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::::: {.column-screen .banner-cream}
 
-# Data Science Trainings
+# Free Data Science Trainings
 
-[Four annual week-long residential trainings of data science and research.]{.p-mission}
+[Four Annual Week-long Residential Trainings of Data Science and Research.]{.p-mission}
 
 :::: {.feedback-layout-grid }
 

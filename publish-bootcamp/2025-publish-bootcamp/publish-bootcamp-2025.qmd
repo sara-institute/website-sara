@@ -1,6 +1,11 @@
 ---
-title: "<br>Publish using Quarto"
-subtitle: "SARA Data Science Bootcamp 2025"
+title: |
+    <br>Publish using [**Quarto**](https://quarto.org/) \
+    \
+    SARA Data Science Bootcamp, 3-7 Mar 2025 \
+    \
+    Free for All \  
+subtitle: "**Registration Link:** [www.tinyurl.com/2yz55t96](www.tinyurl.com/2yz55t96)"
 pagetitle: "SARA - Quarto Bootcamp"
 include-in-header: 
   text: |
@@ -12,9 +17,19 @@ include-in-header:
 
 ---
 
-![](images/march-bootcamp-sara.png){width="70%"}
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/sara-institute/course-publish-quarto" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
-###  [Download Above Flyer {{< fa file-pdf >}}](march-bootcamp-sara.pdf)
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGbZquWzf8/63DuPd5ot0N2kRrxoFSUMw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGbZquWzf8&#x2F;63DuPd5ot0N2kRrxoFSUMw&#x2F;view?utm_content=DAGbZquWzf8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">flyer-sara-bootcamp-march-2025</a> by Sara Institute
+
+
+###  [To Print, Download the Flyer above. {{< fa file-pdf >}}](march-bootcamp-sara.pdf)
 
 <br>
 
@@ -23,51 +38,28 @@ include-in-header:
 
 This hands-on bootcamp will equip you with the skills to create professional documents, websites, blogs, and reports using [Quarto](https://quarto.org/) – a powerful open-source publishing tool. Whether you’re a researcher, student, or professional, this is your chance to level up your publishing game!
 
-All participants receive an ungraded certificate of attendance on the last day of the SARA Data Science Bootcamp. 
+## {{< fa chalkboard-user >}} What You’ll Learn:
+1. Craft stunning theses, reports, documents, and research articles with ease.  
+2. Design and develop interactive websites and engaging blogs.  
+3. Elevate your presentations and storytelling skills.  
+4. Leverage GitHub for collaboration and version control.
 
-Participants should bring their own laptop.
+## {{< fa calendar-days >}} Schedule
+- Sun 2 March : Arrival of the participants.   
+- 03 to 07 March: Classes for the participants.     
+- Sat 08 March: Departure of the participants.      
 
-## What You’ll Learn:
+## {{< fa list-check >}} Note:
 
-1. Craft beautiful reports and documents.
+- Participants should bring their own **laptop**.
 
-1. Build interactive websites and blogs.
+- [Participants from **Under-represented Communities** will be Prioritized for Selection.]{.clr-blue}
 
-1. Enhance your presentations and storytelling.
-
-## Schedule
-
-- Sun 2 March : Arrival of the participants.
-
-- 03 to 07 March: Classes for the participants.
-
-- Sat 08 March: Departure of the participants.
-
-## Payment
-
-> UPI ID: `919253152024@sbi`
-
-[There is no tuition fee. For a week food and accommodation pay Rs. 6000 only.]{.clr-navyblue}
-
-**Special Offer! The first 10 participants get a 10% discount, so don’t wait!**
-
-## Registration
-
-> Registration Link: [www.tinyurl.com/2yz55t96](http://tinyurl.com/2yz55t96)
-
-💥 **[Participants from Under-represented Communities will be Prioritized for Selection]{.clr-blue}**
-
-## Cancellation Policy
-
-  - Registered participants requesting to withdraw from the SARA Data Science Bootcamp within two weeks of payment receive a full refund of the food and accommodation fees less an administrative charge of 500 INR.
+- [The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Data Science Bootcamp 2025.]{.clr-tom}
   
-  - Withdrawals received more than two weeks after payment has been made and before **[Feb 10, 2025]{.clr-blue}**, receive a 50% refund. No refunds will be given for withdrawals after **[Feb 10, 2025]{.clr-blue}**.
-  
-  - Registered participants on SARA Data Science Bootcamp canceled by the SARA Institute will be offered a full refund of their food and accommodation fees.
-  
-  - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Data Science Bootcamp.
-  
-**For further details about the bootcamp, courses, instructors, financial assistance, food, and accommodation please contact:**
+- All participants receive an ungraded **certificate** of attendance after a few weeks of the SARA Data Science Bootcamp. 
+
+For further details about the bootcamp, courses, instructors, financial assistance, food, and accommodation please contact:
 
 {{< fa envelope >}} `sara.institute.info@gmail.com`.
 
@@ -91,7 +83,7 @@ Know about our previous data science trainings, [R for Beginners](https://sara-e
 
 **Heartfelt Thanks to Ambedkar Educational Society, Sonipat** 
 
-We extend our deepest gratitude to **The Ambedkar Educational Society, Sonipat**, for their generous collaboration and unwavering support in making the **"Publish Using Quarto" Bootcamp** a reality.
+We extend our deepest gratitude to **The Ambedkar Educational Society, Sonipat**, for their generous support in making the **"Publish Using Quarto" Bootcamp** a reality.
 
 Your kindness in providing teaching spaces and accommodation for the participants has been instrumental in ensuring the success of this event. Your commitment to fostering education and learning inspires us all!
 
