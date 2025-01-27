@@ -5,7 +5,7 @@ title: |
     SARA Data Science Bootcamp, 3-7 Mar 2025 \
     \
     Free for All \  
-subtitle: "**Registration Link:** [www.tinyurl.com/2yz55t96](www.tinyurl.com/2yz55t96)"
+subtitle: "**Registration Link:** [https://tinyurl.com/3jup8vep](https://tinyurl.com/3jup8vep)"
 pagetitle: "SARA - Quarto Bootcamp"
 include-in-header: 
   text: |
