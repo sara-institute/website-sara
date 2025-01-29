@@ -38,24 +38,28 @@ include-in-header:
 
 This hands-on bootcamp will equip you with the skills to create professional documents, websites, blogs, and reports using [Quarto](https://quarto.org/) – a powerful open-source publishing tool. Whether you’re a researcher, student, or professional, this is your chance to level up your publishing game!
 
-## {{< fa chalkboard-user >}} What You’ll Learn:
-1. Craft stunning theses, reports, documents, and research articles with ease.  
-2. Design and develop interactive websites and engaging blogs.  
-3. Elevate your presentations and storytelling skills.  
-4. Leverage GitHub for collaboration and version control.
+{{< fa hotel >}} [**Limited Accommodation:** Accommodation is available on a limited basis. Please contact us as early as possible to secure your space.]{style="color:#008080"}
 
-## {{< fa calendar-days >}} Schedule
+{{< fa pizza-slice >}} [**No Food Arrangements**: SARA EDUCATION TRUST will not be providing food to participants during the Quarto workshop. However, there are several good dining options available nearby for your convenience.]{.clr-blue}  
+
+## [{{< fa chalkboard-user >}} What You’ll Learn:]{style="color:#008080"}
+1. Write stunning theses, reports, documents, and research articles with ease.  
+2. Design and develop interactive websites and engaging blogs.  
+3. Improve your presentations and storytelling skills.  
+4. Learn GitHub for collaboration and version control.
+
+## [{{< fa calendar-days >}} Schedule]{style="color:#008080"}
 - Sun 2 March : Arrival of the participants.   
 - 03 to 07 March: Classes for the participants.     
 - Sat 08 March: Departure of the participants.      
 
-## {{< fa list-check >}} Note:
+## [{{< fa list-check >}} Kindly Note:]{style="color:#008080"}
 
 - Participants should bring their own **laptop**.
 
-- [Participants from **Under-represented Communities** will be Prioritized for Selection.]{.clr-blue}
+- Participants from **Under-represented Communities** will be Prioritized for Selection.
 
-- [The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Data Science Bootcamp 2025.]{.clr-tom}
+- The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Data Science Bootcamp 2025.
   
 - All participants receive an ungraded **certificate** of attendance after a few weeks of the SARA Data Science Bootcamp. 
 
