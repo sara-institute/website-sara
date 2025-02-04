@@ -17,7 +17,7 @@ include-in-header:
 
 ---
 
-[SARA Institute is committed to empowering underrepresented communities in India by providing accessible and high-quality data science education. Our mission is to build a vibrant, inclusive data science community where individuals from all backgrounds can thrive, innovate, and contribute to creating a better society.]{.p-mission}
+[SARA Institute is committed to empower all communities in India by providing accessible and high-quality data science education. Our mission is to build a vibrant, inclusive data science community where individuals from all backgrounds can thrive, innovate, and contribute to creating a better society.]{.p-mission}
 
 <br>
 
@@ -32,7 +32,7 @@ include-in-header:
 
 ## Educating Tomorrow's Data Scientists
 
-At SARA Institute, we believe in the transformative power of education to unlock potential and drive meaningful change. Our mission is to provide data science and skill-based education to underserved communities, empowering individuals to shape their futures and uplift their communities.  
+At SARA Institute, we believe in the transformative power of education to unlock potential and drive meaningful change. Our mission is to provide data science and skill-based education to all communities, empowering individuals to shape their futures and uplift their communities.  
 
 Rooted in the principles of equity and access, SARA is dedicated to breaking down barriers to learning. We ensure that everyone, regardless of their background or circumstances, has the opportunity to acquire knowledge, develop skills, and thrive.  
 

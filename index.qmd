@@ -23,7 +23,7 @@ include-in-header:
 
 # Mission for Community Empowerment
 
-[The best data science education should be free, accessible, and transformative. At SARA, we are committed to empowering underrepresented communities in India through high-quality, open-source data science education. Our mission is to cultivate an inclusive and supportive environment where everyone has the tools and opportunities to learn, innovate, and contribute to shaping the future of data science.]{.p-mission}
+[The best data science education should be free, accessible, and transformative. At SARA, we are dedicated to empowering communities across India by providing high-quality, open-source data science education. Our mission is to create an inclusive and supportive learning environment where everyone has the tools, knowledge, and opportunities to innovate and contribute to the future of data science.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -169,8 +169,8 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Our Community, Our Strength
 
-[At SARA, our community is the heart of everything we do. <br>We empower individuals from under-represented backgrounds, creating opportunities to learn, grow and succeed together. By collaboration and mutual support, we are building a brigher 
-future for everyone. Join us in our mission to make an impact!]{.p-mission}
+[At SARA, people are at the heart of everything we do.
+We empower individuals from all backgrounds, creating opportunities to learn, grow, and thrive together. Through collaboration and mutual support, we are building a brighter, more inclusive future. Join us in making a lasting impact!]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate to SARA](support.qmd)
@@ -184,7 +184,7 @@ future for everyone. Join us in our mission to make an impact!]{.p-mission}
 
 # Thank You!
 
-[A community organization is built by happy & well-supported people.]{.p-mission}
+[An enlighted organization is built by understanding and love.]{.p-mission}
 
 [Thank you for being a part of the SARA!]{.p-mission}
 
@@ -215,7 +215,7 @@ future for everyone. Join us in our mission to make an impact!]{.p-mission}
 
 <br>
 
-[Your support and participation<br> are invaluable as we embark on this journey together.]{.p-mission}
+[Your support is invaluable as we travel this journey together.]{.p-mission}
 
 
 [Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Support](support.qmd) &nbsp; [Contact](contact.qmd)
