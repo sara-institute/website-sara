@@ -27,11 +27,11 @@ $clr-tom:        #ef4338;
 $font-family-sans-serif: "Poppins", sans-serif;
 
 //$font-size-root: 1.6rem;
-$font-size-base: 1.1rem; 
+$font-size-base: 1.10rem; 
 $font-size-sm:  $font-size-base * 0.875 !default;
 $font-size-lg:  $font-size-base * 1.25 !default; // font size of home top logo
 
-$h1-font-size: $font-size-base *2;
+$h1-font-size: $font-size-base *2.15;
 $h2-font-size: $font-size-base *1.45;
 $h3-font-size: $font-size-base *1.25;
 $h4-font-size: $font-size-base *1.20;
@@ -81,8 +81,14 @@ h2{
   padding: .7777777789em 0em 0em;
 }
 
+.banner-white {
+  background-color: $clr-white;
+  //padding: .7777777789em 0em 0em;
+}
+
 .p-mission {
   font-size: $font-size-base *1.20;
+  //text-transform: capitalize;
   font-weight: 100;
   //font-family: "Noto", Sans-Serif;
   line-height: 200%;

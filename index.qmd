@@ -23,7 +23,7 @@ include-in-header:
 
 # Mission for Community Empowerment
 
-[The best data science education should be free, accessible, and transformative. At SARA, we are dedicated to empowering communities across India by providing high-quality, open-source data science education. Our mission is to create an inclusive and supportive learning environment where everyone has the tools, knowledge, and opportunities to innovate and contribute to the future of data science.]{.p-mission}
+[The best data science education should be free, accessible, and transformative. Our mission is to create an inclusive and supportive learning environment where everyone has the tools, knowledge, and opportunities to innovate and contribute to the future of data science and AI.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -40,7 +40,7 @@ include-in-header:
 
 # Inclusive Education
 
-[All Our Courses are Free and Open-source for Every Student.]{.p-mission}
+[Our Courses are Open to Everyone, Free for All.]{.p-mission}
 
 <br>
 
@@ -129,11 +129,11 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 > First of all thank you so much for a brilliant workshop. Dr. Ajay sir has a great sense of humour which makes the lecture very accessible. Thanks a lot for making data science interesting. I learned a lot and have a wonderful time with everyone. The study material used in the workshop is outstanding, teaching style is clear, beautiful and nice. This was a fabulous event. Thank you!<br>***Akansha Singh, MSc Bioinformatics, UP***
 
-> At first, I want to congratulate Dr. Koli for successfully conducting this 5 days workshop in data science. There were several doubts in my mind about the workshop initially, but form the first day, I felt that it is the right place for beginners who want to start learning R programming. I have one constructive feedback please arragne the next workshop as early as possible, extending it to the ten days at the next level where we finished. I will definitely attend the workshop.<br>***Shibu Das, PhD Scholar, JNU***
+<!-- > At first, I want to congratulate Dr. Koli for successfully conducting this 5 days workshop in data science. There were several doubts in my mind about the workshop initially, but form the first day, I felt that it is the right place for beginners who want to start learning R programming. I have one constructive feedback please arragne the next workshop as early as possible, extending it to the ten days at the next level where we finished. I will definitely attend the workshop.<br>***Shibu Das, PhD Scholar, JNU*** -->
 
-> During five days summer program I learned a lot and have great time with everyone. By joining this summer workshop I believe it will enhance my research skills and technical knowledge. I appreciate SARA Institute for conducting such type of workshops for the community. I wish you (Dr. Koli & Dr. Kiran) all the very best for reaching your goal. You are doing great work for minor community children to reach their goal. Hoping and wishing you will reach your goal soon. We will be with you in your journey.<br>***Chandan Soren, PhD Scholar, JNU***
+<!-- > During five days summer program I learned a lot and have great time with everyone. By joining this summer workshop I believe it will enhance my research skills and technical knowledge. I appreciate SARA Institute for conducting such type of workshops for the community. I wish you (Dr. Koli & Dr. Kiran) all the very best for reaching your goal. You are doing great work for minor community children to reach their goal. Hoping and wishing you will reach your goal soon. We will be with you in your journey.<br>***Chandan Soren, PhD Scholar, JNU*** -->
 
-> It is good and new thing for everyone. Things are not easy in R for me. But I hope it will work better with the help of classes. All the arrangement is good. Good luck SARA!<br>***Tamana Bhatia, MA Geography, HR***
+<!-- > It is good and new thing for everyone. Things are not easy in R for me. But I hope it will work better with the help of classes. All the arrangement is good. Good luck SARA!<br>***Tamana Bhatia, MA Geography, HR*** -->
 
 :::
 :::
@@ -149,9 +149,9 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 > I really enjoyed the workshop. It is a full package that teaches us to integrate three skills: understanding Research Methodology, knowledge of statistics and use of R for data analysis. To teach all these skills in five days is a tedious task and Dr Ajay Kohli has done a commendable job. Facilities for food and  accommodation are wonderful. Overall, it is a great opportunity for the marginalized to keep themselves relevant in the dynamic world.<br>***Dharmanshu Dhakar, PhD Scholar, MP***
 
->  I want to share my experience of the workshop. Firstly, the workshop was especially organised for the students from the marginalised sections which itself is a great contribution towards the society. The workshop was charged nominally and also provided scholarship for few students. Secondly, the teacher, Dr. Ajay Koli, who is also the executive director of the SARA institute is a very dedicated teacher. Along with his proficiency in data science, he also knows how to make difficult topic easy to understand. Third, the learning experience was very good. We get to learn about Research Methodology, Statistics and data analysis in R. We all know, how important it is to understand data in the new data driven world. All the number of lectures and hours sessions are very well designed. Fourth, I should definitely talk about the food and staying arrangements, all things were top notch. Timely food, blankets and warm water for bathing, everything was there. And lastly, the atmosphere of the Institute was very good. Dr. Ajay sir, Dr. Kiran and lovely Kiara, all now felt like an extended family. I would definitely attend the next workshop and recommend this workshop to others also. I am very thankful to the SARA team for making this workshop fruitful to me. Thank you.<br>***Mahavir Bhagat, PhD Scholar, JNU***
+<!-- >  I want to share my experience of the workshop. Firstly, the workshop was especially organised for the students from the marginalised sections which itself is a great contribution towards the society. The workshop was charged nominally and also provided scholarship for few students. Secondly, the teacher, Dr. Ajay Koli, who is also the executive director of the SARA institute is a very dedicated teacher. Along with his proficiency in data science, he also knows how to make difficult topic easy to understand. Third, the learning experience was very good. We get to learn about Research Methodology, Statistics and data analysis in R. We all know, how important it is to understand data in the new data driven world. All the number of lectures and hours sessions are very well designed. Fourth, I should definitely talk about the food and staying arrangements, all things were top notch. Timely food, blankets and warm water for bathing, everything was there. And lastly, the atmosphere of the Institute was very good. Dr. Ajay sir, Dr. Kiran and lovely Kiara, all now felt like an extended family. I would definitely attend the next workshop and recommend this workshop to others also. I am very thankful to the SARA team for making this workshop fruitful to me. Thank you.<br>***Mahavir Bhagat, PhD Scholar, JNU*** -->
 
-> The SARA Statistics Winter School of 2024 was a wonderful and exciting endeavour of learning, collaborating, and engaging with different perspectives and viewpoints of Ajay sir and my dear participants who gave various insights and inputs on numerous topics. ... This would have not been possible for students coming from marginalized and under-represented groups in India in such a cost-effective manner, with all the necessary infrastructure, accomodation and food. I would also like to thank all the sponsors who contributed their savings for us. I sincerely thank the SARA Institute and team for making this 5-day winter school an enthralling and fantastic experience filled with knowledge, experience and wisdom. Lastly, I would like to see the SARA Institute making milestones in the future of data science education in India and abroad and bring out brilliant data scientists and engineers with your collective efforts. Thanks & Regards<br>***Yashang Jambhulkar, BA, Maharashtra***
+<!-- > The SARA Statistics Winter School of 2024 was a wonderful and exciting endeavour of learning, collaborating, and engaging with different perspectives and viewpoints of Ajay sir and my dear participants who gave various insights and inputs on numerous topics. ... This would have not been possible for students coming from marginalized and under-represented groups in India in such a cost-effective manner, with all the necessary infrastructure, accomodation and food. I would also like to thank all the sponsors who contributed their savings for us. I sincerely thank the SARA Institute and team for making this 5-day winter school an enthralling and fantastic experience filled with knowledge, experience and wisdom. Lastly, I would like to see the SARA Institute making milestones in the future of data science education in India and abroad and bring out brilliant data scientists and engineers with your collective efforts. Thanks & Regards<br>***Yashang Jambhulkar, BA, Maharashtra*** -->
 
 :::
 :::
@@ -160,17 +160,16 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 <br>
 :::::
 
-:::: {.column-screen}
+:::: {.column-screen .banner-white}
 
 ![](images/visit-lehrara.png)
 ::::
 
-:::: {.column-page}
+:::: {.column-page .banner-white}
 
-# Our Community, Our Strength
+# Your Support, Our Strength
 
-[At SARA, people are at the heart of everything we do.
-We empower individuals from all backgrounds, creating opportunities to learn, grow, and thrive together. Through collaboration and mutual support, we are building a brighter, more inclusive future. Join us in making a lasting impact!]{.p-mission}
+[At SARA, people are at the heart of everything we do. Through collaboration and mutual support, we are building a brighter, more inclusive future.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate to SARA](support.qmd)
@@ -184,9 +183,9 @@ We empower individuals from all backgrounds, creating opportunities to learn, gr
 
 # Thank You!
 
-[An enlighted organization is built by understanding and love.]{.p-mission}
+[An Enlighted Organization is Built by Understanding and Love.]{.p-mission}
 
-[Thank you for being a part of the SARA!]{.p-mission}
+[Thank you for Being a Part of the SARA!]{.p-mission}
 
 <br>
 
@@ -215,7 +214,7 @@ We empower individuals from all backgrounds, creating opportunities to learn, gr
 
 <br>
 
-[Your support is invaluable as we travel this journey together.]{.p-mission}
+[With Your Support, We Build SARA for a Brighter Future.]{.p-mission}
 
 
 [Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Support](support.qmd) &nbsp; [Contact](contact.qmd)
