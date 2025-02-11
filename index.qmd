@@ -21,9 +21,9 @@ include-in-header:
 
 ::: {.column-page}
 
-# Mission for Community Empowerment
+# Our Mission 
 
-[The best data science education should be free, accessible, and transformative. Our mission is to create an inclusive and supportive learning environment where everyone has the tools, knowledge, and opportunities to innovate and contribute to the future of data science and AI.]{.p-mission}
+[The Best Data Science Education should be Free, Accessible, and Transformative. Our mission is to Democratise Data Science through Education, Open Tools, and Community Collaboration.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -169,7 +169,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Your Support, Our Strength
 
-[At SARA, people are at the heart of everything we do. Through collaboration and mutual support, we are building a brighter, more inclusive future.]{.p-mission}
+[At SARA, People are at the Heart of Everything we do. Through Collaboration and Mutual Support, we are Building a Brighter, more Inclusive Future.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate to SARA](support.qmd)
