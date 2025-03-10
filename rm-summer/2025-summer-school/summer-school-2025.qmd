@@ -1,6 +1,11 @@
 ---
-title: "<br>Research Design & Methods"
-subtitle: "SARA Data Science Summer School 2025"
+title: |
+    <br>Research Design & Methods \ 
+    \
+    SARA Data Science Summer School <br> 23-27 June 2025 \
+    \
+    Fee: Rs. 6,000 \
+subtitle: ""
 pagetitle: "SARA-RM"
 include-in-header: 
   text: |

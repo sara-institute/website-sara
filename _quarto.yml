@@ -22,12 +22,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  announcement:
+  #announcement:
     #icon: stars
-    dismissable: true
-    content: "Registration Open for 🎉 **FREE** Data Science Bootcamp March 2025. [More Info](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025)"
-    type: danger
-    position: below-navbar
+    #dismissable: true
+    #content: "Registration Open for 🎉 **FREE** Data Science Bootcamp March 2025. [More Info](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025)"
+    #type: danger
+    #position: below-navbar
   
   
   navbar:

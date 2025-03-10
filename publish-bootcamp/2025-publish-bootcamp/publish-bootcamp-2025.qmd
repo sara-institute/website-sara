@@ -2,10 +2,10 @@
 title: |
     <br>Publish using [**Quarto**](https://quarto.org/) \
     \
-    SARA Data Science Bootcamp, 3-7 Mar 2025 \
+    SARA Data Science Bootcamp <br> 3-7 Mar 2025 \
     \
-    Free for All \  
-subtitle: "**Registration Link:** [https://tinyurl.com/3jup8vep](https://tinyurl.com/3jup8vep)"
+    Open to All, Free for All \  
+#subtitle: "**Registration Link:** [https://tinyurl.com/3jup8vep](https://tinyurl.com/3jup8vep)"
 pagetitle: "SARA - Quarto Bootcamp"
 include-in-header: 
   text: |
@@ -19,6 +19,10 @@ include-in-header:
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/sara-institute/course-publish-quarto" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
+[🎉 SARA Data Science Bootcamp Successfully Completed! 🎉]{.p-mission}
+
+![](images/students-march25.jpg)
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -29,7 +33,7 @@ include-in-header:
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGbZquWzf8&#x2F;63DuPd5ot0N2kRrxoFSUMw&#x2F;view?utm_content=DAGbZquWzf8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">flyer-sara-bootcamp-march-2025</a> by Sara Institute
 
 
-###  [To Print, Download the Flyer above. {{< fa file-pdf >}}](flyer-sara-bootcamp-march-2025.pdf)
+<!-- ###  [To Print, Download the Flyer above. {{< fa file-pdf >}}](flyer-sara-bootcamp-march-2025.pdf) -->
 
 <br>
 
