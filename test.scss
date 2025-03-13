@@ -161,7 +161,7 @@ h2{
 
 @media (min-width: 800px) {
   .feedback-layout-grid {
-    grid-template-columns: 0.5fr 1.5fr 1.5fr 0.5fr; //the first and the last values control the left and right margin space
+    grid-template-columns: 0.25fr 1fr 1fr 1fr 0.25fr; //the first and the last values control the left and right margin space
   }
 }
 

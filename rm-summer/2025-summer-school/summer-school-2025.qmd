@@ -1,12 +1,9 @@
 ---
 title: |
-    <br>Research Design & Methods \ 
-    \
-    SARA Data Science Summer School <br> 23-27 June 2025 \
-    \
-    Fee: Rs. 6,000 \
-subtitle: ""
-pagetitle: "SARA-RM"
+    <br>[Summer School 2025: Research Design & Methods]{style="color:#228B22"}\
+#subtitle: "SARA Summer School, 23-27 June 2025"
+pagetitle: "SARA RM"
+toc: false
 include-in-header: 
   text: |
     <style type="text/css">
@@ -14,23 +11,72 @@ include-in-header:
         border-bottom: none;
       }
     </style>
-
 ---
 
-::: {.col}
-::: {.card}
+[Join us this June 2025 for our immersive summer school program, "Research Design & Methods: From Theory to Practice using R." This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
 
-## More Information Coming Soon!
+:::: col
+::: card
+## [What to Expect:]{style="color:#228B22"}
 
-Thank you for your interest in our upcoming courses at the **SARA Institute of Data Science**! We are currently preparing all the details and will be sharing them with you very soon. 
+-   **Hands-On Learning**: Dive into practical sessions that bridge the gap between theoretical knowledge and real-world application.
+-   **Expert Guidance**: Learn from experienced instructors who will guide you through every step of the research process.
+-   **Collaborative Environment**: Engage with fellow participants and build a network of peers passionate about data-driven research.
+-   **Inclusive and Accessible**: Our program is open to everyone, regardless of background or experience level.
 
-Stay tuned for updates on course schedules, registration details, and how you can participate in our exciting programs!
+## [Why Attend?]{style="color:#228B22"}
 
-In the meantime, feel free to explore our other offerings or reach out to us with any questions. We can’t wait to help you on your learning journey!
+-   **Enhance Your Skills**: Gain proficiency in research design, data analysis, and the use of R for statistical computing.
+-   **Boost Your Career**: Acquire valuable skills that are in high demand across various industries.
+-   **Make an Impact**: Learn how to apply research methods to address real-world challenges and drive meaningful change.
+
+## [Program Details:]{style="color:#228B22"}
+
+-   **Dates**: 22-28 June 2025
+-   **Duration**: 7 days
+-   **Fee**: ₹6,000 INR (Inclusive of food and accommodation)
+-   **Early Bird Discount**: The first 10 registered participants will receive a 25% discount!
+-   **Payment**: You can secure your spot by making the payment via UPI. Our UPI ID is `919253152024@sbi`.
+-   **Location**: SARA Institute, Dr. Ambedkar Bhavan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001.
+
+As a non-profit organization, SARA is committed to making education accessible to all. The fee covers only the essential costs of food and accommodation, ensuring that everyone has the opportunity to participate.
+
+Don't miss this opportunity to advance your research capabilities and join a community of like-minded individuals. Register now and take the first step towards mastering research design and methods with R!
+
+## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c>
+
+For more information, please contact us at [sara.institute.info\@gmail.com](mailto:sara.institute.info@gmail.com){.email} or call us 925 315 2024.
+
+We look forward to seeing you at the summer school!
+:::
+::::
 
 <br>
 
+:::: col
+::: card
+## [Schedule]{style="color:#228B22"}
+
+Arrival of participants on Sunday 22 June 2025.
+
+| Day | Date        | Topics                                       | Hours |
+|-----|-------------|:---------------------------------------------|-------|
+| 1   | Mon 23 June | Foundations + Ethics                         | 5     |
+| 2   | Tue 24 June | Quantitative Methods (Experiments & Surveys) | 8     |
+| 3   | Wed 25 June | Qualitative Methods                          | 6     |
+| 4   | Thu 26 June | Mixed Methods + Data Tools                   | 4     |
+| 5   | Fri 27 June | Analysis, Reporting, Final Project Workshop  | 7     |
+
+Departure of participants on Saturday 28 June 2025.
 :::
+::::
+
+<br>
+
+:::: col
+::: card
+## Speakers Information Coming Soon!
 :::
+::::
 
 <br>

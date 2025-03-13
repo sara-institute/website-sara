@@ -17,7 +17,7 @@ include-in-header:
 
 ---
 
-[At SARA, we are dedicated to empowering communities across India by providing high-quality, open-source data science education. Our mission is to build a vibrant, inclusive data science community where individuals from all backgrounds can thrive, innovate, and contribute to creating a better society.]{.p-mission}
+[Our mission is to empower society through data science. We strive to make data-driven insights accessible and transformative, fostering a more informed, equitable, and innovative world for all.]{.p-mission}
 
 <br>
 

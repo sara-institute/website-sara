@@ -49,20 +49,36 @@ We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan
 
 ## July 2024
 
-1st SARA Data Science Summer School
+SARA Summer School "R for Beginners"
 
 ![](images/2024summer.png)
 
 :::
 
+<br>
+
 ::: {.card}
 
 ## December 2024 
 
-SARA Statistics Winter School
+SARA Winter School "Statistics using R"
 
 ![](images/2024winter.jpeg)
 
 :::
+
+<br>
+
+::: {.card}
+
+## March 2025 
+
+SARA Data Science Bootcamp "Publish using Quarto"
+
+![](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/images/students-march25.jpg)
+
+:::
+
+
 
 <br>

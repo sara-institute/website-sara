@@ -1,9 +1,13 @@
 ---
-title: "<br>Computer Skills"
+title: ""
 pagetitle: "SARA - Courses"
 #author: "Dr. Kiran Lata, PhD"
 #date: last-modified
 ---
+
+<br>
+
+# Computer Skills
 
 ::: {.col}
 ::: {.card}

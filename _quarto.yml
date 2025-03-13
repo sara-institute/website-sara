@@ -42,6 +42,8 @@ website:
             href: about.qmd
           - text: Timeline
             href: timeline.qmd
+          - text: Annual Report
+            href: report.qmd
       - text: Courses
         menu: 
           - text: Computer Skills
