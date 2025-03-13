@@ -122,7 +122,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Summer School "R for Beginners", 22 - 26 July 2024 {.centering}
+## Summer School "R for Beginners" 22 - 26 July 2024 {.centering}
 
 ![](images/2024summer.png){width="90%"}
 
@@ -144,7 +144,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Winter School "Statistics using R", 16 - 20 December 2024 {.centering}
+## Winter School "Statistics using R" 16 - 20 December 2024 {.centering}
 
 ![](images/2024winter.jpeg)
 
@@ -165,21 +165,23 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Bootcamp "Publish using Quarto", 03 - 07 March 2025 {.centering}
+## Bootcamp "Publish using Quarto" 03 - 07 March 2025 {.centering}
 
 ![](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/images/students-march25.jpg)
 
 > Making data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort. ... The course helped me to keep my focus more on my academic work and integrate technology to do clerical work while writing research paper, managing citation, footnotes and equally remarkable that I'm able to build my personal academic webiste with such ease. ... Thank you once again for this opportunity and empowering experience which helped us to see data science is for everyone 😊. With love and eternal support.            
 > --- **Rishav Kumar, MA Pol. Sci., JNU**
 
-> It was such a heart warming experience the day I joined SARA, I was little doubtful about myself because my academic background is completely different. But lately I realized with the help of right guidance and support of batchmates everything is possible. SARA team was helpful, kind, and cooperative which helped me to remove my hesitations. All thanks to SARA Institute.      
+> It was such a heart warming experience the day I joined SARA, I was little doubtful about myself because my academic background is completely different. But lately I realized with the help of right guidance and support of batchmates everything is possible. SARA team was helpful, kind, and cooperative which helped me to remove my hesitations.      
 > --- **Garima, MA Eng. Lit., GVM Sonipat. **
 
 ::: 
 ::: 
 
 ::::
+
 <br>
+
 :::::
 
 :::: {.column-screen .banner-white}

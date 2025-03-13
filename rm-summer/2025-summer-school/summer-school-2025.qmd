@@ -1,7 +1,7 @@
 ---
 title: |
     <br>[Summer School 2025: Research Design & Methods]{style="color:#228B22"}\
-#subtitle: "SARA Summer School, 23-27 June 2025"
+#subtitle: "SARA Summer School, 23-27 April 2025"
 pagetitle: "SARA RM"
 toc: false
 include-in-header: 
@@ -13,7 +13,7 @@ include-in-header:
     </style>
 ---
 
-[Join us this June 2025 for our immersive summer school program, "Research Design & Methods: From Theory to Practice using R." This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
+[Join us this April 2025 for our immersive summer school program, **"Research Design & Methods: From Theory to Practice using R."** This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
 
 :::: col
 ::: card
@@ -32,7 +32,7 @@ include-in-header:
 
 ## [Program Details:]{style="color:#228B22"}
 
--   **Dates**: 22-28 June 2025
+-   **Dates**: 20-26 April 2025
 -   **Duration**: 7 days
 -   **Fee**: ₹6,000 INR (Inclusive of food and accommodation)
 -   **Early Bird Discount**: The first 10 registered participants will receive a 25% discount!
@@ -43,7 +43,7 @@ As a non-profit organization, SARA is committed to making education accessible t
 
 Don't miss this opportunity to advance your research capabilities and join a community of like-minded individuals. Register now and take the first step towards mastering research design and methods with R!
 
-## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c>
+## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c> (Last Date of Registration: 18 April 2025)
 
 For more information, please contact us at [sara.institute.info\@gmail.com](mailto:sara.institute.info@gmail.com){.email} or call us 925 315 2024.
 
@@ -57,17 +57,17 @@ We look forward to seeing you at the summer school!
 ::: card
 ## [Schedule]{style="color:#228B22"}
 
-Arrival of participants on Sunday 22 June 2025.
+Arrival of participants on Sunday 20 April 2025.
 
-| Day | Date        | Topics                                       | Hours |
-|-----|-------------|:---------------------------------------------|-------|
-| 1   | Mon 23 June | Foundations + Ethics                         | 5     |
-| 2   | Tue 24 June | Quantitative Methods (Experiments & Surveys) | 8     |
-| 3   | Wed 25 June | Qualitative Methods                          | 6     |
-| 4   | Thu 26 June | Mixed Methods + Data Tools                   | 4     |
-| 5   | Fri 27 June | Analysis, Reporting, Final Project Workshop  | 7     |
+| Topics (21-25 April 2025)                    | Hours |
+|:---------------------------------------------|-------|
+| Foundations + Ethics                         | 5     |
+| Quantitative Methods (Experiments & Surveys) | 8     |
+| Qualitative Methods                          | 6     |
+| Mixed Methods + Data Tools                   | 4     |
+| Analysis, Reporting, Final Project Workshop  | 7     |
 
-Departure of participants on Saturday 28 June 2025.
+Departure of participants on Saturday 26 April 2025.
 :::
 ::::
 
@@ -75,7 +75,7 @@ Departure of participants on Saturday 28 June 2025.
 
 :::: col
 ::: card
-## Speakers Information Coming Soon!
+## More Information Coming Soon!
 :::
 ::::
 
