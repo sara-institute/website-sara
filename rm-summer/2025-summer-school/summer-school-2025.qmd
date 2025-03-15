@@ -13,7 +13,7 @@ include-in-header:
     </style>
 ---
 
-[Join us this April 2025 for our immersive summer school program, **"Research Design & Methods: From Theory to Practice using R."** This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
+[Join us this **April 2025** for our immersive summer school program, **"Research Design & Methods: From Theory to Practice using R."** This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
 
 :::: col
 ::: card
@@ -43,7 +43,7 @@ As a non-profit organization, SARA is committed to making education accessible t
 
 Don't miss this opportunity to advance your research capabilities and join a community of like-minded individuals. Register now and take the first step towards mastering research design and methods with R!
 
-## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c> (Last Date of Registration: 18 April 2025)
+## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c> (Last Date of Registration: 15th April 2025)
 
 For more information, please contact us at [sara.institute.info\@gmail.com](mailto:sara.institute.info@gmail.com){.email} or call us 925 315 2024.
 
