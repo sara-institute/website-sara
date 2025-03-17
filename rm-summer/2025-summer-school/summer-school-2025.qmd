@@ -15,6 +15,69 @@ include-in-header:
 
 [Join us this **April 2025** for our immersive summer school program, **"Research Design & Methods: From Theory to Practice using R."** This comprehensive course is designed to equip you with the essential skills to conduct robust research and analyze data effectively using R.]{.p-mission}
 
+![](images/april2025.jpeg)
+
+::: {.centering}
+# [Online Expert Lectures]{style="color:#228B22"}
+
+
+::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+
+![](images/Gareth-Edanz.jpeg)
+
+**Dr. Gareth Dyke** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/garethdyke/)
+
+Talk: [***Effective Research Writing***]{style="color:#228B22"}
+
+Co-Founder of [Sci-Train](https://sci-train.com/)
+
+PhD in Geology & Biology, University of Bristol. 
+
++380 Peer Reviewed Articles includes *Nature* & *Science*.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+Yet to be confrimed!
+
+<!-- ![](images/sam-madam.jpg) -->
+
+<!-- **Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/) -->
+
+<!-- Adj Asst Professor -->
+
+<!-- Baruch College, USA. -->
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+Yet to be confrimed!
+
+<!-- ![](images/damni.jpg) -->
+
+<!-- **Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/) -->
+
+<!-- PhD Candidate -->
+
+<!-- University of Cambridge, UK. -->
+
+:::
+:::
+
+:::
+:::
+
+<br>
+
 :::: col
 ::: card
 ## [What to Expect:]{style="color:#228B22"}
@@ -44,6 +107,8 @@ As a non-profit organization, SARA is committed to making education accessible t
 Don't miss this opportunity to advance your research capabilities and join a community of like-minded individuals. Register now and take the first step towards mastering research design and methods with R!
 
 ## [Registration:]{style="color:#228B22"} <https://tinyurl.com/mr3e2t7c> (Last Date of Registration: 15th April 2025)
+
+![](images/qr-sara.png){width=40% fig-align=center}
 
 For more information, please contact us at [sara.institute.info\@gmail.com](mailto:sara.institute.info@gmail.com){.email} or call us 925 315 2024.
 
@@ -75,7 +140,26 @@ Departure of participants on Saturday 26 April 2025.
 
 :::: col
 ::: card
-## More Information Coming Soon!
+
+## [Refund Policy]{style="color:#228B22"}
+
+1. **Refund Within One Week of Registration:**
+
+    - If a participant requests a refund within one week of their registration date, they will receive a full refund minus an administrative fee of ₹500.
+
+2. **Refund Between One Week and 6th April 2025:**
+
+    - If a participant requests a refund more than one week after their registration date but before 6th April 2025, they will receive a 50% refund of the registration fee.
+    
+3. **Refund Between 6th April and 15th April 2025:**
+
+    - If a participant requests a refund between 6th April and 15th April 2025, they will receive a 25% refund of the registration fee.
+    
+
+4. **No Refund After 15th April 2025:**
+
+    - No refunds will be issued for cancellations requested after 15th April 2025.
+
 :::
 ::::
 

@@ -15,15 +15,28 @@ include-in-header:
 
 ---
 
-::: {.col}
-::: {.card}
-
 ## [Donations made to the SARA EDUCATION TRUST are eligible for 80G tax exemption.]{.clr-blue}
 
-## How to Donate:
+::: {.flex-container}
 
-> UPI ID: `919253152024@sbi`
+::: {.layout-grid}
 
+::: {.col}
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 ; margin-top: 1.0em; margin-bottom: 0.0em; overflow: hidden;
+ border-radius: 4px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 101%; height: 120%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGh--osRPM/smIoZEP9lLniqpwMUIP2Xg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+:::
+
+::: {.col}
+## UPI ID: `919253152024@sbi`
+:::
+
+::: {.col}
 ## Bank Transfer:
 
 Account Name: SARA EDUCATION TRUST.
@@ -32,8 +45,11 @@ Account Number: `42920911856`.
 
 Bank Name: STATE BANK OF INDIA.        
 
-IFSC Code: `SBIN0000721`.   
+IFSC Code: `SBIN0000721`.
+:::
 
+::: {.col}
+:::
 
 :::
 :::
