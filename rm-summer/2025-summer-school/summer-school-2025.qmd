@@ -44,7 +44,7 @@ PhD in Geology & Biology, University of Bristol.
 ::: {.col}
 ::: {.card}
 
-Yet to be confrimed!
+Yet to be confirmed!
 
 <!-- ![](images/sam-madam.jpg) -->
 
@@ -60,7 +60,7 @@ Yet to be confrimed!
 ::: {.col}
 ::: {.card}
 
-Yet to be confrimed!
+Yet to be confirmed!
 
 <!-- ![](images/damni.jpg) -->
 
