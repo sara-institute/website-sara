@@ -23,7 +23,7 @@ include-in-header:
 
 # Our Mission 
 
-[The best data science education for society. At SARA, our mission is to empower individuals with data science skills to drive positive societal change. We teach data science principles to address real-world challenges and promote equitable outcomes. Together, we build a more informed and resilient society through responsible data use.]{.p-mission}
+[The best data science education for society. At SARA, our mission is to democratize data science to drive positive societal change. We teach coding and research principles to address real-world challenges and promote equitable outcomes. Together, we build a more informed and resilient society through responsible data use.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)

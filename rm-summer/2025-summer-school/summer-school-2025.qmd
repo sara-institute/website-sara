@@ -30,29 +30,15 @@ include-in-header:
 
 **Dr. Gareth Dyke** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/garethdyke/)
 
-Talk: [***Effective Research Writing***]{style="color:#228B22"}
+Talk: [**Effective Research Writing**]{style="color:#228B22"}
 
-Co-Founder of [Sci-Train](https://sci-train.com/)
+[{{< fa calendar-days >}} Date: 21 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
 
 PhD in Geology & Biology, University of Bristol. 
 
 +380 Peer Reviewed Articles includes *Nature* & *Science*.
 
-:::
-:::
-
-::: {.col}
-::: {.card}
-
-Yet to be confirmed!
-
-<!-- ![](images/sam-madam.jpg) -->
-
-<!-- **Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/) -->
-
-<!-- Adj Asst Professor -->
-
-<!-- Baruch College, USA. -->
+Co-Founder of [Sci-Train](https://sci-train.com/)
 
 :::
 :::
@@ -60,15 +46,38 @@ Yet to be confirmed!
 ::: {.col}
 ::: {.card}
 
-Yet to be confirmed!
+![](images/dare.png)
 
-<!-- ![](images/damni.jpg) -->
+**Dr. Eleanor Dare** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-eleanor-dare-09b93bb/)
 
-<!-- **Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/) -->
+Talk: [**Forensic AI**]{style="color:#228B22"}
 
-<!-- PhD Candidate -->
+[{{< fa calendar-days >}} Date: 23 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
 
-<!-- University of Cambridge, UK. -->
+Post Doctoral Research Associate AI Forensics, University of Cambridge, 
+
+Methods Fellow 23-24, Cambridge Digital Humanities. 
+
+Co Founder of [Xordinary](https://xordinarystories.com/).
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/raju.jpg)
+
+**Raju Chalwadi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/raju-chalwadi-621489a0/)
+
+Talk: [**Ethnographic Research Approach**]{style="color:#228B22"}
+
+[{{< fa calendar-days >}} Date: 24 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
+
+PhD, IIT -- Bombay
+
+Fulbright Fellow @ University of California, Santa Cruz
+
+M.A. Development Studies -- Tata Institute of Social Sciences
 
 :::
 :::
