@@ -29,16 +29,15 @@ include-in-header:
 ![](images/Gareth-Edanz.jpeg)
 
 **Dr. Gareth Dyke** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/garethdyke/)
-
-Talk: [**Effective Research Writing**]{style="color:#228B22"}
-
-[{{< fa calendar-days >}} Date: 21 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
+<!-- [{{< fa calendar-days >}} Date: 21 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
 
 PhD in Geology & Biology, University of Bristol. 
 
 +380 Peer Reviewed Articles includes *Nature* & *Science*.
 
-Co-Founder of [Sci-Train](https://sci-train.com/)
+<!-- Co-Founder of [Sci-Train](https://sci-train.com/) -->
+
+Talk: [**Effective Research Writing**]{style="color:#228B22"}
 
 :::
 :::
@@ -46,20 +45,33 @@ Co-Founder of [Sci-Train](https://sci-train.com/)
 ::: {.col}
 ::: {.card}
 
+![](images/sam-madam.jpg)
+
+**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+Adj Asst Professor, Baruch College, USA.
+
+Talk: [**Framing Research Questions**]{style="color:#228B22"}
+
+<!-- [{{< fa calendar-days >}} Date: 22 April {{< fa clock >}} Time: 5 PM IST]{style="color:#228B22"} -->
+:::
+
+::: {.card}
+
 ![](images/dare.png)
 
 **Dr. Eleanor Dare** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-eleanor-dare-09b93bb/)
 
+Post Doctoral Research Associate, University of Cambridge
+
+<!-- Co Founder of [Xordinary](https://xordinarystories.com/). -->
+
 Talk: [**Forensic AI**]{style="color:#228B22"}
-
-[{{< fa calendar-days >}} Date: 23 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
-
-Post Doctoral Research Associate AI Forensics, University of Cambridge, 
-
-Methods Fellow 23-24, Cambridge Digital Humanities. 
-
-Co Founder of [Xordinary](https://xordinarystories.com/).
+<!-- [{{< fa calendar-days >}} Date: 23 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
 :::
+
+
+
 :::
 
 ::: {.col}
@@ -69,15 +81,16 @@ Co Founder of [Xordinary](https://xordinarystories.com/).
 
 **Raju Chalwadi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/raju-chalwadi-621489a0/)
 
-Talk: [**Ethnographic Research Approach**]{style="color:#228B22"}
+PhD, IIT--Bombay
 
-[{{< fa calendar-days >}} Date: 24 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"}
+Fulbright Fellow, University of California, Santa Cruz
 
-PhD, IIT -- Bombay
+<!-- M.A. Development Studies -- Tata Institute of Social Sciences -->
 
-Fulbright Fellow @ University of California, Santa Cruz
+Talk: [**Ethnographic Research**]{style="color:#228B22"}
 
-M.A. Development Studies -- Tata Institute of Social Sciences
+<!-- [{{< fa calendar-days >}} Date: 24 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
+
 
 :::
 :::
