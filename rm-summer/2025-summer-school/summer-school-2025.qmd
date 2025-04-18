@@ -1,6 +1,6 @@
 ---
 title: |
-    <br>[Summer School 2025: Research Design & Methods]{style="color:#228B22"}\
+    <br>[Summer School 2025 Research Design & Methods is Canceled]{style="color:#ff0000"}\
 #subtitle: "SARA Summer School, 23-27 April 2025"
 pagetitle: "SARA RM"
 toc: false
