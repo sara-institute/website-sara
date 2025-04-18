@@ -79,11 +79,11 @@ Talk: [**Forensic AI**]{style="color:#228B22"}
 
 ![](images/raju.jpg)
 
-**Raju Chalwadi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/raju-chalwadi-621489a0/)
+**Dr. Raju Chalwadi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/raju-chalwadi-621489a0/)
 
-PhD, IIT--Bombay
+New Political Economy Initiative, IIT--Bombay
 
-Fulbright Fellow, University of California, Santa Cruz
+Former Fulbright Fellow (2022-23), University of California, Santa Cruz
 
 <!-- M.A. Development Studies -- Tata Institute of Social Sciences -->
 
