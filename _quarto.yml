@@ -50,6 +50,8 @@ website:
             href: computer-course/computer-course.qmd
           - text: English Language
             href: english-course/english-course.qmd
+          - text: Python Language
+            href: python-course/python-course.qmd  
       - text: Trainings
         menu:
           - text: Research Methods

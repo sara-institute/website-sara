@@ -15,7 +15,7 @@ include-in-header:
 
 ---
 
-## [Donations made to the SARA EDUCATION TRUST are eligible for 80G tax exemption.]{.clr-blue}
+<!-- ## [Donations made to the SARA EDUCATION TRUST are NOT eligible for 80G tax exemption.]{.clr-blue} -->
 
 ::: {.flex-container}
 
