@@ -71,8 +71,6 @@ website:
       - text: Contact
         href: contact.qmd
         
-     
-       
         
   page-footer:
     background: "#003262"

@@ -1,17 +1,13 @@
 ---
-title: "Introduction to Python Programming"
+title: "<br>Introduction to Python Programming"
 author: "Hrithik Auchar"
-date: "2024-04-19"
+date: "<br>2024-04-19"
 categories: [python, data science]
 image: "python.png"
 pagetitle: "Python - SARA"
 #author: "Dr. Kiran Lata, PhD"
 #date: last-modified
 ---
-
-<br>
-
-# Python Programming Language
 
 ::: {.col}
 ::: {.card}
@@ -24,7 +20,7 @@ pagetitle: "Python - SARA"
 
 ## SARA Online Python Course for Beginners
 
-**Unlock the Power of Coding with Python – Start Your Journey Today!**
+Unlock the Power of Coding with Python – Start Your Journey Today!
 
 ### Course Overview
 
@@ -83,3 +79,5 @@ Call us: 925 315 2024
 <br>
 
 {{< video https://youtu.be/TU1Bt-3I8pY?feature=shared >}}
+
+<br>
