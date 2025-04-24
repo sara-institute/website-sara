@@ -1,0 +1,8 @@
+---
+title: "<br>SARA Annual report 2024-25"
+format: html
+---
+
+<script defer class="speakerdeck-embed" data-id="3d7348f33abc49d9830a92d04ae59b33" data-ratio="0.7072446555819477" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>

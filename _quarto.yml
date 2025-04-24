@@ -43,25 +43,27 @@ website:
           - text: Timeline
             href: timeline.qmd
           - text: Annual Report
-            href: report.qmd
+            href: annual-report.qmd
       - text: Courses
         menu: 
-          - text: Computer Skills
-            href: computer-course/computer-course.qmd
-          - text: English Language
-            href: english-course/english-course.qmd
-          - text: Python Language
-            href: python-course/python-course.qmd  
+          - text: Offline Courses
+            href: offline.qmd
+          - text: Online Courses
+            href: online.qmd
+          # - text: Python Language
+          #   href: python-course/python-course.qmd  
       - text: Trainings
         menu:
-          - text: Research Methods
-            href: rm-summer/2025-summer-school/summer-school-2025.qmd
+          # - text: Research Methods
+          #   href: rm-summer/2025-summer-school/summer-school-2025.qmd
           - text: R Langauge
             href: r-bootcamp/2024-r-lang/r-bootcamp-2024.qmd  
           - text: Statistics using R
             href: stats-winter/2024-stats-winter/stats-winter-2024.qmd
           - text: Publish using Quarto
             href: publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.qmd
+      # - text: Studio
+      #   href: studio.qmd
       - text: News & Events
         href: news.qmd
       - text: Support 
@@ -97,7 +99,7 @@ website:
     right: "[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
     border: true
     
-      
+    
 format:
   html:
     page-layout: full

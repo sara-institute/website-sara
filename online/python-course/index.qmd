@@ -1,0 +1,85 @@
+---
+title: "Introduction to Python Programming"
+author: "Hrithik Auchar"
+date: "2024-04-19"
+categories: [python, data science]
+image: "python.png"
+pagetitle: "Python - SARA"
+#author: "Dr. Kiran Lata, PhD"
+#date: last-modified
+---
+
+<br>
+
+# Python Programming Language
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+
+![](python.png){width=70%}
+
+:::
+
+## SARA Online Python Course for Beginners
+
+**Unlock the Power of Coding with Python – Start Your Journey Today!**
+
+### Course Overview
+
+The SARA Python Programming for Beginners course is designed for absolute newcomers to coding. Whether you’re a student, professional, or hobbyist, this course will equip you with foundational Python skills through hands-on projects, interactive lessons, and expert guidance. Learn to automate tasks, analyze data, and build simple applications—no prior experience required!
+
+---
+
+### Course Objectives
+
+By the end of this course, you will:
+
+  - Understand Python syntax, variables, loops, and functions.
+
+  - Write programs to solve real-world problems.
+
+  - Work with data using lists, dictionaries, and file handling.
+
+  - Build mini-projects (e.g., a calculator, data analyzer, or simple game).
+
+  - Gain confidence to pursue advanced Python topics or data science.
+  
+---
+
+### Course Highlights
+
+✅ Flexible Learning: Self-paced modules with lifetime access.
+
+✅ Beginner-Friendly: Step-by-step tutorials with clear examples.
+
+✅ Hands-On Practice: Code exercises, quizzes, and projects.
+
+✅ Certificate of Completion: Share your achievement on LinkedIn!  
+
+---
+
+### Course Format:
+
+- Duration: 15 hours (every alternate second Saturday)
+
+- Mode: Only online sessions available
+
+<!-- - Certification: Receive a certificate upon successful completion -->
+
+Join us at the **SARA Institute of Data Science** and take your first step towards digital empowerment! 
+
+<br>
+
+**{{< fa phone >}}**
+Call us: 925 315 2024 
+
+<br>
+
+:::
+:::
+
+<br>
+
+{{< video https://youtu.be/TU1Bt-3I8pY?feature=shared >}}

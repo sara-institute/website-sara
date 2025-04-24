@@ -17,16 +17,16 @@ include-in-header:
 
 ---
 
-[Our mission is to empower society through data science. We strive to make data-driven insights accessible and transformative, fostering a more informed, equitable, and innovative world for all.]{.p-mission}
+<!-- [At the Savitribai Ramabai (SARA) Institute of Data Science, our mission is to **democratize data science** by tearing down barriers of privilege, technical complexity, and financial exclusion. Through global collaborations with experts, hands-on mentorship, and accessible resources, we equip learners to harness data for innovation, equity, and societal progress. Together, we’re building a future where education is a universal right—not a luxury—and where every individual can shape tomorrow’s data-driven world.]{.p-mission} -->
 
-<br>
+<!-- <br> -->
 
 ::: {.col}
 ::: {.card}
 
 ::: {.centering}
 
-![](images/visit-sonipat.jpeg)
+![](images/banner.png)
 
 :::
 

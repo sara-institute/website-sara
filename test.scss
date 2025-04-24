@@ -45,7 +45,7 @@ $link-color: $clr-tom; //#2A2121;
 
 h1{
   font-family: "Poppins", sans-serif;
-  color: #000;
+  color: #003262;
   font-weight: 900;
   line-height: 1.25em;
   padding-top: 3rem;
@@ -55,7 +55,7 @@ h1{
 
 h2{
   font-family: "Poppins", sans-serif;
-  color: #000;
+  color: #003262;
   font-weight: 700;
   line-height: 1.25em;
 }
@@ -92,6 +92,7 @@ h2{
   font-weight: 100;
   //font-family: "Noto", Sans-Serif;
   line-height: 200%;
+  color: #003262;
 }
 
 @media (max-width: 600px) {

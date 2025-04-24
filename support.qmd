@@ -15,29 +15,42 @@ include-in-header:
 
 ---
 
-<!-- ## [Donations made to the SARA EDUCATION TRUST are NOT eligible for 80G tax exemption.]{.clr-blue} -->
-
-::: {.flex-container}
-
-::: {.layout-grid}
-
 ::: {.col}
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 ; margin-top: 1.0em; margin-bottom: 0.0em; overflow: hidden;
- border-radius: 4px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 101%; height: 120%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGh--osRPM/smIoZEP9lLniqpwMUIP2Xg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+::: {.card}
 
+::: {.centering .lightbox}
+![](images/qr-sara.png){width=40%}
 :::
 
-::: {.col}
-## UPI ID: `919253152024@sbi`
-:::
+## 1. Teach with SARA: Share Your Knowledge
 
-::: {.col}
-## Bank Transfer:
+**Become a Volunteer Mentor or Instructor**
+
+At SARA, we believe education thrives on collective effort. Whether you’re a data scientist, programmer, or English language expert, your skills can transform lives.
+
+### How You Can Help:
+
+- **Teach Computer Basics:** Help students master essential tools (Word, Excel, internet safety).
+
+- **Mentor in Data Science:** Guide learners in Python, R, or data analysis.
+
+- **Conduct Workshops:** Share industry insights or career development tips.
+
+### Requirements:
+
+- Passion for teaching and patience to work with beginners.
+
+- 2–4 hours/week commitment (flexible schedules).
+
+---
+
+## 2. Donate to SARA: Fuel Free Education
+
+**Your Contribution Breaks Barriers**
+
+Every rupee helps us provide free courses, tech resources, and mentorship to students who need it most.
+
+### Bank Transfer:
 
 Account Name: SARA EDUCATION TRUST.
 
@@ -46,32 +59,16 @@ Account Number: `42920911856`.
 Bank Name: STATE BANK OF INDIA.        
 
 IFSC Code: `SBIN0000721`.
-:::
 
-::: {.col}
-:::
+---
 
-:::
-:::
-
-<br>
-
-::: {.col}
-::: {.card}
-
-## Support SARA on Social Media.
+## 3. Support SARA on Social Media.
 
 <br>[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 <br>
 
-SARA Institute is a registered charitable educational institute in India. Your generosity can make a profound impact on the lives of our students striving for a brighter future. By donating to SARA Institute, you're not just giving money; you're investing in the potential of countless individuals to break barriers, achieve their dreams, and contribute positively to their communities.
-
-Every donation, no matter the size, plays a crucial role in supporting our mission to provide quality education to those who need it most. Whether it's improving educational facilities, or developing innovative programs, your contribution makes it possible for us to empower students with the tools they need to succeed.
-
-Join us in creating a world where education knows no bounds. Together, we can pave the way for a future where every individual has the opportunity to learn, grow, and thrive.
-
-Thank you for your generosity and for being a part of our journey towards a brighter tomorrow. For more information kindly reach us at <sara.institute.info@gmail.com>
+For more information kindly reach us at <sara.institute.info@gmail.com>
 
 <br>
 

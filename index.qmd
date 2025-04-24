@@ -23,7 +23,7 @@ include-in-header:
 
 # Our Mission 
 
-[The best data science education for society. At SARA, our mission is to democratize data science to drive positive societal change. We teach coding and research principles to address real-world challenges and promote equitable outcomes. Together, we build a more informed and resilient society through responsible data use.]{.p-mission}
+[At the Savitribai Ramabai (SARA) Institute of Data Science, our mission is to **democratize data science** by removing barriers of privilege, technical complexity, and financial exclusion. We provide **free, inclusive education** in computer skills, English, and data science to empower students from marginalized communities, PhD scholars, and professionals. ]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -107,12 +107,11 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::::
 
-
 ::::: {.column-screen .banner-cream}
 
 # Free Data Science Trainings
 
-[Week-long Offline Trainings of Data Science and Research.]{.p-mission}
+[Week-long Offline Trainings of Data Science.]{.p-mission}
 
 :::: {.feedback-layout-grid }
 

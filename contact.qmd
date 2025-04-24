@@ -17,6 +17,10 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
+::: {.centering .lightbox}
+![](images/founders_sara.jpg){width=80%}
+:::
+
 **Get in Touch with SARA Institute of Data Science**
 
 We welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:
@@ -24,10 +28,11 @@ We welcome your inquiries, feedback, and collaboration opportunities. Please fee
 <br>
 
 **{{< fa university >}} Address:**<br>
-SARA Institute.   
-Dr. Ambedkar Bhavan.    
-Kakroi Road, Sonipat.        
-Haryana - 131001, India.       
+SARA Institute   
+Dr. Ambedkar Bhavan      
+Near Dayanand Hospital            
+Kakroi Road, Sonipat        
+Haryana - 131001, India       
 Google Map Link: <https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6>
 
 <br>
