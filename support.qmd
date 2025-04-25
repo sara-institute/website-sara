@@ -12,13 +12,13 @@ include-in-header:
         border-bottom: none;
       }
     </style>
-
+lightbox: true
 ---
 
 ::: {.col}
 ::: {.card}
 
-::: {.centering .lightbox}
+::: {.centering}
 ![](images/qr-sara.png){width=40%}
 :::
 
