@@ -52,12 +52,12 @@ website:
             href: online.qmd
           # - text: Python Language
           #   href: python-course/python-course.qmd  
-      - text: Trainings
+      - text: Trainings 
         menu:
           # - text: Research Methods
           #   href: rm-summer/2025-summer-school/summer-school-2025.qmd
           - text: R Langauge
-            href: r-bootcamp/2024-r-lang/r-bootcamp-2024.qmd  
+            href: r-summer/2025-r-lang/r-summer-2025.qmd  
           - text: Statistics using R
             href: stats-winter/2024-stats-winter/stats-winter-2024.qmd
           - text: Publish using Quarto

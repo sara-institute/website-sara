@@ -88,7 +88,7 @@ For further details about the bootcamp, courses, instructors, financial assistan
 
 Embark on an exciting journey of learning and exploration with SARA!
 
-Know about our previous data science trainings, [R for Beginners](https://sara-edu.netlify.app/r-bootcamp/2024-r-lang/r-bootcamp-2024) & [Statistics](https://sara-edu.netlify.app/stats-winter/2024-stats-winter/stats-winter-2024).
+Know about our previous data science training, [R for Beginners](https://sara-edu.netlify.app/r-bootcamp/2024-r-lang/r-bootcamp-2024) & [Statistics](https://sara-edu.netlify.app/stats-winter/2024-stats-winter/stats-winter-2024).
 <br>
 
 :::
