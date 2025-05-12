@@ -1,5 +1,5 @@
 ---
-title: "R for Beginners"
+title: "2nd R for Beginners"
 image: flyer.png
 date: "2025-07-25"
 categories: [R, Data Science, Summer School, Open]

@@ -1,5 +1,6 @@
 ---
 pagetitle: "SARA | The Non-Profit Data Science Institute"
+lightbox: true    
 include-in-header: 
   text: |
     <style type="text/css">
@@ -171,7 +172,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ## Bootcamp "Publish using Quarto" 03 - 07 March 2025 {.centering}
 
-![](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/images/students-march25.jpg)
+![](bootcamp/2025-bootcamp/images/students.jpg)
 
 > Making data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort. ... The course helped me to keep my focus more on my academic work and integrate technology to do clerical work while writing research paper, managing citation, footnotes and equally remarkable that I'm able to build my personal academic webiste with such ease. ... Thank you once again for this opportunity and empowering experience which helped us to see data science is for everyone 😊. With love and eternal support.            
 > --- **Rishav Kumar, MA Pol. Sci., JNU**
@@ -248,5 +249,3 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 [Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Support](support.qmd) &nbsp; [Contact](contact.qmd)
 
 :::
-
-<br>

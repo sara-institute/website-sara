@@ -1,5 +1,5 @@
 ---
-title: "R for Beginners"
+title: "1st R for Beginners"
 image: "images/students.jpeg"
 date: "2024-07-22"
 categories: [R, Data Science, Summer School, Completed]
