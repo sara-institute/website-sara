@@ -1,5 +1,5 @@
 ---
-title: "<br>Introduction to Python Programming"
+title: "Introduction to Python Programming"
 author: "Hrithik Auchar"
 date: "<br>2024-04-19"
 categories: [python, data science]
@@ -79,5 +79,9 @@ Call us: 925 315 2024
 <br>
 
 {{< video https://youtu.be/TU1Bt-3I8pY?feature=shared >}}
+
+<br>
+
+{{< video https://youtu.be/uOPhO4jwMQI?feature=shared >}}
 
 <br>

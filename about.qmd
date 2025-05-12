@@ -1,5 +1,5 @@
 ---
-title: "<br>Our Mission"
+title: "Our Mission"
 #subtitle: "SARA for Community Empowerment"
 pagetitle: "About"
 #layout: page
