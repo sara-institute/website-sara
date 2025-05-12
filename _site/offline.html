@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SARA - Courses – SARA INSTITUTE</title>
+<title>SARA Offline - Free Courses – SARA INSTITUTE</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/logo-sara.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -40,10 +42,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-709b7e2377c86dd58ad1ff1e26c54b00.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-109ca56b93036277c38b328f945f5016.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,10 +71,85 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #003262;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #003262;
+background: #ffffff;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="SARA - Courses">
+<meta name="twitter:title" content="SARA Offline - Free Courses – SARA INSTITUTE">
 <meta name="twitter:image" content="https://sara-edu.netlify.app/social-default.png">
 <meta name="twitter:creator" content="@sara_institute">
 <meta name="twitter:site" content="@sara_institute">
@@ -86,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -143,15 +218,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-trainings">    
         <li>
-    <a class="dropdown-item" href="./r-summer/2025-r-lang/r-summer-2025.html">
+    <a class="dropdown-item" href="./summer.html">
  <span class="dropdown-text">R Langauge</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./stats-winter/2024-stats-winter/stats-winter-2024.html">
+    <a class="dropdown-item" href="./winter.html">
  <span class="dropdown-text">Statistics using R</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.html">
+    <a class="dropdown-item" href="./bootcamp.html">
  <span class="dropdown-text">Publish using Quarto</span></a>
   </li>  
     </ul>
@@ -176,141 +251,107 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">SARA Offline - <em>Free Courses</em></h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29tcHV0ZXI=">computer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZW5nbGlzaA==">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b2ZmbGluZQ==">offline <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
-<p><br></p>
-<section id="computer-basics" class="level1">
-<h1>Computer Basics</h1>
-<div class="col">
-<div class="card">
-<div class="centering">
-<p><img src="images/computer.png" class="img-fluid"></p>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="b2ZmbGluZSUyQ2NvbXB1dGVy" data-listing-date-sort="1743532200000" data-listing-file-modified-sort="1747037092462" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="278">
+<div class="thumbnail"><a href="./offline/computer/index.html" class="no-external">
+
+<img loading="lazy" src="./offline/computer/computer.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./offline/computer/index.html" class="no-external">Computer Basics Skills</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('b2ZmbGluZQ=='); return false;">offline</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29tcHV0ZXI='); return false;">computer</div>
+
 </div>
-<section id="computer-basics-free-offline-course" class="level2">
-<h2 class="anchored" data-anchor-id="computer-basics-free-offline-course">Computer Basics Free Offline Course</h2>
-<p>The <strong>SARA computer course</strong> is designed to empower students and community members with essential computer knowledge, helping them thrive in today’s digital world. Whether you’re a beginner or looking to enhance your current skills, this course offers a comprehensive introduction to key computer concepts and tools.</p>
-<section id="course-highlights" class="level3">
-<h3 class="anchored" data-anchor-id="course-highlights">Course Highlights</h3>
-<ol type="1">
-<li><strong>Computer Basics:</strong>
-<ul>
-<li>What is a computer? Hardware vs.&nbsp;software.</li>
-<li>Types of computers (desktop, laptop, tablets).</li>
-<li>Hands-on: Setting up a computer, using mouse/keyboard.</li>
-</ul></li>
-<li><strong>Operating Systems &amp; File Management:</strong>
-<ul>
-<li>Introduction to Windows.</li>
-<li>Creating, organizing, and saving files/folders.</li>
-</ul></li>
-<li><strong>Productivity Tools:</strong>
-<ul>
-<li>Word Processing: Typing, formatting, resumes.</li>
-<li>Spreadsheets: Basic formulas, charts.</li>
-<li>Presentations: Designing slideshows.</li>
-<li>Tools: Microsoft Office.</li>
-</ul></li>
-<li><strong>Internet &amp; Digital Safety:</strong>
-<ul>
-<li>How the internet works.</li>
-<li>Safe browsing, avoiding scams.</li>
-<li>Email basics (Gmail).</li>
-</ul></li>
-</ol>
-</section>
-<section id="who-can-join" class="level3">
-<h3 class="anchored" data-anchor-id="who-can-join">Who Can Join?</h3>
-<p>The course is open to everyone, including students, working professionals, and community members who want to improve their computer literacy. No prior experience is needed.</p>
-</section>
-<section id="why-take-this-course" class="level3">
-<h3 class="anchored" data-anchor-id="why-take-this-course">Why Take This Course?</h3>
-<ul>
-<li><p>Improve your job prospects with key technical skills</p></li>
-<li><p>Gain confidence in using computers and online tools</p></li>
-<li><p>Access more opportunities for education and professional growth</p></li>
-</ul>
-</section>
-<section id="course-format" class="level3">
-<h3 class="anchored" data-anchor-id="course-format">Course Format:</h3>
-<ul>
-<li><p>Duration: 3 months (offered 3-4 times in a year)</p></li>
-<li><p>Mode: Only in-person sessions available</p></li>
-</ul>
-<!-- - Certification: Receive a certificate upon successful completion -->
-<p>Join us at the <strong>SARA Institute of Data Science</strong> and take your first step towards digital empowerment!</p>
-<p><br></p>
-<p><strong><i class="fa-solid fa-phone" aria-label="phone"></i></strong> Call us: 925 315 2024</p>
-<p><br></p>
-</section>
-</section>
+<div class="delink listing-description"><a href="./offline/computer/index.html" class="no-external">
+The <strong>SARA computer course</strong> is designed to empower students and community members with essential computer knowledge, helping them thrive in today’s digital world. Whether…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./offline/computer/index.html" class="no-external">
+<div class="listing-date">
+Apr 2, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Kiran Lata, PhD
+</div>
+</a>
 </div>
 </div>
-<p><br></p>
-<hr>
-<p><br></p>
-</section>
-<section id="english-language" class="level1">
-<h1>English Language</h1>
-<div class="col">
-<div class="card">
-<div class="centering">
-<p><img src="images/english.png" class="img-fluid"></p>
+<div class="quarto-post image-right" data-index="1" data-categories="b2ZmbGluZSUyQ2VuZ2xpc2g=" data-listing-date-sort="1743445800000" data-listing-file-modified-sort="1747037094343" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
+<div class="thumbnail"><a href="./offline/english/index.html" class="no-external">
+
+<img loading="lazy" src="./offline/english/english.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./offline/english/index.html" class="no-external">English Language Skill</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('b2ZmbGluZQ=='); return false;">offline</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZW5nbGlzaA=='); return false;">english</div>
+
 </div>
-<section id="english-language-free-offline-course" class="level2">
-<h2 class="anchored" data-anchor-id="english-language-free-offline-course">English Language Free Offline Course</h2>
-<p>The <strong>SARA English language course</strong> is designed to help students and community members enhance their English communication skills for both personal and professional development. Whether you’re a beginner or looking to improve your fluency, this course covers essential aspects of the English language to boost your confidence in speaking, writing, and understanding English.</p>
-<section id="course-highlights-1" class="level3">
-<h3 class="anchored" data-anchor-id="course-highlights-1">Course Highlights:</h3>
-<ul>
-<li><p><strong>Basic Grammar and Vocabulary</strong>: Learn the fundamentals of English grammar, sentence structure, and expand your vocabulary to improve both written and spoken communication.</p></li>
-<li><p><strong>Speaking and Listening Skills</strong>: Practice conversational English through interactive sessions, role-playing, and listening exercises to enhance your speaking confidence and comprehension.</p></li>
-<li><p><strong>Reading and Writing</strong>: Develop skills to read with better understanding and write clearly and effectively, covering both informal and formal styles.</p></li>
-<li><p><strong>Pronunciation and Accent Training</strong>: Improve your pronunciation and work on reducing any accent barriers, allowing you to communicate more effectively in diverse settings.</p></li>
-<li><p><strong>English for Daily Use</strong>: Learn practical language skills that can be used in everyday situations, such as job interviews, travel, and casual conversations.</p></li>
-</ul>
-</section>
-<section id="who-can-join-1" class="level3">
-<h3 class="anchored" data-anchor-id="who-can-join-1">Who Can Join?</h3>
-<p>This course is open to anyone who wants to improve their English language skills, including students, professionals, and community members. No prior knowledge is required, and all levels are welcome.</p>
-</section>
-<section id="why-take-this-course-1" class="level3">
-<h3 class="anchored" data-anchor-id="why-take-this-course-1">Why Take This Course?</h3>
-<ul>
-<li><p>Improve communication skills for education and career opportunities</p></li>
-<li><p>Gain confidence in speaking English in social and professional settings</p></li>
-<li><p>Enhance your ability to read and write in English</p></li>
-<li><p>Increase your chances of success in job interviews and workplace interactions</p></li>
-</ul>
-</section>
-<section id="course-format-1" class="level3">
-<h3 class="anchored" data-anchor-id="course-format-1">Course Format:</h3>
-<ul>
-<li><p>Duration: 6 months (offered twice in a year)</p></li>
-<li><p>Mode: Only in-person sessions available</p></li>
-</ul>
-<!-- - Certification: Receive a certificate upon successful completion -->
-<p>Join the <strong>SARA Institute of Data Science</strong> and unlock new opportunities by improving your English language proficiency today!</p>
-<p><br></p>
-<p><strong><i class="fa-solid fa-phone" aria-label="phone"></i></strong> Call us: 925 315 2024</p>
-<p><br></p>
-</section>
-</section>
+<div class="delink listing-description"><a href="./offline/english/index.html" class="no-external">
+The <strong>SARA English language course</strong> is designed to help students and community members enhance their English communication skills for both personal and professional…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./offline/english/index.html" class="no-external">
+<div class="listing-date">
+Apr 1, 2025
+</div>
+<div class="listing-author">
+Dr.&nbsp;Ajay Koli, PhD
+</div>
+</a>
 </div>
 </div>
-<p><br></p>
-
-
-</section>
-
-</main> <!-- /main -->
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

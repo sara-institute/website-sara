@@ -1,8 +1,34 @@
 [
   {
+    "listing": "/offline.html",
+    "items": [
+      "/offline/computer/index.html",
+      "/offline/english/index.html"
+    ]
+  },
+  {
+    "listing": "/bootcamp.html",
+    "items": [
+      "/bootcamp/2025-publish-bootcamp/index.html"
+    ]
+  },
+  {
     "listing": "/online.html",
     "items": [
       "/online/python-course/index.html"
+    ]
+  },
+  {
+    "listing": "/summer.html",
+    "items": [
+      "/summer/2025-r4b/index.html",
+      "/summer/2024-r4b/index.html"
+    ]
+  },
+  {
+    "listing": "/winter.html",
+    "items": [
+      "/winter/2024-stats-winter/index.html"
     ]
   }
 ]

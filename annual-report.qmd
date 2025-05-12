@@ -1,5 +1,5 @@
 ---
-title: "<br>SARA Annual report 2024-25"
+title: "SARA Annual report 2024-25"
 format: html
 ---
 

@@ -14,12 +14,16 @@ include-in-header:
 
 ![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names." }
 
+::: {.centering}
+
 # [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
 
 :::
+
+:::
 :::
 
-::: {.column-page}
+::: {.column-page .centering}
 
 # Our Mission 
 
@@ -36,7 +40,7 @@ include-in-header:
 :::
 
 
-::::: {.column-page}
+::::: {.column-page .centering}
 
 # Inclusive Education
 
@@ -57,7 +61,7 @@ You will learn how to use a personal computer,  components of computers, how to
 
 Learning computer skills enhances employability, facilitate efficient communication, information retrieval, and collaboration.
 
-[Learn more](computer-course/computer-course.qmd)
+[Learn more](offline/computer/index.qmd)
 
 :::
 :::
@@ -71,7 +75,8 @@ Learning computer skills enhances employability, facilitate efficient communicat
 
 Uncovering hidden patterns to drive decision making and innovation using data science education.
 
-[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
+[R](summer.qmd), [Statistics](winter.qmd), [Python](online.qmd), & [Quarto](bootcamp.qmd)
+
 :::
 
 ::: {.card}
@@ -82,7 +87,7 @@ Uncovering hidden patterns to drive decision making and innovation using data sc
 
 Scholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.
 
-[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
+[Learn more](summer.qmd)
 :::
 :::
 
@@ -96,7 +101,7 @@ Scholars can Learn a systematic approach to investigate, analyse, and interpreti
 
 Learning English enhanced global communication, opens doors to diverse cultures, facilitates travel, and provides a competitive edge in the global job market.
 
-[Learn more](english-course/english-course.qmd)
+[Learn more](offline/english/index.qmd)
 
 :::
 :::
@@ -107,7 +112,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::::
 
-::::: {.column-screen .banner-cream}
+::::: {.column-screen .banner-cream .centering}
 
 # Free Data Science Trainings
 
@@ -188,7 +193,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ![](images/visit-lehrara.png)
 ::::
 
-:::: {.column-page .banner-white}
+:::: {.column-page .banner-white .centering}
 
 # Your Support, Our Strength
 
@@ -202,7 +207,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 
 
-::: {.column-screen .banner-cream}
+::: {.column-screen .banner-cream .centering}
 
 # Thank You!
 

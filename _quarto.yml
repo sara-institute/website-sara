@@ -57,11 +57,11 @@ website:
           # - text: Research Methods
           #   href: rm-summer/2025-summer-school/summer-school-2025.qmd
           - text: R Langauge
-            href: r-summer/2025-r-lang/r-summer-2025.qmd  
+            href: summer.qmd
           - text: Statistics using R
-            href: stats-winter/2024-stats-winter/stats-winter-2024.qmd
+            href: winter.qmd
           - text: Publish using Quarto
-            href: publish-bootcamp/2025-publish-bootcamp/publish-bootcamp-2025.qmd
+            href: bootcamp.qmd
       # - text: Studio
       #   href: studio.qmd
       - text: News & Events

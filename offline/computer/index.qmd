@@ -1,0 +1,78 @@
+---
+title: "Computer Basics Skills"
+author: "Dr. Kiran Lata, PhD"
+date: "2025-04-02"
+categories: [offline, computer]
+image: "computer.png"
+pagetitle: "SARA - Computer"
+---
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+
+![](computer.png)
+
+:::
+
+## Computer Basics Free Offline Course
+
+The **SARA computer course** is designed to empower students and community members with essential computer knowledge, helping them thrive in today's digital world. Whether you're a beginner or looking to enhance your current skills, this course offers a comprehensive introduction to key computer concepts and tools.
+
+### Course Highlights
+
+1. **Computer Basics:**
+    - What is a computer? Hardware vs. software.
+    - Types of computers (desktop, laptop, tablets).
+    - Hands-on: Setting up a computer, using mouse/keyboard.
+
+1. **Operating Systems & File Management:**
+    - Introduction to Windows.
+    - Creating, organizing, and saving files/folders.
+
+1. **Productivity Tools:**
+    - Word Processing: Typing, formatting, resumes.
+    - Spreadsheets: Basic formulas, charts.
+    - Presentations: Designing slideshows.
+    - Tools: Microsoft Office.
+    
+1. **Internet & Digital Safety:**
+    - How the internet works.
+    - Safe browsing, avoiding scams.
+    - Email basics (Gmail).   
+
+### Who Can Join?
+
+The course is open to everyone, including students, working professionals, and community members who want to improve their computer literacy. No prior experience is needed.
+
+### Why Take This Course?
+
+- Improve your job prospects with key technical skills
+
+- Gain confidence in using computers and online tools
+
+- Access more opportunities for education and professional growth
+
+### Course Format:
+
+- Duration: 3 months (offered 3-4 times in a year)
+
+- Mode: Only in-person sessions available
+
+<!-- - Certification: Receive a certificate upon successful completion -->
+
+Join us at the **SARA Institute of Data Science** and take your first step towards digital empowerment! 
+
+<br>
+
+**{{< fa phone >}}**
+Call us: 925 315 2024 
+
+<br>
+
+:::
+:::
+
+<br>
+

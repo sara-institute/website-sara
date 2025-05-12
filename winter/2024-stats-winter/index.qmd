@@ -1,0 +1,138 @@
+---
+title: "Statistics using R"
+image: images/students.jpeg
+date: "2025-12-16 "
+categories: [R, Data Science, Winter School, Completed, Statistics]
+pagetitle: "SARA - r"
+lightbox: true
+---
+
+We sincerely thank all participants and supporters for their invaluable contributions to the success of the SARA Winter School "Statistics using R" Dec 2024.
+
+![](images/students.jpeg)
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+
+:::
+
+::: {.card}
+
+::: {.centering}
+
+The **SARA Statistics Winter School** took place on **December 16 - 20, 2024.**
+
+The classes were offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+<br>
+
+[REGISTRATION FOR THE SARA STATISTICS WINTER SCHOOL 2024 IS NOW CLOSED!]{.clr-blue}
+
+### [Students from Underrepresented Communities will be Prioritized for Selection]{.clr-blue}
+
+[THERE IS NO TUITION FEE.]{.clr-navyblue}
+
+*15 December: Arrival of the participants.*
+
+*16 to 20 December: Classes for the participants.*
+
+*21 December: Departure of the participants.*
+	
+<br>
+	
+:::
+:::
+
+<br>
+
+::: {.card}
+
+::: {.centering}
+
+## Check Course Slides: <https://sara-course-stats.netlify.app/> 
+
+:::
+:::
+
+<br>
+
+::: {.card}
+
+## Courses
+
+**5 Days Courses (10 AM to 1 PM & 2 PM to 5 PM; 30 Hours)**
+
+**December 16 -- 20, 2024**
+
+:::
+
+
+<br>
+
+::: {.card}
+
+## Fee
+
+**There is no tuition fee for any participant.**
+
+The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Winter School.
+  
+**For further details about the winter school, courses, instructors, financial assistance, food, and accommodation please contact:**
+
+{{< fa envelope >}} sara.institute.info@gmail.com.
+
+{{< fa phone >}} Mobile number: 925 315 2024
+
+All participants receive an ungraded certificate of attendance on the last day of the SARA Winter School.
+
+Participants should bring their own laptop.
+
+Embark on an exciting journey of learning and exploration with us!
+
+Know about our previous data science [training](summer.html).
+
+<br>
+
+:::
+
+<br>
+
+::: {.card}
+
+## Food & Accommodation, supported By
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+
+We're happy to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+
+At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
+
+### Food
+
+Enjoy vegetarian meals served for breakfast, lunch, and dinner. 
+
+### Accommodation
+
+- For Female Participants: You'll be accommodated in a dedicated "female only" common hall furnished with beds, mattresses, and shared desert coolers. Rest assured, you'll have access to a "female only" shared bathroom for your convenience and privacy.
+
+- For Male Participants: Two male participants will be comfortably lodged in a "male only" sharing room within the premises. Additionally, they will have access to a "male only" shared bathroom for their comfort and convenience.
+
+We are committed to making your stay enjoyable and memorable. Should you have any special requirements or concerns, please don't hesitate to reach out to our team. We look forward to hosting you and creating wonderful memories together at Dr. Ambedkar Bhawan. 
+
+:::
+
+<br>
+
+
+
+<br>

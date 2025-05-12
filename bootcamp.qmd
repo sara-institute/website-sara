@@ -1,0 +1,18 @@
+---
+title: "SARA Data Science Bootcamp"
+listing:
+  contents: bootcamp
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+#page-layout: full
+title-block-banner: "#ffffff"
+title-block-style: default
+title-block-banner-color: "#003262"
+---
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/sara-institute/course-publish-quarto" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+---
