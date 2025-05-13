@@ -1,13 +1,14 @@
 ---
 title: "2nd R for Beginners"
 image: flyer.png
+description: "Join the Savitribai Ramabai (SARA) Institute of Data Science for a transformative 5-day, 30-hour offline summer school designed to teach R programming, data analysis, and reproducible reporting from scratch. Perfect for students, professionals, and aspiring data enthusiasts!"
 date: "2025-07-25"
 categories: [R, Data Science, Summer School, Open]
 pagetitle: "SARA - r"
 lightbox: true    
 ---
 
-Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> Registration Link: <https://forms.gle/T8oDSyGbyLi7bgF97> 
+Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Registration Link](https://forms.gle/T8oDSyGbyLi7bgF97)
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -105,10 +106,6 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> Reg
 
 :::: col
 ::: card
-## [Overview]{style="color:#ffae09"}
-
-Join the **Savitribai Ramabai (SARA) Institute of Data Science** for a transformative 5-day, 30-hour offline summer school designed to teach **R programming, data analysis,** and **reproducible reporting** from scratch. Perfect for students, professionals, and aspiring data enthusiasts!
-
 ## [Key Highlights]{style="color:#ffae09"}
 
 - **Hands-On Learning:** Code, analyze, and visualize real-world datasets.
