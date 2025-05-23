@@ -1,0 +1,29 @@
+---
+title: "Workshop Collaborations"
+subtitle: "Bringing Data Science Education to Campuses Nationwide"
+listing:
+  contents: workshops
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+#page-layout: full
+title-block-banner: "#ffffff"
+title-block-style: default
+title-block-banner-color: "#003262"
+lightbox: true    
+---
+
+## Empower Your Students with Hands-On Data Skills
+
+At SARA Institute of Data Science, we partner with universities, colleges, and institutes to deliver practical workshops that bridge the gap between theory and real-world data science.
+
+## Why Collaborate with SARA?
+
+- **Customized Workshops:** Tailored to your students’ needs—from R/Python basics to advanced analytics.        
+- **Expert Instructor:** Dr. Ajay Kumar Koli.          
+- **Career-Ready Skills:** Equip students with tools for research, internships, and jobs.     
+
+## Past Workshop Highlights
+

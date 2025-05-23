@@ -1,0 +1,21 @@
+---
+title: "Reproducible Research Made Easy"
+subtitle: "A Live Coding Demo for Social Scientists"
+author: "Dr. Ajay Kumar Koli"
+image: jnu3.jpg
+description: "One day in-person data science session for the students of the Centre for Political Studies, Jawaharlal Nehru University (JNU), New Delhi."
+date: "2024-10-05"
+categories: [R, Data Science, Political Studies, JNU]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+![](jnu1.jpg)
+
+![](jnu2.jpg)
+
+![](jnu3.jpg)
+
+![](jnu4.jpg)
+
+![](jnu5.jpg)

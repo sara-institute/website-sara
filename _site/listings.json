@@ -30,5 +30,15 @@
     "items": [
       "/winter/2024-stats-winter/index.html"
     ]
+  },
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/workshops/jnu-pol/index.html",
+      "/workshops/gju-mmttc/index.html",
+      "/workshops/gju-hisar/index.html",
+      "/workshops/srm-sonipat/index.html",
+      "/workshops/mdu-eco/index.html"
+    ]
   }
 ]

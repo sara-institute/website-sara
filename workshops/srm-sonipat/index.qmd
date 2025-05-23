@@ -1,0 +1,14 @@
+---
+title: "R for Beginners"
+author: "Dr. Ajay Kumar Koli"
+image: srm1.jpg
+description: "One day in person data science workshop for the students of the Department of Food Technology, SRM University, Sonipat, Haryana."
+date: "2024-05-03"
+categories: [R, Data Science, Food Technology, SRM]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+![](srm1.jpg)
+
+![](srm2.jpg)

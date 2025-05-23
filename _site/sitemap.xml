@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sara-edu.netlify.app/workshops/srm-sonipat/index.html</loc>
+    <lastmod>2025-05-23T05:32:59.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/workshops/jnu-pol/index.html</loc>
+    <lastmod>2025-05-23T05:20:23.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/workshops/gju-hisar/index.html</loc>
+    <lastmod>2025-05-23T04:57:05.273Z</lastmod>
+  </url>
+  <url>
     <loc>https://sara-edu.netlify.app/winter/2024-stats-winter/index.html</loc>
     <lastmod>2025-05-12T09:50:36.280Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/timeline.html</loc>
-    <lastmod>2025-03-13T08:44:45.875Z</lastmod>
+    <lastmod>2025-05-23T05:36:24.830Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/support.html</loc>
@@ -74,7 +86,7 @@
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/summer.html</loc>
-    <lastmod>2025-05-12T10:34:19.183Z</lastmod>
+    <lastmod>2025-05-23T03:53:18.034Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/summer/2025-r4b/index.html</loc>
@@ -87,5 +99,17 @@
   <url>
     <loc>https://sara-edu.netlify.app/winter.html</loc>
     <lastmod>2025-05-12T09:48:00.089Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/workshops.html</loc>
+    <lastmod>2025-05-23T05:09:19.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/workshops/gju-mmttc/index.html</loc>
+    <lastmod>2025-05-23T05:08:46.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/workshops/mdu-eco/index.html</loc>
+    <lastmod>2025-05-23T04:57:40.698Z</lastmod>
   </url>
 </urlset>

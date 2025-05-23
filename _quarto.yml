@@ -29,7 +29,6 @@ website:
     #type: danger
     #position: below-navbar
   
-  
   navbar:
     search: false
     pinned: false
@@ -54,8 +53,6 @@ website:
           #   href: python-course/python-course.qmd  
       - text: Trainings 
         menu:
-          # - text: Research Methods
-          #   href: rm-summer/2025-summer-school/summer-school-2025.qmd
           - text: R Langauge
             href: summer.qmd
           - text: Statistics using R
@@ -64,6 +61,8 @@ website:
             href: bootcamp.qmd
       # - text: Studio
       #   href: studio.qmd
+      - text: Workshop Collaborations
+        href: workshops.qmd
       - text: News & Events
         href: news.qmd
       - text: Support 

@@ -75,7 +75,7 @@ SARA Winter School "Statistics using R"
 
 SARA Data Science Bootcamp "Publish using Quarto"
 
-![](https://sara-edu.netlify.app/publish-bootcamp/2025-publish-bootcamp/images/students-march25.jpg)
+![](https://sara-edu.netlify.app/bootcamp/2025-bootcamp/images/students.jpg)
 
 :::
 

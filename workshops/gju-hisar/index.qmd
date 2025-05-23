@@ -1,0 +1,14 @@
+---
+title: "Reproducible Research using R"
+author: "Dr. Ajay Kumar Koli"
+image: gju2.jpg
+description: "Two days in person data science workshop for the students of the Department of Food Technology, Guru Jambheshwar University (GJU) of Science & Technology, Hisar, Haryana."
+date: "2024-05-28"
+categories: [R, Data Science, Food Technology, GJU]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+![](gju1.jpg)
+
+![](gju2.jpg)

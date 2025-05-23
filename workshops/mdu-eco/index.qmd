@@ -1,0 +1,12 @@
+---
+title: "Reproducible Research using R"
+author: "Dr. Ajay Kumar Koli"
+image: mdu.jpg
+description: "Two Days in person data science workshop for the PhD scholars of the Department of Economics, Maharshi Dayanand University (MDU), Rohtak, Haryana."
+date: "2023-12-1"
+categories: [R, Data Science, Economics, MDU]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+![](mdu.jpg)

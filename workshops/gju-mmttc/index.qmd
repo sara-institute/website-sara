@@ -1,0 +1,14 @@
+---
+title: "Data Analysis using R"
+author: "Dr. Ajay Kumar Koli"
+image: mmttc2.jpg
+description: "Two online data science sessions under Malaviya Mission Teacher Training Center for Social Science Faculty of the Guru Jambheshwar University (GJU) of Science & Technology, Hisar, Haryana."
+date: "2024-06-12"
+categories: [R, Data Science, MMTTC, GJU, Social Science, Faculty]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+![](mmttc1.jpg)
+
+![](mmttc2.jpg)
