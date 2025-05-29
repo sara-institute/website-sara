@@ -1,5 +1,5 @@
 ---
-title: "<br>Support SARA"
+title: "<br>Donate to SARA"
 pagetitle: "Support"
 #page-layout: full
 #backgroundcolor: "#e9e9e9"

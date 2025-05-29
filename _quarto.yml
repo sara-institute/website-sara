@@ -65,8 +65,8 @@ website:
         href: workshops.qmd
       - text: News & Events
         href: news.qmd
-      - text: Support 
-        href: support.qmd
+      - text: Donate 
+        href: donate.qmd
       - text: Contact
         href: contact.qmd
         

@@ -1,7 +1,7 @@
 ---
-title: "2nd R for Beginners"
+title: "R for Researchers"
 image: flyer.png
-description: "Join the Savitribai Ramabai (SARA) Institute of Data Science for a transformative 5-day, 30-hour offline summer school designed to teach R programming, data analysis, and reproducible reporting from scratch. Perfect for students, professionals, and aspiring data enthusiasts!"
+description: "Join us for a transformative 5-day, 30-hour offline 2nd summer school designed to teach R programming, data analysis, and reproducible reporting from scratch. Perfect for PhD students, professionals, and aspiring data enthusiasts!"
 date: "2025-07-25"
 categories: [R, Data Science, Summer School, Open]
 pagetitle: "SARA - r"
@@ -10,15 +10,14 @@ lightbox: true
 
 Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Registration Link](https://forms.gle/T8oDSyGbyLi7bgF97)
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+<div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGmpXbxwsk/yG2GyJzMGzs7gvrEF0Khqg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGos0QolWg/Z4Bd2NloyphIKt0X_urKGA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGmpXbxwsk&#x2F;yG2GyJzMGzs7gvrEF0Khqg&#x2F;view?utm_content=DAGmpXbxwsk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-summer-school</a> by Sara Institute
-
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGos0QolWg&#x2F;Z4Bd2NloyphIKt0X_urKGA&#x2F;view?utm_content=DAGos0QolWg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-summer-school</a> by Sara Institute
 
 
 <!-- ::: {.centering} -->

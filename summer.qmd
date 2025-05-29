@@ -1,5 +1,6 @@
 ---
 title: "2nd SARA Data Science Summer School"
+subtitle: "Non Profit Event"
 listing:
   contents: summer
   sort: "date desc"

@@ -10,25 +10,25 @@ include-in-header:
     </style>
 ---
 
-::: {.banner-blue}
+:::: {.banner-blue}
 ::: {.column-screen}
 
 ![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names." }
 
 ::: {.centering}
 
-# [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
+# [SARA Institute of Data Science]{.clr-white}
 
 :::
 
 :::
-:::
+::::
 
 ::: {.column-page .centering}
 
 # Our Mission 
 
-[At the Savitribai Ramabai (SARA) Institute of Data Science, our mission is to **democratize data science** by removing barriers of privilege, technical complexity, and financial exclusion. We provide **free, inclusive education** in computer skills, English, and data science to empower students from marginalized communities, PhD scholars, and professionals. ]{.p-mission}
+[SARA is a non-profit education institute democratizing data science across India. We break barriers of privilege, technical complexity, and financial exclusion by providing free, inclusive training in coding, English, and data skills — empowering students, researchers, and professionals to transform their futures.]{.p-mission}
 
 ::: {.button}
 [Learn more](about.qmd)
@@ -40,12 +40,13 @@ include-in-header:
 ![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
 :::
 
+---
 
 ::::: {.column-page .centering}
 
 # Inclusive Education
 
-[Our courses are open to everyone, free for all.]{.p-mission}
+[Since 2023, we’ve trained 200+ learners from rural communities, public universities, and underrepresented groups.]{.p-mission}
 
 <br>
 
@@ -115,7 +116,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::::: {.column-screen .banner-cream .centering}
 
-# Free Data Science Trainings
+# Data Science Trainings
 
 [Week-long Offline Trainings of Data Science.]{.p-mission}
 
@@ -196,12 +197,12 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::: {.column-page .banner-white .centering}
 
-# Your Support, Our Strength
+# Donate for Education
 
-[At SARA, people are at the heart of everything we do. Through collaboration and mutual support, we build a brighter, more inclusive future.]{.p-mission}
+[Every ₹1,000 you donate unlocks data science skills for an underserved learner.]{.p-mission}
 
 ::: {.button}
- [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate to SARA](support.qmd)
+ [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate Now](support.qmd)
 :::
 
 ::::
