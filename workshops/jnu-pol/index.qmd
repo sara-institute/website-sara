@@ -1,6 +1,6 @@
 ---
-title: "Reproducible Research Made Easy"
-subtitle: "A Live Coding Demo for Social Scientists"
+title: "Reproducible Research Made Easy - A Live Coding Demo for Social Scientists"
+subtitle: "Centre for Political Studies, JNU, New Delhi"
 author: "Dr. Ajay Kumar Koli"
 image: jnu3.jpg
 description: "One day in-person data science session for the students of the Centre for Political Studies, Jawaharlal Nehru University (JNU), New Delhi."

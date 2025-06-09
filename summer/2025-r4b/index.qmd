@@ -1,8 +1,9 @@
 ---
 title: "R for Researchers"
+subtitle: "Supercharge Your PhD with R!"
 image: flyer.png
-description: "Join us for a transformative 5-day, 30-hour offline 2nd summer school designed to teach R programming, data analysis, and reproducible reporting from scratch. Perfect for PhD students, professionals, and aspiring data enthusiasts!"
-date: "2025-07-25"
+description: "Join us for a transformative 5-day, 30-hour offline 2nd summer school designed to teach R programming, data analysis, & reproducible reporting from scratch. Perfect for PhD students, professionals, and aspiring data enthusiasts!"
+date: "2025-05-29"
 categories: [R, Data Science, Summer School, Open]
 pagetitle: "SARA - r"
 lightbox: true    
@@ -119,13 +120,13 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
 **Day 2:** Data Wrangling with dplyr and tidyr          
 **Day 3:** Visualization Mastery with ggplot2        
 **Day 4:** Statistical Analysis & Hypothesis Testing        
-**Day 5:** Capstone Project + Reproducible Reports in Quarto       
+**Day 5:** Reproducible Reports in Quarto       
 
 Tools Covered: R, RStudio & Quarto.
 
 ## [Who Should Join?]{style="color:#ffae09"}
 
-- Students (UG/PG) in STEM, social sciences, or humanities.    
+- PhD Scholars & Students (UG/PG) in STEM, social sciences, or humanities.    
 - Professionals seeking data-driven career growth.
 - Educators and researchers aiming to integrate R into their work.
 - Career changers exploring tech opportunities.
@@ -134,7 +135,7 @@ Tools Covered: R, RStudio & Quarto.
 
 -   **Dates**: 25-29 July 2025
 -   **Duration**: 5 days
--   **Fee**: ₹6,000 INR (Inclusive of food and accommodation), scholarships available for eligible candidates
+-   **Fee**: ₹5,000 INR (Inclusive of food and accommodation), **scholarships available** for eligible candidates
 -   **Payment**: You can secure your spot by making the payment via below QR or using our UPI ID is `919253152024@sbi`.
 -   **Location**: SARA Institute, Dr. Ambedkar Bhavan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001.
 

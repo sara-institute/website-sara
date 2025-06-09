@@ -1,5 +1,6 @@
 ---
 title: "Our Mission"
+subtitle: "Coding for Everyone"
 #subtitle: "SARA for Community Empowerment"
 pagetitle: "About"
 #layout: page
@@ -14,7 +15,10 @@ include-in-header:
         border-bottom: none;
       }
     </style>
-
+lightbox: true
+title-block-banner: "#ffffff"
+title-block-style: default
+title-block-banner-color: "#003262"
 ---
 
 <!-- [At the Savitribai Ramabai (SARA) Institute of Data Science, our mission is to **democratize data science** by tearing down barriers of privilege, technical complexity, and financial exclusion. Through global collaborations with experts, hands-on mentorship, and accessible resources, we equip learners to harness data for innovation, equity, and societal progress. Together, we’re building a future where education is a universal right—not a luxury—and where every individual can shape tomorrow’s data-driven world.]{.p-mission} -->
@@ -26,7 +30,7 @@ include-in-header:
 
 ::: {.centering}
 
-![](images/banner.png)
+![](images/banner-cofe.png)
 
 :::
 

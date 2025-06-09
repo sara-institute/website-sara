@@ -1,5 +1,6 @@
 ---
 title: "R for Beginners"
+subtitle: "Department of Food Technology, SRM University, Sonipat (HR)."
 author: "Dr. Ajay Kumar Koli"
 image: srm1.jpg
 description: "One day in person data science workshop for the students of the Department of Food Technology, SRM University, Sonipat, Haryana."

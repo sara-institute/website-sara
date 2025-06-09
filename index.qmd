@@ -40,8 +40,6 @@ include-in-header:
 ![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
 :::
 
----
-
 ::::: {.column-page .centering}
 
 # Inclusive Education
@@ -112,7 +110,11 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 <br>
 
+---
+
 :::::
+
+
 
 ::::: {.column-screen .banner-cream .centering}
 
@@ -188,9 +190,14 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 <br>
 
+----
+
+<br>
+
 :::::
 
 :::: {.column-screen .banner-white}
+
 
 ![](images/visit-lehrara.png)
 ::::
@@ -199,7 +206,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Donate for Education
 
-[Every ₹1,000 you donate unlocks data science skills for an underserved learner.]{.p-mission}
+[Every ₹1,000 you donate unlocks data science skills for a learner.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate Now](support.qmd)
@@ -247,6 +254,6 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 [With your support, we build SARA for a brighter future.]{.p-mission}
 
 
-[Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Support](support.qmd) &nbsp; [Contact](contact.qmd)
+[Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Donate](donate.qmd) &nbsp; [Contact](contact.qmd)
 
 :::

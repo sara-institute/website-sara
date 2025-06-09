@@ -12,11 +12,38 @@ include-in-header:
         border-bottom: none;
       }
     </style>
-
+lightbox: true
+title-block-banner: "#ffffff"
+title-block-style: default
+title-block-banner-color: "#003262"
 ---
 
 ::: {.col}
 ::: {.card}
+
+## 28 May 2025
+
+Thank you to Julius Maximilians University of Würzburg, Germany, and Michaela Thiel for the kind shout-out about our work at the SARA Institute of Data Science!
+
+🔗 Read more: [UNI WÜRZBURG COMMUNITY - 1000 Careers One Story](https://www.uni-wuerzburg.de/alumni/community/aktueller-community-letter/newsletter-single/news/the-uni-wuerzburg-community-is-widespread-around-the-world/)
+
+![](images/germany.png)
+
+-------
+
+## 2 November 2024
+
+We at SARA Institute would like to extend our heartfelt gratitude to [*The News Beak*](https://www.youtube.com/c/thenewsbeak) for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like *The News Beak* not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.
+
+This feature will undoubtedly help spread awareness about our initiatives, fostering more support and engagement from the community. We are committed to continuing our work with the same enthusiasm and to reaching even more students who can benefit from quality education and mentorship.
+
+Thank you once again, *The News Beak*, for shining a light on our journey. Your support plays a vital role in motivating us to keep moving forward and expanding our impact.
+
+{{< video https://youtu.be/c0ZJQSdoWXI?si=knEdw6BUsRvAzW07 >}}
+
+<br>
+
+-----
 
 ## 28 May 2024
 
@@ -33,18 +60,6 @@ We are honored to have had the opportunity to share insights and empower student
 ![](images/gju2.jpg)
 
 :::
-
-------
-
-## 2 November 2024
-
-We at SARA Institute would like to extend our heartfelt gratitude to [*The News Beak*](https://www.youtube.com/c/thenewsbeak) for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like *The News Beak* not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.
-
-This feature will undoubtedly help spread awareness about our initiatives, fostering more support and engagement from the community. We are committed to continuing our work with the same enthusiasm and to reaching even more students who can benefit from quality education and mentorship.
-
-Thank you once again, *The News Beak*, for shining a light on our journey. Your support plays a vital role in motivating us to keep moving forward and expanding our impact.
-
-{{< video https://youtu.be/c0ZJQSdoWXI?si=knEdw6BUsRvAzW07 >}}
 
 :::
 :::

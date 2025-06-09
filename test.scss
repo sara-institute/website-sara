@@ -6,7 +6,8 @@ $clr-gray:        #2A2121;
 $clr-blue:        #0061ab;
 $clr-cream:       #f2f2f2;
 $clr-white:       #fff;
-$clr-tom:        #ef4338;
+$clr-tom:         #ef4338;
+$clr-gam:         seagreen;
 
 .clr-blue {
   color: $clr-blue;
@@ -41,7 +42,7 @@ $navbar-bg: $clr-navyblue;
 $navbar-fg: $clr-white; //color of nav bar text
 $navbar-hl: $clr-white; //nav bar text hover color
 
-$link-color: $clr-tom; //#2A2121;
+$link-color: $clr-gam; //#2A2121;
 
 h1{
   font-family: "Poppins", sans-serif;
@@ -92,7 +93,7 @@ h2{
   font-weight: 100;
   //font-family: "Noto", Sans-Serif;
   line-height: 200%;
-  color: #003262;
+  #color: #003262;
   text-align: center;
 }
 

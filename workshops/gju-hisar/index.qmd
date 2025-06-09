@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research using R"
+subtitle: "Department of Food Technology, GJU, Hisar (HR)"
 author: "Dr. Ajay Kumar Koli"
 image: gju2.jpg
 description: "Two days in person data science workshop for the students of the Department of Food Technology, Guru Jambheshwar University (GJU) of Science & Technology, Hisar, Haryana."
