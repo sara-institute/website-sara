@@ -7,9 +7,10 @@
     ]
   },
   {
-    "listing": "/online.html",
+    "listing": "/offline.html",
     "items": [
-      "/online/python-course/index.html"
+      "/offline/computer/index.html",
+      "/offline/english/index.html"
     ]
   },
   {
@@ -19,10 +20,10 @@
     ]
   },
   {
-    "listing": "/offline.html",
+    "listing": "/online.html",
     "items": [
-      "/offline/computer/index.html",
-      "/offline/english/index.html"
+      "/online/data-viz-course/index.html",
+      "/online/python-course/index.html"
     ]
   },
   {

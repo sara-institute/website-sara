@@ -1,0 +1,45 @@
+---
+title: "Data Visalization using Excel"
+subtitle: "A Fundraising Course"
+author: "Natalia Kiseleva"
+date: "<br>2025-06-18"
+categories: [excel, data visualization]
+image: "cover.png"
+pagetitle: "Viz - SARA"
+
+---
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+
+![](cover.png){width=70%}
+
+:::
+
+## SARA Online Course Data Visualization using Excel
+
+Join our live online course to turn raw numbers into compelling stories. Designed for NGO workers, researchers, students, and professionals, you’ll gain practical skills to create dashboards, charts, and reports that drive change — no coding needed.
+
+# ***MORE INFORMATION COMING SOON!***
+
+<!-- ## Your Fee Creates Ripples of Change -->
+
+<!-- As a nonprofit, 100% of your course fee fuels SARA’s mission to democratize data science: -->
+
+<!-- - 🎓 Sponsors free books for rural learners -->
+
+<!-- - 💻 Buys Zoom licenses for community workshops -->
+
+<!-- - ✊ Supports fair salaries for our educators -->
+
+
+<!-- ## Course Details -->
+
+<!-- 📅 Dates: [Start] – [End] | 🕒 Time: 7:30–9:00 PM IST (4 live sessions).    -->
+<!-- 👩🏫 Instructor: Ajay Kumar, SARA Co-founder.     -->
+<!-- 💸 Investment: Pay What You Can (suggested ₹1,500).      -->
+<!-- 🔗 Enroll Now: <https://forms.gle/F1woLPkj3oQQYFkH6>       -->
+:::
+:::

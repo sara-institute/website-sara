@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Python Programming"
 author: "Hrithik Auchar"
-date: "<br>2024-04-19"
+date: "<br>2025-04-19"
 categories: [python, data science]
 image: "python.png"
 pagetitle: "Python - SARA"

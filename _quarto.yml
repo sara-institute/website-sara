@@ -11,6 +11,7 @@ project:
     browser: true
   #output-dir: docs
 
+
 website:
   title: "SARA INSTITUTE"
   favicon: "images/logo-sara.png"
