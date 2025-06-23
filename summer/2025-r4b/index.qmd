@@ -104,6 +104,49 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
 
 <br>
 
+::: {.centering}
+# Invited Guest Talks
+
+::: {.layout-grid}
+
+::: {.col}
+
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/wolf.jpg)
+
+**Wolf Riepl** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/wolfriepl/)
+
+Trainer R-Programming
+
+Statistik Dresden, Germany.
+
+:::
+:::
+
+::: {.col}
+<!-- ::: {.card} -->
+
+<!-- ![](images/damni.jpg) -->
+
+<!-- **Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/) -->
+
+<!-- PhD Candidate -->
+
+<!-- University of Cambridge, UK. -->
+
+<!-- ::: -->
+:::
+
+:::
+
+:::
+
+<br>
+
 :::: col
 ::: card
 ## [Key Highlights]{style="color:#ffae09"}
