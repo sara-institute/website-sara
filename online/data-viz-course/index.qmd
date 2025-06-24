@@ -1,45 +1,118 @@
 ---
 title: "Data Visalization using Excel"
-subtitle: "A Fundraising Course"
+subtitle: "A Not-for-profit Fundraising Course"
 author: "Natalia Kiseleva"
 date: "<br>2025-06-18"
 categories: [excel, data visualization]
 image: "cover.png"
 pagetitle: "Viz - SARA"
-
+description: "Join our live online course to turn raw numbers into compelling stories. Designed for NGO workers, researchers, students, and professionals, you’ll gain practical skills to data visualization using excel."
 ---
+
+:::: {.layout-grid}
 
 ::: {.col}
 ::: {.card}
 
-::: {.centering}
+![](nat.jpg)
 
-![](cover.png){width=70%}
+**Natalia Kiseleva** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/eolay/)
+
+Data Art | Data Comics | Data Visualization Specialist
+
+St Petersburg, Russia.
 
 :::
-
-## SARA Online Course Data Visualization using Excel
-
-Join our live online course to turn raw numbers into compelling stories. Designed for NGO workers, researchers, students, and professionals, you’ll gain practical skills to create dashboards, charts, and reports that drive change — no coding needed.
-
-# ***MORE INFORMATION COMING SOON!***
-
-<!-- ## Your Fee Creates Ripples of Change -->
-
-<!-- As a nonprofit, 100% of your course fee fuels SARA’s mission to democratize data science: -->
-
-<!-- - 🎓 Sponsors free books for rural learners -->
-
-<!-- - 💻 Buys Zoom licenses for community workshops -->
-
-<!-- - ✊ Supports fair salaries for our educators -->
-
-
-<!-- ## Course Details -->
-
-<!-- 📅 Dates: [Start] – [End] | 🕒 Time: 7:30–9:00 PM IST (4 live sessions).    -->
-<!-- 👩🏫 Instructor: Ajay Kumar, SARA Co-founder.     -->
-<!-- 💸 Investment: Pay What You Can (suggested ₹1,500).      -->
-<!-- 🔗 Enroll Now: <https://forms.gle/F1woLPkj3oQQYFkH6>       -->
 :::
-:::
+
+::::
+
+<br>
+
+::::: col
+:::: card
+
+## 🎯 Course Objectives
+
+-   Data Visualization Introduction
+
+-   Data Basics in Excel
+
+-   Charts in Excel
+
+-   Data Storytelling in Excel
+
+## 📅 Schedule & Format
+
+**Duration:** 4 Hours Total (2 weekends × 2-hour sessions)
+
+**Format:** Live Online (Zoom) + Hands-on Exercises
+
+**Dates:**
+
+-   Session 1: Sat, 5th July 2025, 08:00 PM - 09:00 PM IST
+
+-   Session 2: Sun, 6th July 2025, 08:00 PM - 09:00 PM IST
+
+-   Session 3: Sat, 12th July 2025, 08:00 PM - 09:00 PM IST
+
+-   Session 4: Sun, 13th July 2025, 08:00 PM - 09:00 PM IST
+
+**Materials:** Downloadable workbook + lifetime access to recordings
+
+## 👩🏼‍🏫 Meet Your Expert
+
+### **Natalia Kiseleva**
+
+*Data Art \| Data Comics \| Data Visualization Specialist*
+
+<https://eolay.tilda.ws/en>
+
+-   Trained professionals across the globe.
+
+-   Specializes in translating complex data for grassroots audiences
+
+## 💡 Who Should Attend
+
+-   Students analyzing thesis/research data
+
+-   NGO workers creating impact reports
+
+-   Early-career professionals building business presentations
+
+-   *Anyone tired of confusing spreadsheets!*
+
+## 🕊️ Pay-What-You-Can 
+
+| Participant Type      | Suggested Contribution             |
+|-----------------------|------------------------------------|
+| Professionals         | 20 USD                             |
+| NGOs/Govt. Employees  | 15 USD                             |
+| Students              | 10 USD                             |
+| No one turned away -- | contribute any amount comfortably. |
+
+## 📝 How to Join
+
+1. **Register:** <https://bit.ly/4jZ1ab5>
+
+1. **Pay Securely:**       
+      - Within India: Use UPI ID `9253152024@sbi`      
+      - Outside India: Use [Remitly](https://www.remitly.com/) to pay to **State Bank of India** account number `42920911856`.
+
+1. **Receive:** Zoom link within 24 hrs
+
+1. **Deadline:** Registrations close on 4th July 2025 or when seats fill!
+
+## ❓ Contact us
+
+**{{< fa phone >}} Phone:**<br>
+Main Office: +91 925 315 2024 
+
+<br>
+
+**{{< fa envelope >}} Email:**<br>
+General & donation inquiries: <sara.institute.info@gmail.com>
+
+
+::::
+:::::
