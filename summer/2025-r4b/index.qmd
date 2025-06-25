@@ -15,97 +15,15 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGos0QolWg/Z4Bd2NloyphIKt0X_urKGA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGrVLyrhqI/Dpu58fSx16DVxaOT-79VyA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGos0QolWg&#x2F;Z4Bd2NloyphIKt0X_urKGA&#x2F;view?utm_content=DAGos0QolWg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-summer-school</a> by Sara Institute
-
-
-<!-- ::: {.centering} -->
-<!-- # [Online Expert Lectures]{style="color:#228B22"} -->
-
-
-<!-- ::: {.layout-grid} -->
-
-<!-- ::: {.col} -->
-<!-- ::: {.card} -->
-
-<!-- ![](images/Gareth-Edanz.jpeg) -->
-
-<!-- **Dr. Gareth Dyke** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/garethdyke/) -->
-<!-- [{{< fa calendar-days >}} Date: 21 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
-
-<!-- PhD in Geology & Biology, University of Bristol.  -->
-
-<!-- +380 Peer Reviewed Articles includes *Nature* & *Science*. -->
-
-<!-- Co-Founder of [Sci-Train](https://sci-train.com/) -->
-
-<!-- Talk: [**Effective Research Writing**]{style="color:#228B22"} -->
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: {.col} -->
-<!-- ::: {.card} -->
-
-<!-- ![](images/sam-madam.jpg) -->
-
-<!-- **Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/) -->
-
-<!-- Adj Asst Professor, Baruch College, USA. -->
-
-<!-- Talk: [**Framing Research Questions**]{style="color:#228B22"} -->
-
-<!-- [{{< fa calendar-days >}} Date: 22 April {{< fa clock >}} Time: 5 PM IST]{style="color:#228B22"} -->
-<!-- ::: -->
-
-<!-- ::: {.card} -->
-
-<!-- ![](images/dare.png) -->
-
-<!-- **Dr. Eleanor Dare** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-eleanor-dare-09b93bb/) -->
-
-<!-- Post Doctoral Research Associate, University of Cambridge -->
-
-<!-- Co Founder of [Xordinary](https://xordinarystories.com/). -->
-
-<!-- Talk: [**Forensic AI**]{style="color:#228B22"} -->
-<!-- [{{< fa calendar-days >}} Date: 23 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
-<!-- ::: -->
-
-
-
-<!-- ::: -->
-
-<!-- ::: {.col} -->
-<!-- ::: {.card} -->
-
-<!-- ![](images/raju.jpg) -->
-
-<!-- **Dr. Raju Chalwadi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/raju-chalwadi-621489a0/) -->
-
-<!-- New Political Economy Initiative, IIT--Bombay -->
-
-<!-- Former Fulbright Fellow (2022-23), University of California, Santa Cruz -->
-
-<!-- M.A. Development Studies -- Tata Institute of Social Sciences -->
-
-<!-- Talk: [**Ethnographic Research**]{style="color:#228B22"} -->
-
-<!-- [{{< fa calendar-days >}} Date: 24 April {{< fa clock >}} Time: 4 PM IST]{style="color:#228B22"} -->
-
-
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ::: -->
-<!-- ::: -->
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGrVLyrhqI&#x2F;Dpu58fSx16DVxaOT-79VyA&#x2F;view?utm_content=DAGrVLyrhqI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-july-flyer</a> by Sara Institute
 
 <br>
 
 ::: {.centering}
-# Invited Guest Talks
+# [Invited Guest Talks]{style="color:#ffae09"}
 
 ::: {.layout-grid}
 
@@ -152,8 +70,8 @@ Statistik Dresden, Germany.
 ## [Key Highlights]{style="color:#ffae09"}
 
 - **Hands-On Learning:** Code, analyze, and visualize real-world datasets.
-- **Expert Instructors:** Learn from a PhD and data science professional.
-- **Fellowships for Marginalized Communities:** Scholarships available (priority to women, rural students, and SC/ST/OBC candidates).
+- **Expert Instructors:** Learn from international data science expert professionals.
+- **Fellowships for Marginalized Communities:** 5 Scholarships available (priority to women, rural students, and SC/ST/OBC candidates).
 - **Certificate of Completion:** Boost your resume with a SARA-certified credential.
 - **Networking:** Connect with peers and mentors in the data science field.
 
@@ -178,7 +96,7 @@ Tools Covered: R, RStudio & Quarto.
 
 -   **Dates**: 25-29 July 2025
 -   **Duration**: 5 days
--   **Fee**: ₹5,000 INR (Inclusive of food and accommodation), **scholarships available** for eligible candidates
+-   **Fee**: ₹3,500 INR (Inclusive of food and accommodation), **scholarships available** for eligible candidates
 -   **Payment**: You can secure your spot by making the payment via below QR or using our UPI ID is `919253152024@sbi`.
 -   **Location**: SARA Institute, Dr. Ambedkar Bhavan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001.
 
