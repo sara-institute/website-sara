@@ -22,14 +22,10 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
 
 <br>
 
-::: {.centering}
-# [Invited Guest Talks]{style="color:#ffae09"}
+::::: {.centering}
+# [International Guest Speakers]{style="color:#ffae09"}
 
-::: {.layout-grid}
-
-::: {.col}
-
-:::
+:::: {.layout-grid}
 
 ::: {.col}
 ::: {.card}
@@ -46,22 +42,50 @@ Statistik Dresden, Germany.
 :::
 
 ::: {.col}
-<!-- ::: {.card} -->
 
-<!-- ![](images/damni.jpg) -->
+::: {.card}
 
-<!-- **Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/) -->
+![](images/bitsy.jpg)
 
-<!-- PhD Candidate -->
+**Betsabe Laila Cohen** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
 
-<!-- University of Cambridge, UK. -->
+Sociologist | R Expert
 
-<!-- ::: -->
-:::
 
-:::
+RLadies Buenos Aires, Argentina.
 
 :::
+
+::: {.card}
+
+![](images/lito.png)
+
+**Dr. Lito P Cruz** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/l-p-cruz-phd/)
+
+Principal Data Science Consultant
+
+Sleekersoft, Australia.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/anirban.jpg)
+
+**Anirban Shaw** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/)
+
+R & Py Data Science
+
+Bristol Myers Squibb, India.
+
+:::
+:::
+
+
+::::
+:::::
 
 <br>
 
@@ -76,6 +100,8 @@ Statistik Dresden, Germany.
 - **Networking:** Connect with peers and mentors in the data science field.
 
 ## [Curriculum Snapshot]{style="color:#ffae09"}
+
+*Detailed schedule will be updated soon!*
 
 **Day 1:** R Basics – Syntax, Data Types, and Functions       
 **Day 2:** Data Wrangling with dplyr and tidyr          
