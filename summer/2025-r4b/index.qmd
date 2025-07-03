@@ -101,15 +101,13 @@ Bristol Myers Squibb, India.
 
 ## [Curriculum Snapshot]{style="color:#ffae09"}
 
-*Detailed schedule will be updated soon!*
-
 **Day 1:** R Basics – Syntax, Data Types, and Functions       
 **Day 2:** Data Wrangling with dplyr and tidyr          
-**Day 3:** Visualization Mastery with ggplot2        
-**Day 4:** Statistical Analysis & Hypothesis Testing        
-**Day 5:** Reproducible Reports in Quarto       
+**Day 3:** Data Visualization using ggplot2        
+**Day 4:** Quantitative Data Analysis       
+**Day 5:** Reproducible Research in Quarto    
 
-Tools Covered: R, RStudio & Quarto.
+See @sec-course-details for more information.
 
 ## [Who Should Join?]{style="color:#ffae09"}
 
@@ -152,6 +150,156 @@ As a non-profit organization, SARA is committed to making education accessible t
 <!-- Departure of participants on Saturday 26 April 2025. -->
 <!-- ::: -->
 <!-- :::: -->
+
+<br>
+
+::: {.card}
+
+## Course Details {#sec-course-details}
+
+**5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:00 PM; approx 30-35 hours):**
+
+**25-29 July 2025**
+
+<br>
+
+📅 **DAY 1 (Fri 25 July): [Introduction to Data Science]{style="color:#ffae09"}**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+***Topic: Functional Programming in R and tidyverse***
+
+By **Wolf Riepl** Trainer R-Programming, Germany | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+    
+{{< fa clock >}} 25 JULY 4 PM IST.
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- R & RStudio. 
+- Types of operators.  
+- RStudio project.  
+- Coding using console, script & quarto. 
+- Structure of R function.  
+- R packages.  
+- Create objects. 
+- Communicate using quarto. 
+- Help from R community.  
+
+:::
+
+<br>
+
+📅 **DAY 2 (Sat 26 July): [Data Wrangling with dplyr & tidyr]{style="color:#ffae09"}**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+*Yet to be confrim!*
+
+<!-- ***Topic: Functional Programming in R and tidyverse*** -->
+
+<!-- By **Wolf Riepl** Trainer R-Programming, Germany | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/) -->
+
+<!-- {{< fa clock >}} 25 JULY 4 PM IST. -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Introduction to Tidyverse
+- Clean and transform messy datasets       
+- Data Manipulation with `dplyr`        
+- Reshaping Data with `tidyr`    
+
+:::
+
+<br>
+
+📅 **DAY 3 (Sun 26 July): [Data Visualization using ggplot2]{style="color:#ffae09"}**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+***Tentative Topic: Shiny using R***
+
+By **Anirban Shaw** R & Shiny Expert, India [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/)
+    
+{{< fa clock >}} 25 JULY 4 PM IST.
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Introduction & first steps. 
+- ggplot2 calls. 
+- Visualizing distributions. 
+- Visualizing relationships.  
+- Saving your plots.     
+- Common problems.  
+
+:::
+
+<br>
+
+📅 **DAY 4 (Mon 28 July): [Quantitative Data Analysis]{style="color:#ffae09"}**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+***Tentative Topic: Hypothesis Testing & Regression***
+
+By **Dr. Lito P Cruz**, Principal Data Science Consultant, Australia | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/l-p-cruz-phd/)
+    
+{{< fa clock >}} 25 JULY 4 PM IST.
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Data and table manners.  
+- Average & Spreads.  
+- The normal distribution.  
+- From samples to populations.     
+- Hypothesis testing - getting confident. 
+- Correlation and regression.  
+
+:::
+
+<br>
+
+📅 **DAY 5 (Tue 29 July): [Reproducible Research using Quarto]{style="color:#ffae09"}**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+***Tentative Topic: Reporting using Quarto***
+
+By **Betsabe Laila Cohen**, Sociologist & R expert, Argentina | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
+    
+{{< fa clock >}} 29 JULY 4 PM IST.
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Reproducible research.  
+- Dynamic thesis, articles and slides.
+- Add links and images.  
+- Prepare list.  
+- Write equations.  
+- Prepare tables.  
+- Reference management.  
+   
+:::
+:::
 
 <br>
 

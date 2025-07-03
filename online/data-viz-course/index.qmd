@@ -50,15 +50,21 @@ St Petersburg, Russia.
 
 **Dates:**
 
--   Session 1: Sat, 5th July 2025, 08:00 PM - 09:00 PM IST
+- **Session 1: Sat, 5th July 2025, 08:00 PM - 09:00 PM IST**      
+***[Data Visualization Introduction:]{style="color:#ffae09"}*** In the introduction, you’ll learn about different areas of data visualization and discover why it’s important and how it helps people. We’ll discuss the principles behind how visualization works and get inspired by beautiful examples!
 
--   Session 2: Sun, 6th July 2025, 08:00 PM - 09:00 PM IST
+- **Session 2: Sun, 6th July 2025, 08:00 PM - 09:00 PM IST**          
+***[Data Basics in Excel:]{style="color:#ffae09"}***
+Learn how to prepare your data before building charts. Clean messy tables, fix wrong formats, remove duplicates, and arrange your data into a tidy structure ready for visualization.
 
--   Session 3: Sat, 12th July 2025, 08:00 PM - 09:00 PM IST
+- **Session 3: Sat, 12th July 2025, 08:00 PM - 09:00 PM IST**       
+***[Chart Choosing & Charts in Excel:]{style="color:#ffae09"}***
+Discover how to pick the right chart for your message. Understand which charts work best for comparisons, trends, parts of a whole, distributions, and relationships in your data.
+Get hands-on practice creating charts in Excel. Learn how to build bar charts, line charts, pie charts, and more. Customize colors, labels, titles, and styles to make your visuals clear and professional.
 
--   Session 4: Sun, 13th July 2025, 08:00 PM - 09:00 PM IST
-
-**Materials:** Downloadable workbook + lifetime access to recordings
+- **Session 4: Sun, 13th July 2025, 08:00 PM - 09:00 PM IST**      
+***[Data Storytelling in Excel:]{style="color:#ffae09"}***
+Go beyond charts and turn your data into a story. Learn how to highlight key insights, guide your audience’s attention, and create engaging reports or dashboards that people understand and remember.
 
 ## 💡 Who Should Attend
 

@@ -95,7 +95,7 @@
     "href": "summer/2025-r4b/index.html#curriculum-snapshot",
     "title": "R for Researchers",
     "section": "Curriculum Snapshot",
-    "text": "Curriculum Snapshot\nDetailed schedule will be updated soon!\nDay 1: R Basics – Syntax, Data Types, and Functions\nDay 2: Data Wrangling with dplyr and tidyr\nDay 3: Visualization Mastery with ggplot2\nDay 4: Statistical Analysis & Hypothesis Testing\nDay 5: Reproducible Reports in Quarto\nTools Covered: R, RStudio & Quarto."
+    "text": "Curriculum Snapshot\nDay 1: R Basics – Syntax, Data Types, and Functions\nDay 2: Data Wrangling with dplyr and tidyr\nDay 3: Data Visualization using ggplot2\nDay 4: Quantitative Data Analysis\nDay 5: Reproducible Research in Quarto\nSee Section 1.5 for more information."
   },
   {
     "objectID": "summer/2025-r4b/index.html#who-should-join",
@@ -110,6 +110,13 @@
     "title": "R for Researchers",
     "section": "Program Details:",
     "text": "Program Details:\n\nDates: 25-29 July 2025\nDuration: 5 days\nFee: ₹3,500 INR (Inclusive of food and accommodation), scholarships available for eligible candidates\nPayment: You can secure your spot by making the payment via below QR or using our UPI ID is 919253152024@sbi.\nLocation: SARA Institute, Dr. Ambedkar Bhavan, Kakroi Road (near Dayanand Hospital), Sonipat, Haryana - 131001.\n\nAs a non-profit organization, SARA is committed to making education accessible to all. The fee covers only the essential costs of food and accommodation, ensuring that everyone has the opportunity to participate."
+  },
+  {
+    "objectID": "summer/2025-r4b/index.html#sec-course-details",
+    "href": "summer/2025-r4b/index.html#sec-course-details",
+    "title": "R for Researchers",
+    "section": "Course Details",
+    "text": "Course Details\n5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:00 PM; approx 30-35 hours):\n25-29 July 2025\n\n📅 DAY 1 (Fri 25 July): Introduction to Data Science\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Functional Programming in R and tidyverse\nBy Wolf Riepl Trainer R-Programming, Germany | \n 25 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nR & RStudio.\nTypes of operators.\n\nRStudio project.\n\nCoding using console, script & quarto.\nStructure of R function.\n\nR packages.\n\nCreate objects.\nCommunicate using quarto.\nHelp from R community.\n\n\n\n\n\n📅 DAY 2 (Sat 26 July): Data Wrangling with dplyr & tidyr\n\nOnline Expert LectureIn-person sessions\n\n\nYet to be confrim!\n\n\n\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction to Tidyverse\nClean and transform messy datasets\n\nData Manipulation with dplyr\n\nReshaping Data with tidyr\n\n\n\n\n\n📅 DAY 3 (Sun 26 July): Data Visualization using ggplot2\n\nOnline Expert LectureIn-person sessions\n\n\nTentative Topic: Shiny using R\nBy Anirban Shaw R & Shiny Expert, India \n 25 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction & first steps.\nggplot2 calls.\nVisualizing distributions.\nVisualizing relationships.\n\nSaving your plots.\n\nCommon problems.\n\n\n\n\n\n📅 DAY 4 (Mon 28 July): Quantitative Data Analysis\n\nOnline Expert LectureIn-person sessions\n\n\nTentative Topic: Hypothesis Testing & Regression\nBy Dr. Lito P Cruz, Principal Data Science Consultant, Australia | \n 25 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nData and table manners.\n\nAverage & Spreads.\n\nThe normal distribution.\n\nFrom samples to populations.\n\nHypothesis testing - getting confident.\nCorrelation and regression.\n\n\n\n\n\n📅 DAY 5 (Tue 29 July): Reproducible Research using Quarto\n\nOnline Expert LectureIn-person sessions\n\n\nTentative Topic: Reporting using Quarto\nBy Betsabe Laila Cohen, Sociologist & R expert, Argentina | \n 29 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nReproducible research.\n\nDynamic thesis, articles and slides.\nAdd links and images.\n\nPrepare list.\n\nWrite equations.\n\nPrepare tables.\n\nReference management."
   },
   {
     "objectID": "summer/2025-r4b/index.html#refund-policy",
@@ -221,7 +228,7 @@
     "href": "online/data-viz-course/index.html#schedule-format",
     "title": "Data Visalization using Excel",
     "section": "📅 Schedule & Format",
-    "text": "📅 Schedule & Format\nDuration: 4 Hours Total (2 weekends × 2-hour sessions)\nFormat: Live Online (Zoom) + Hands-on Exercises\nDates:\n\nSession 1: Sat, 5th July 2025, 08:00 PM - 09:00 PM IST\nSession 2: Sun, 6th July 2025, 08:00 PM - 09:00 PM IST\nSession 3: Sat, 12th July 2025, 08:00 PM - 09:00 PM IST\nSession 4: Sun, 13th July 2025, 08:00 PM - 09:00 PM IST\n\nMaterials: Downloadable workbook + lifetime access to recordings"
+    "text": "📅 Schedule & Format\nDuration: 4 Hours Total (2 weekends × 2-hour sessions)\nFormat: Live Online (Zoom) + Hands-on Exercises\nDates:\n\nSession 1: Sat, 5th July 2025, 08:00 PM - 09:00 PM IST\nData Visualization Introduction: In the introduction, you’ll learn about different areas of data visualization and discover why it’s important and how it helps people. We’ll discuss the principles behind how visualization works and get inspired by beautiful examples!\nSession 2: Sun, 6th July 2025, 08:00 PM - 09:00 PM IST\nData Basics in Excel: Learn how to prepare your data before building charts. Clean messy tables, fix wrong formats, remove duplicates, and arrange your data into a tidy structure ready for visualization.\nSession 3: Sat, 12th July 2025, 08:00 PM - 09:00 PM IST\nChart Choosing & Charts in Excel: Discover how to pick the right chart for your message. Understand which charts work best for comparisons, trends, parts of a whole, distributions, and relationships in your data. Get hands-on practice creating charts in Excel. Learn how to build bar charts, line charts, pie charts, and more. Customize colors, labels, titles, and styles to make your visuals clear and professional.\nSession 4: Sun, 13th July 2025, 08:00 PM - 09:00 PM IST\nData Storytelling in Excel: Go beyond charts and turn your data into a story. Learn how to highlight key insights, guide your audience’s attention, and create engaging reports or dashboards that people understand and remember."
   },
   {
     "objectID": "online/data-viz-course/index.html#who-should-attend",
