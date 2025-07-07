@@ -163,15 +163,15 @@ As a non-profit organization, SARA is committed to making education accessible t
 
 <br>
 
-📅 **DAY 1 (Fri 25 July): [Introduction to Data Science]{style="color:#ffae09"}**
+📅 **DAY 1 (Fri 25 July): Introduction to Data Science**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
 
-***Topic: Functional Programming in R and tidyverse***
+**Topic: Functional Programming in R and tidyverse**
 
-By **Wolf Riepl** Trainer R-Programming, Germany | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+By **[Wolf Riepl]{style="color:#ffae09"}** Trainer R-Programming, Germany | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
     
 {{< fa clock >}} 25 JULY 4 PM IST.
 
@@ -193,19 +193,17 @@ Faculty: Dr. Ajay Kumar Koli
 
 <br>
 
-📅 **DAY 2 (Sat 26 July): [Data Wrangling with dplyr & tidyr]{style="color:#ffae09"}**
+📅 **DAY 2 (Sat 26 July): Data Wrangling with dplyr & tidyr**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
 
-*Yet to be confrim!*
+**Topic: Data Storytelling with R: From CSV to Interactive Visualization using Shiny**
 
-<!-- ***Topic: Functional Programming in R and tidyverse*** -->
-
-<!-- By **Wolf Riepl** Trainer R-Programming, Germany | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/) -->
-
-<!-- {{< fa clock >}} 25 JULY 4 PM IST. -->
+By **[Anirban Shaw]{style="color:#ffae09"}** R & Shiny Expert, India [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/)
+    
+{{< fa clock >}} 26 JULY 4 PM IST.
 
 ## In-person sessions
 
@@ -220,17 +218,19 @@ Faculty: Dr. Ajay Kumar Koli
 
 <br>
 
-📅 **DAY 3 (Sun 26 July): [Data Visualization using ggplot2]{style="color:#ffae09"}**
+📅 **DAY 3 (Sun 27 July): Data Visualization using ggplot2**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
 
-***Tentative Topic: Shiny using R***
+*Yet to be confirmed.*
 
-By **Anirban Shaw** R & Shiny Expert, India [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/)
-    
-{{< fa clock >}} 25 JULY 4 PM IST.
+<!-- **Topic: Data Storytelling with R: From CSV to Interactive Visualization using Shiny** -->
+
+<!-- By **Anirban Shaw** R & Shiny Expert, India [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/) -->
+
+<!-- {{< fa clock >}} 27 JULY 4 PM IST. -->
 
 ## In-person sessions
 
@@ -247,17 +247,17 @@ Faculty: Dr. Ajay Kumar Koli
 
 <br>
 
-📅 **DAY 4 (Mon 28 July): [Quantitative Data Analysis]{style="color:#ffae09"}**
+📅 **DAY 4 (Mon 28 July): Quantitative Data Analysis**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
 
-***Tentative Topic: Hypothesis Testing & Regression***
+**Topic: Hypothesis Testing & Forecasting by Regression**
 
-By **Dr. Lito P Cruz**, Principal Data Science Consultant, Australia | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/l-p-cruz-phd/)
+By **[Dr. Lito P Cruz]{style="color:#ffae09"}**, Principal Data Science Consultant, Australia | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/l-p-cruz-phd/)
     
-{{< fa clock >}} 25 JULY 4 PM IST.
+{{< fa clock >}} 28 JULY 4 PM IST.
 
 ## In-person sessions
 
@@ -274,15 +274,15 @@ Faculty: Dr. Ajay Kumar Koli
 
 <br>
 
-📅 **DAY 5 (Tue 29 July): [Reproducible Research using Quarto]{style="color:#ffae09"}**
+📅 **DAY 5 (Tue 29 July): Reproducible Research using Quarto**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
 
-***Tentative Topic: Reporting using Quarto***
+**Tentative Topic: Reporting using Quarto**
 
-By **Betsabe Laila Cohen**, Sociologist & R expert, Argentina | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
+By **[Betsabe Laila Cohen]{style="color:#ffae09"}**, Sociologist & R expert, Argentina | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
     
 {{< fa clock >}} 29 JULY 4 PM IST.
 
