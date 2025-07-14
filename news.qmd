@@ -21,6 +21,12 @@ title-block-banner-color: "#003262"
 ::: {.col}
 ::: {.card}
 
+## 14 July 2025
+
+Dainik Bhaskar (दैनिक भास्कर)
+
+![](images/news-2025-07-14.jpeg)
+
 ## 28 May 2025
 
 Thank you to Julius Maximilians University of Würzburg, Germany, and Michaela Thiel for the kind shout-out about our work at the SARA Institute of Data Science!
