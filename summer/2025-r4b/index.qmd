@@ -22,6 +22,8 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
 
 <br>
 
+{{< video images/speakers-summer-r.mp4 loop="true" >}}
+
 ::::: {.centering}
 # [International Guest Speakers]{style="color:#ffae09"}
 
@@ -173,9 +175,9 @@ As a non-profit organization, SARA is committed to making education accessible t
 
 ## Course Details {#sec-course-details}
 
-**5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:00 PM; approx 30-35 hours):**
+**5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:30 PM; approx 30-35 hours):**
 
-**25-29 July 2025**
+**25-29 July 2025 in Sonipat (HR), India**
 
 <br>
 
@@ -215,7 +217,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-**Topic: Data Wrangling using dplyr**
+**Topic: Data Wrangling with the {tidyverse}**
 
 By **[Dr. Cecilia Baldoni]{style="color:#ffae09"}** Biostatistician, Germany [{{< fa brands linkedin >}}](https://www.linkedin.com/in/cecilia-baldoni/)
     
@@ -294,7 +296,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-**Tentative Topic: Reporting using Quarto**
+**Topic - From Code to Paper: Reproducible Research with Quarto**
 
 By **[Betsabe Laila Cohen]{style="color:#ffae09"}**, Sociologist & R expert, Argentina | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
     
@@ -366,3 +368,28 @@ Faculty: Dr. Ajay Kumar Koli
 ::::
 
 <br>
+
+::: {.card}
+
+## Proudly Supported by:
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+We're happy to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+
+At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
+
+:::
+
+<br>
+
+
+
+<br>
+

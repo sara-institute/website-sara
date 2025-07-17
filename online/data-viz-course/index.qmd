@@ -29,6 +29,28 @@ St Petersburg, Russia.
 
 <br>
 
+![](students.png)
+
+## Thank you dear students for attending this course. Session recordings ⤵️
+
+<br>
+
+{{< video https://youtu.be/9_U0iGHLRMc?feature=shared >}}
+
+<br>
+
+{{< video https://youtu.be/O_XEGemd1rI?feature=shared >}}
+
+<br>
+
+{{< video https://youtu.be/SLCROODEXq4?feature=shared >}}
+
+<br>
+
+{{< video https://youtu.be/lSVBcqgbI0A?feature=shared >}}
+
+<br>
+
 ::::: col
 :::: card
 
