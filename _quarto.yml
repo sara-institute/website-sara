@@ -22,12 +22,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - The applications for the SARA Data Science Summer School are now open. [Apply today!](https://sara-edu.netlify.app/summer/2025-r4b/)"
-    type: success
-    position: below-navbar
+  # announcement:
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Alert** - The applications for the SARA Data Science Summer School are now open. [Apply today!](https://sara-edu.netlify.app/summer/2025-r4b/)"
+  #   type: success
+  #   position: below-navbar
   
   
   navbar:

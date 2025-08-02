@@ -130,24 +130,27 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Summer School "R for Beginners" 22 - 26 July 2024 {.centering}
+## 2nd Summer School "R for Beginners" 25-29 July 2025 {.centering}
 
-![](images/2024summer.png){width="90%"}
+![](images/2025-summer.jpeg){width="90%"}
 
-> *The knowledge that is kept away from the marginalized communities due to the high cost, SARA institute bridges that gap and makes it available for everyone.*      
-> --- **Avichal Warke, PhD Scholar, JNU**
+> *I got more hand-on experience during the workshop. Most importantly lost my fear of R.*      
+> --- **Hardik Parmar, MA, TISS-Mumbai**
 
-> *The study material used in the workshop is outstanding, teaching style is clear, beautiful and nice. This was a fabulous event.*    
-> --- **Akansha Singh, MSc Bioinformatics, UP**
+> *Interactive teaching is what I consider as the main features. I recommend course to others.*    
+> --- **Jatin Mathur, MA Soc., DSE-DU**
 
-> *I felt that it is the right place for beginners who want to start learning R programming.*         
-> --- **Shibu Das, PhD Scholar, JNU**
+> *This summer school has given me the confidence that I can become better with R*         
+> --- **R. Tharun, MA, TISS-Mumbai**
 
-> *During five days summer program I learned a lot and have great time with everyone. By joining this summer workshop I enhanced my research skills and technical knowledge.*              
-> --- **Chandan Soren, PhD Scholar, JNU**
+> *I'm from Humanities background & data, programming, & coding seem bit difficult. But SARA made this so comfortable.*              
+> --- **Komal Devi, PhD Scholar, Pol. Sci. JNU**
 
-> *Things are not easy in R for me. But now things are better with the help of classes.*          
-> --- **Tamana Bhatia, MA Geography, HR**
+> *Hands-on training was greatly impactful.*          
+> --- **Dr. Madhu Bala, PhD in Soc., JNU**
+
+> *Its really commendable the way faculty explains each and every step in his classes.*          
+> --- **Md. Allam Ashraf, PhD Scholar, Soc., Jamia University**
 
 :::
 :::

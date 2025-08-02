@@ -1,13 +1,20 @@
 ---
 title: "R for Researchers"
 subtitle: "Supercharge Your PhD with R!"
-image: flyer.png
-description: "Join us for a transformative 5-day, 30-hour offline 2nd summer school designed to teach R programming, data analysis, & reproducible reporting from scratch. Perfect for PhD students, professionals, and aspiring data enthusiasts!"
+image: students.jpeg
+description: "Thank you! For the Successful Completion of the 5‑Day Data Science Summer School, “R for Researchers”, held from 25–29 July 2025"
 date: "2025-05-29"
 categories: [R, Data Science, Summer School, Open]
 pagetitle: "SARA - r"
 lightbox: true    
 ---
+
+![](images/students.jpeg)
+
+<br>
+
+{{< video images/thanks-summer.mp4 loop="true" >}}
+
 
 Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Registration Link](https://forms.gle/T8oDSyGbyLi7bgF97)
 
@@ -19,10 +26,6 @@ Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Re
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGrVLyrhqI&#x2F;Dpu58fSx16DVxaOT-79VyA&#x2F;view?utm_content=DAGrVLyrhqI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-july-flyer</a> by Sara Institute
-
-<br>
-
-{{< video images/speakers-summer-r.mp4 loop="true" >}}
 
 ::::: {.centering}
 # [International Guest Speakers]{style="color:#ffae09"}

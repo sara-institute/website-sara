@@ -24,6 +24,28 @@ We extend our heartfelt thanks to all the participants, speakers, and supporters
 
 :::
 
+::: {.card}
+
+## Participants Feedback
+
+> *The knowledge that is kept away from the marginalized communities due to the high cost, SARA institute bridges that gap and makes it available for everyone.*      
+> --- **Avichal Warke, PhD Scholar, JNU**
+
+> *The study material used in the workshop is outstanding, teaching style is clear, beautiful and nice. This was a fabulous event.*    
+> --- **Akansha Singh, MSc Bioinformatics, UP**
+
+> *I felt that it is the right place for beginners who want to start learning R programming.*         
+> --- **Shibu Das, PhD Scholar, JNU**
+
+> *During five days summer program I learned a lot and have great time with everyone. By joining this summer workshop I enhanced my research skills and technical knowledge.*              
+> --- **Chandan Soren, PhD Scholar, JNU**
+
+> *Things are not easy in R for me. But now things are better with the help of classes.*          
+> --- **Tamana Bhatia, MA Geography, HR**
+
+:::
+
+<br>
 
 ::: {.card}
 
