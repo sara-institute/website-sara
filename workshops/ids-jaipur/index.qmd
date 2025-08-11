@@ -1,0 +1,52 @@
+---
+title: "R-Programming for Data Analysis and Data Visualization"
+subtitle: "A Two-day Capacity Building Workshop, Institute of Development Studies, Jaipur, Rajasthan"
+author: "Dr. Ajay Kumar Koli"
+image: flyer.jpg
+description: "An invitation from Dr. Asst. Prof. Harchand Ram (IDSJ) to Dr. Ajay Kumar Koli to act as a resource person for a two days offline workshop for faculty and PhD scholars. IDS Jaipur is an institute of Indian Council of Social Science Research (ICSSR), Ministry of Education, Government of India."
+date: "2025-08-6"
+categories: [R, Data Science, IDSJ, Jaipur, Quarto, Faculty, Visualization]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+## [View Workshop Slides](https://r-course-idsj.netlify.app/)
+
+
+![](flyer.jpg)
+
+![Participants Feedback](feedback.jpg)
+
+<br>
+
+::: {layout-ncol=2}
+
+![](ids1.jpg)
+
+![](ids2.jpg)
+
+:::
+
+<br>
+
+![](ids3.jpg)
+
+
+<br>
+
+![](ids4.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

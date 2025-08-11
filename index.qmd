@@ -223,7 +223,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Donate for Education
 
-[Every ₹1,000 you donate unlocks data science skills for a learner.]{.p-mission}
+[Your every donation unlocks data science skills for a learner.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate Now](donate.qmd)

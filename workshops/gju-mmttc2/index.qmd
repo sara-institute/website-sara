@@ -1,0 +1,31 @@
+---
+title: "EDA & Data Visualization"
+subtitle: "Research Methodology and Academic Writing, GJU, Hisar (HR)"
+author: "Dr. Ajay Kumar Koli"
+image: mmttc1.jpg
+description: "Two online sessions for 'Research Methodology and Academic Writing' interdisciplinary refesher 2 weeks course under Malaviya Mission Teacher Training Center for Social Science Faculty of the Guru Jambheshwar University (GJU) of Science & Technology, Hisar, Haryana."
+date: "2025-07-23"
+categories: [R, Data Science, MMTTC, GJU, EDA, Faculty, Visualization]
+pagetitle: "Workshops"
+lightbox: true    
+---
+
+## Around 250 Professors attended the sessions
+
+![](mmttc1.jpg)
+
+<br>
+
+## Session 1 - Exploring your Data: Introduction to Exploratory Data Analysis (EDA) using R
+
+[View Slides ](https://edr-r.netlify.app/#/title-slide)
+
+![](mmttc2.png)
+
+<br>
+
+## Session 2 - Communicating Research with Quarto
+
+[View Slides ](https://research-quarto.netlify.app/#/title-slide)
+
+![](mmttc3.png)
