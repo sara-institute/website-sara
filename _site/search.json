@@ -91,13 +91,6 @@
     "text": "SARA Data Science Bootcamp “Publish using Quarto”"
   },
   {
-    "objectID": "summer/2025-r4b/index.html",
-    "href": "summer/2025-r4b/index.html",
-    "title": "R for Researchers",
-    "section": "",
-    "text": "Unlock the Power of Data Science – No Prior Coding Experience Needed!  Registration Link\nr-july-flyer by Sara Institute"
-  },
-  {
     "objectID": "summer/2025-r4b/index.html#key-highlights",
     "href": "summer/2025-r4b/index.html#key-highlights",
     "title": "R for Researchers",
@@ -130,7 +123,7 @@
     "href": "summer/2025-r4b/index.html#sec-course-details",
     "title": "R for Researchers",
     "section": "Course Details",
-    "text": "Course Details\n5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:30 PM; approx 30-35 hours):\n25-29 July 2025 in Sonipat (HR), India\n\n📅 DAY 1 (Fri 25 July): Introduction to Data Science\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Functional Programming in R and tidyverse\nBy Wolf Riepl Trainer R-Programming, Germany | \n 25 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nR & RStudio.\nTypes of operators.\n\nRStudio project.\n\nCoding using console, script & quarto.\nStructure of R function.\n\nR packages.\n\nCreate objects.\nCommunicate using quarto.\nHelp from R community.\n\n\n\n\n\n📅 DAY 2 (Sat 26 July): Data Wrangling with dplyr & tidyr\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Data Wrangling with the {tidyverse}\nBy Dr. Cecilia Baldoni Biostatistician, Germany \n 26 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction to Tidyverse\nClean and transform messy datasets\n\nData Manipulation with dplyr\n\nReshaping Data with tidyr\n\n\n\n\n\n📅 DAY 3 (Sun 27 July): Data Visualization using ggplot2\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Data Storytelling with R: From CSV to Interactive Visualization using Shiny\nBy Anirban Shaw R & Shiny Expert, India \n 27 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction & first steps.\nggplot2 calls.\nVisualizing distributions.\nVisualizing relationships.\n\nSaving your plots.\n\nCommon problems.\n\n\n\n\n\n📅 DAY 4 (Mon 28 July): Quantitative Data Analysis\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Hypothesis Testing & Forecasting by Regression\nBy Dr. Lito P Cruz, Principal Data Science Consultant, Australia | \n 28 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nData and table manners.\n\nAverage & Spreads.\n\nThe normal distribution.\n\nFrom samples to populations.\n\nHypothesis testing - getting confident.\nCorrelation and regression.\n\n\n\n\n\n📅 DAY 5 (Tue 29 July): Reproducible Research using Quarto\n\nOnline Expert LectureIn-person sessions\n\n\nTopic - From Code to Paper: Reproducible Research with Quarto\nBy Betsabe Laila Cohen, Sociologist & R expert, Argentina | \n 29 JULY 4 PM IST.\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nReproducible research.\n\nDynamic thesis, articles and slides.\nAdd links and images.\n\nPrepare list.\n\nWrite equations.\n\nPrepare tables.\n\nReference management."
+    "text": "Course Details\n5 Days Courses (9:30 AM to 1:00 PM & 2:00 PM to 5:30 PM; approx 30-35 hours):\n25-29 July 2025 in Sonipat (HR), India\n\n📅 DAY 1 (Fri 25 July): Introduction to Data Science\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Functional Programming in R and tidyverse\nBy Wolf Riepl Trainer R-Programming, Germany | \n 25 JULY 4 PM IST.\n Watch on YouTube\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nR & RStudio.\nTypes of operators.\n\nRStudio project.\n\nCoding using console, script & quarto.\nStructure of R function.\n\nR packages.\n\nCreate objects.\nCommunicate using quarto.\nHelp from R community.\n\n\n\n\n\n📅 DAY 2 (Sat 26 July): Data Wrangling with dplyr & tidyr\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Data Wrangling with the {tidyverse}\nBy Dr. Cecilia Baldoni Biostatistician, Germany \n 26 JULY 4 PM IST.\n Watch on YouTube\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction to Tidyverse\nClean and transform messy datasets\n\nData Manipulation with dplyr\n\nReshaping Data with tidyr\n\n\n\n\n\n📅 DAY 3 (Sun 27 July): Data Visualization using ggplot2\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Data Storytelling with R: From CSV to Interactive Visualization using Shiny\nBy Anirban Shaw R & Shiny Expert, India \n 27 JULY 4 PM IST.\n Watch on YouTube\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nIntroduction & first steps.\nggplot2 calls.\nVisualizing distributions.\nVisualizing relationships.\n\nSaving your plots.\n\nCommon problems.\n\n\n\n\n\n📅 DAY 4 (Mon 28 July): Quantitative Data Analysis\n\nOnline Expert LectureIn-person sessions\n\n\nTopic: Hypothesis Testing & Forecasting by Regression\nBy Dr. Lito P Cruz, Principal Data Science Consultant, Australia | \n 28 JULY 4 PM IST.\n Watch on YouTube\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nData and table manners.\n\nAverage & Spreads.\n\nThe normal distribution.\n\nFrom samples to populations.\n\nHypothesis testing - getting confident.\nCorrelation and regression.\n\n\n\n\n\n📅 DAY 5 (Tue 29 July): Reproducible Research using Quarto\n\nOnline Expert LectureIn-person sessions\n\n\nTopic - From Code to Paper: Reproducible Research with Quarto\nBy Betsabe Laila Cohen, Sociologist & R expert, Argentina | \n 29 JULY 4 PM IST.\n Watch on YouTube\n\n\nFaculty: Dr. Ajay Kumar Koli\n\nReproducible research.\n\nDynamic thesis, articles and slides.\nAdd links and images.\n\nPrepare list.\n\nWrite equations.\n\nPrepare tables.\n\nReference management."
   },
   {
     "objectID": "summer/2025-r4b/index.html#refund-policy",
@@ -238,11 +231,39 @@
     "text": "Natalia Kiseleva | \nData Art | Data Comics | Data Visualization Specialist\nSt Petersburg, Russia."
   },
   {
-    "objectID": "online/data-viz-course/index.html#thank-you-dear-students-for-attending-this-course.-session-recordings",
-    "href": "online/data-viz-course/index.html#thank-you-dear-students-for-attending-this-course.-session-recordings",
+    "objectID": "online/data-viz-course/index.html#thank-you-dear-students-for-attending-this-course.-1-4-session-recordings",
+    "href": "online/data-viz-course/index.html#thank-you-dear-students-for-attending-this-course.-1-4-session-recordings",
     "title": "Data Visalization using Excel",
-    "section": "Thank you dear students for attending this course. Session recordings ⤵️",
-    "text": "Thank you dear students for attending this course. Session recordings ⤵️"
+    "section": "Thank you dear students for attending this course. 1-4 Session recordings ⤵️",
+    "text": "Thank you dear students for attending this course. 1-4 Session recordings ⤵️"
+  },
+  {
+    "objectID": "online/data-viz-course/index.html#session-1",
+    "href": "online/data-viz-course/index.html#session-1",
+    "title": "Data Visalization using Excel",
+    "section": "Session 1",
+    "text": "Session 1"
+  },
+  {
+    "objectID": "online/data-viz-course/index.html#session-2",
+    "href": "online/data-viz-course/index.html#session-2",
+    "title": "Data Visalization using Excel",
+    "section": "Session 2",
+    "text": "Session 2"
+  },
+  {
+    "objectID": "online/data-viz-course/index.html#session-3",
+    "href": "online/data-viz-course/index.html#session-3",
+    "title": "Data Visalization using Excel",
+    "section": "Session 3",
+    "text": "Session 3"
+  },
+  {
+    "objectID": "online/data-viz-course/index.html#session-4",
+    "href": "online/data-viz-course/index.html#session-4",
+    "title": "Data Visalization using Excel",
+    "section": "Session 4",
+    "text": "Session 4"
   },
   {
     "objectID": "online/data-viz-course/index.html#course-objectives",
@@ -340,28 +361,28 @@
     "href": "index.html#nd-summer-school-r-for-beginners-25-29-july-2025",
     "title": "SARA Institute of Data Science",
     "section": "2nd Summer School “R for Beginners” 25-29 July 2025",
-    "text": "2nd Summer School “R for Beginners” 25-29 July 2025\n\n\nI got more hand-on experience during the workshop. Most importantly lost my fear of R.\n— Hardik Parmar, MA, TISS-Mumbai\n\n\nInteractive teaching is what I consider as the main features. I recommend course to others.\n— Jatin Mathur, MA Soc., DSE-DU\n\n\nThis summer school has given me the confidence that I can become better with R\n— R. Tharun, MA, TISS-Mumbai\n\n\nI’m from Humanities background & data, programming, & coding seem bit difficult. But SARA made this so comfortable.\n— Komal Devi, PhD Scholar, Pol. Sci. JNU\n\n\nHands-on training was greatly impactful.\n— Dr. Madhu Bala, PhD in Soc., JNU\n\n\nIts really commendable the way faculty explains each and every step in his classes.\n— Md. Allam Ashraf, PhD Scholar, Soc., Jamia University"
+    "text": "2nd Summer School “R for Beginners” 25-29 July 2025\n\n\nI got more hand-on experience during the workshop. Most importantly lost my fear of R.\n— Hardik Parmar, MA, TISS-Mumbai\n\n\nInteractive teaching is what I consider as the main features. I recommend course to others.\n— Jatin Mathur, MA Soc., DSE-DU\n\n\nThis summer school has given me the confidence that I can become better with R\n— R. Tharun, MA, TISS-Mumbai\n\n\nI’m from Humanities background & data, programming, & coding seem bit difficult. But SARA made this so comfortable.\n— Komal Devi, PhD Scholar, Pol. Sci. JNU\n\n\nHands-on training was greatly impactful.\n— Dr. Madhu Bala, PhD in Soc., JNU\n\n\nIts really commendable the way faculty explains each and every step in his classes.\n— Md. Allam Ashraf, PhD Scholar, Soc., Jamia University\n\nKnow more"
   },
   {
     "objectID": "index.html#winter-school-statistics-using-r-16---20-december-2024",
     "href": "index.html#winter-school-statistics-using-r-16---20-december-2024",
     "title": "SARA Institute of Data Science",
     "section": "Winter School “Statistics using R” 16 - 20 December 2024",
-    "text": "Winter School “Statistics using R” 16 - 20 December 2024\n\n\nThis course ensures that we not only understood the theoretical aspects of statistics but also gained practical experience using R, which made the entire learning process much more approachable.\n— Sapna Kanwar, MA, JNU\n\n\nIt is a full package that teaches us to integrate three skills: understanding Research Methodology, knowledge of statistics and use of R for data analysis.\n— Dharmanshu Dhakar, PhD Scholar, MP\n\n\nWe got to learn about Research Methodology, Statistics and data analysis in R. All the number of lectures and hours sessions are very well designed.\n— Mahavir Bhagat, PhD Scholar, JNU\n\n\nSARA made it possible for students coming from marginalized and under-represented groups in India at such a low cost, with all the necessary arrangements.\n— Yashang Jambhulkar, BA, Maharashtra"
+    "text": "Winter School “Statistics using R” 16 - 20 December 2024\n\n\nThis course ensures that we not only understood the theoretical aspects of statistics but also gained practical experience using R, which made the entire learning process much more approachable.\n— Sapna Kanwar, MA, JNU\n\n\nIt is a full package that teaches us to integrate three skills: understanding Research Methodology, knowledge of statistics and use of R for data analysis.\n— Dharmanshu Dhakar, PhD Scholar, MP\n\n\nWe got to learn about Research Methodology, Statistics and data analysis in R. All the number of lectures and hours sessions are very well designed.\n— Mahavir Bhagat, PhD Scholar, JNU\n\n\nSARA made it possible for students coming from marginalized and under-represented groups in India at such a low cost, with all the necessary arrangements.\n— Yashang Jambhulkar, BA, Maharashtra\n\nKnow more"
   },
   {
     "objectID": "index.html#bootcamp-publish-using-quarto-03---07-march-2025",
     "href": "index.html#bootcamp-publish-using-quarto-03---07-march-2025",
     "title": "SARA Institute of Data Science",
     "section": "Bootcamp “Publish using Quarto” 03 - 07 March 2025",
-    "text": "Bootcamp “Publish using Quarto” 03 - 07 March 2025\n\n\nThe modules were taught in a simple and informative way.\n— Deepak Kumar, MA Psychology, UP\n\n\nI got to learn great skills in data science which will help me a lot in my academic journey.\n— Maga Ram, MA Pol. Sci., JNU\n\n\nDuring this bootcamp, I experienced a lot of things about data science. Classes were enjoyable and I had a great experience.\n— Rachna Rathi, BA LLB, HR\n\n\nMaking data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort.\n— Rishav Kumar, MA Pol. Sci., JNU\n\n\nWith the right help, guidance, and support of batch mates everything was made possible. SARA team was helpful and kind.\n— Garima, MA Eng. Lit., GVM Sonipat."
+    "text": "Bootcamp “Publish using Quarto” 03 - 07 March 2025\n\n\nThe modules were taught in a simple and informative way.\n— Deepak Kumar, MA Psychology, UP\n\n\nI got to learn great skills in data science which will help me a lot in my academic journey.\n— Maga Ram, MA Pol. Sci., JNU\n\n\nDuring this bootcamp, I experienced a lot of things about data science. Classes were enjoyable and I had a great experience.\n— Rachna Rathi, BA LLB, HR\n\n\nMaking data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort.\n— Rishav Kumar, MA Pol. Sci., JNU\n\n\nWith the right help, guidance, and support of batch mates everything was made possible. SARA team was helpful and kind.\n— Garima, MA Eng. Lit., GVM Sonipat. \n\nKnow more"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact SARA Team",
     "section": "",
-    "text": "Get in Touch with SARA Institute of Data Science\nWe welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:\n\n Address: SARA Institute\nDr. Ambedkar Bhavan\nNear Dayanand Hospital\nKakroi Road, Sonipat\nHaryana - 131001, India\nGoogle Map Link: https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6\n\n Phone: Main Office: +91 925 315 2024\n\n Email: General & donation inquiries: sara.institute.info@gmail.com\n\nSocial Media: Connect with us on our social media platforms to stay updated on our latest news, events, and initiatives.\n              \n\nVisit Us: We encourage you to visit our institute and witness firsthand the impact of our educational programs. Schedule a visit by contacting our office.\n Office hours: Monday to Friday, from 09 AM to 06 PM.\n\n\nThank you for your interest in the SARA Institute. We look forward to hearing from you soon!"
+    "text": "Get in Touch with SARA Institute of Data Science\nWe welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:\n\n Address: SARA Institute\nDr. Ambedkar Bhavan\nNear Dayanand Hospital\nKakroi Road, Sonipat\nHaryana - 131001, India\nGoogle Map Link: https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6\n\n Phone: Main Office: +91 925 315 2024\n\n Email: General & donation inquiries: sara.institute.info@gmail.com\n\nSocial Media: Connect with us on our social media platforms to stay updated on our latest news, events, and initiatives.\n                 \n\nVisit Us: We encourage you to visit our institute and witness firsthand the impact of our educational programs. Schedule a visit by contacting our office.\n Office hours: Monday to Friday, from 09 AM to 06 PM.\n\n\nThank you for your interest in the SARA Institute. We look forward to hearing from you soon!"
   },
   {
     "objectID": "bootcamp.html",
@@ -431,7 +452,7 @@
     "href": "donate.html",
     "title": "Donate to SARA",
     "section": "",
-    "text": "Become a Volunteer Mentor or Instructor\nAt SARA, we believe education thrives on collective effort. Whether you’re a data scientist, programmer, or English language expert, your skills can transform lives.\n\n\n\nTeach Computer Basics: Help students master essential tools (Word, Excel, internet safety).\nMentor in Data Science: Guide learners in Python, R, or data analysis.\nConduct Workshops: Share industry insights or career development tips.\n\n\n\n\n\nPassion for teaching and patience to work with beginners.\n2–4 hours/week commitment (flexible schedules).\n\n\n\n\n\n\nYour Contribution Breaks Barriers\nEvery rupee helps us provide free courses, tech resources, and mentorship to students who need it most.\n\n\nAccount Name: SARA EDUCATION TRUST.\nAccount Number: 42920911856.\nBank Name: STATE BANK OF INDIA.\nIFSC Code: SBIN0000721.\n\n\n\n\n\n                  \n\nFor more information kindly reach us at sara.institute.info@gmail.com\n\n Call us: 925 315 2024"
+    "text": "Become a Volunteer Mentor or Instructor\nAt SARA, we believe education thrives on collective effort. Whether you’re a data scientist, programmer, or English language expert, your skills can transform lives.\n\n\n\nTeach Computer Basics: Help students master essential tools (Word, Excel, internet safety).\nMentor in Data Science: Guide learners in Python, R, or data analysis.\nConduct Workshops: Share industry insights or career development tips.\n\n\n\n\n\nPassion for teaching and patience to work with beginners.\n2–4 hours/week commitment (flexible schedules).\n\n\n\n\n\n\nYour Contribution Breaks Barriers\nEvery rupee helps us provide free courses, tech resources, and mentorship to students who need it most.\n\n\nAccount Name: SARA EDUCATION TRUST.\nAccount Number: 42920911856.\nBank Name: STATE BANK OF INDIA.\nIFSC Code: SBIN0000721.\n\n\n\n\n\n                     \n\nFor more information kindly reach us at sara.institute.info@gmail.com\n\n Call us: 925 315 2024"
   },
   {
     "objectID": "donate.html#teach-with-sara-share-your-knowledge",
@@ -459,7 +480,14 @@
     "href": "news.html",
     "title": "News & Events",
     "section": "",
-    "text": "Dainik Bhaskar (दैनिक भास्कर)\n\n\n\n\nThank you to Julius Maximilians University of Würzburg, Germany, and Michaela Thiel for the kind shout-out about our work at the SARA Institute of Data Science!\n🔗 Read more: UNI WÜRZBURG COMMUNITY - 1000 Careers One Story\n\n\n\n\n\nWe at SARA Institute would like to extend our heartfelt gratitude to The News Beak for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like The News Beak not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.\nThis feature will undoubtedly help spread awareness about our initiatives, fostering more support and engagement from the community. We are committed to continuing our work with the same enthusiasm and to reaching even more students who can benefit from quality education and mentorship.\nThank you once again, The News Beak, for shining a light on our journey. Your support plays a vital role in motivating us to keep moving forward and expanding our impact.\n\n\n\n\n\n\nOn behalf of the entire SARA Institute of Data Science team, we extend our deepest gratitude to the Food Technology Department at Guru Jambheshwar University, Hisar, for graciously hosting us for the Data Science Workshop.\nA special thanks to Dr. Prof. Manish Kumar, Head of the Department, for your unwavering support, vision, and leadership in fostering innovation and learning. Your team’s enthusiasm and collaborative spirit made the event an incredible success!\nWe are honored to have had the opportunity to share insights and empower students with data science knowledge. Looking forward to more collaborations and impactful learning experiences in the future!"
+    "text": "Online Talk “Recognizing the Signs of Stress” by Kenneth Minor, New York, USA.\n\n\n\n\n\nDainik Bhaskar (दैनिक भास्कर)\n\n\n\n\n\nThank you to Julius Maximilians University of Würzburg, Germany, and Michaela Thiel for the kind shout-out about our work at the SARA Institute of Data Science!\n🔗 Read more: UNI WÜRZBURG COMMUNITY - 1000 Careers One Story\n\n\n\n\n\nOnline Talk “Digital Literacy for Women” by Prof. Dr. Suman Munday, BPSM University, Haryana.\n\n\n\n\n\nWe at SARA Institute would like to extend our heartfelt gratitude to The News Beak for featuring us in their news coverage. This recognition is a testament to the hard work, dedication, and passion of everyone involved at SARA, from our students and volunteers to our supporters and educators. Being highlighted by a respected outlet like The News Beak not only amplifies our mission of empowering marginalized communities in India through data science education but also validates our ongoing efforts to create equitable opportunities.\nThis feature will undoubtedly help spread awareness about our initiatives, fostering more support and engagement from the community. We are committed to continuing our work with the same enthusiasm and to reaching even more students who can benefit from quality education and mentorship.\nThank you once again, The News Beak, for shining a light on our journey. Your support plays a vital role in motivating us to keep moving forward and expanding our impact.\n\n\n\n\n\n\nOn behalf of the entire SARA Institute of Data Science team, we extend our deepest gratitude to the Food Technology Department at Guru Jambheshwar University, Hisar, for graciously hosting us for the Data Science Workshop.\nA special thanks to Dr. Prof. Manish Kumar, Head of the Department, for your unwavering support, vision, and leadership in fostering innovation and learning. Your team’s enthusiasm and collaborative spirit made the event an incredible success!\nWe are honored to have had the opportunity to share insights and empower students with data science knowledge. Looking forward to more collaborations and impactful learning experiences in the future!"
+  },
+  {
+    "objectID": "news.html#august-2025",
+    "href": "news.html#august-2025",
+    "title": "News & Events",
+    "section": "",
+    "text": "Online Talk “Recognizing the Signs of Stress” by Kenneth Minor, New York, USA."
   },
   {
     "objectID": "news.html#july-2025",
@@ -474,6 +502,13 @@
     "title": "News & Events",
     "section": "",
     "text": "Thank you to Julius Maximilians University of Würzburg, Germany, and Michaela Thiel for the kind shout-out about our work at the SARA Institute of Data Science!\n🔗 Read more: UNI WÜRZBURG COMMUNITY - 1000 Careers One Story"
+  },
+  {
+    "objectID": "news.html#april-2025",
+    "href": "news.html#april-2025",
+    "title": "News & Events",
+    "section": "",
+    "text": "Online Talk “Digital Literacy for Women” by Prof. Dr. Suman Munday, BPSM University, Haryana."
   },
   {
     "objectID": "news.html#november-2024",

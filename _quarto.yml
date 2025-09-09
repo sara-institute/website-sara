@@ -11,6 +11,7 @@ project:
     browser: true
   #output-dir: docs
 
+
 website:
   title: "SARA INSTITUTE"
   favicon: "images/logo-sara.png"
@@ -81,6 +82,9 @@ website:
       - icon: twitter-x
         href: https://twitter.com/sara_institute
         aria-label: Twitter
+      - icon: instagram
+        href: https://www.instagram.com/sara_data_sci/
+        aria-label: Twitter  
       - icon: github
         href: https://github.com/sara-institute
         aria-label: GitHub

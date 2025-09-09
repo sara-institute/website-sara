@@ -9,23 +9,11 @@ pagetitle: "SARA - r"
 lightbox: true    
 ---
 
-![](images/students.jpeg)
+![](images/thanks-students.png)
 
 <br>
 
-{{< video images/thanks-summer.mp4 loop="true" >}}
-
-
-Unlock the Power of Data Science – No Prior Coding Experience Needed! <br> [Registration Link](https://forms.gle/T8oDSyGbyLi7bgF97)
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 129.4118%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGrVLyrhqI/Dpu58fSx16DVxaOT-79VyA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGrVLyrhqI&#x2F;Dpu58fSx16DVxaOT-79VyA&#x2F;view?utm_content=DAGrVLyrhqI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">r-july-flyer</a> by Sara Institute
+{{< video https://youtu.be/9yQFg6XTSRc >}}
 
 ::::: {.centering}
 # [International Guest Speakers]{style="color:#ffae09"}
@@ -196,6 +184,8 @@ By **[Wolf Riepl]{style="color:#ffae09"}** Trainer R-Programming, Germany | [{{<
     
 {{< fa clock >}} 25 JULY 4 PM IST.
 
+{{< fa video >}} [Watch on YouTube](https://youtu.be/TOE_0HJNpIY?feature=shared)
+
 ## In-person sessions
 
 Faculty: Dr. Ajay Kumar Koli
@@ -226,6 +216,8 @@ By **[Dr. Cecilia Baldoni]{style="color:#ffae09"}** Biostatistician, Germany [{{
     
 {{< fa clock >}} 26 JULY 4 PM IST.
 
+{{< fa video >}} [Watch on YouTube](https://youtu.be/KcyZRyf2VKM)
+
 ## In-person sessions
 
 Faculty: Dr. Ajay Kumar Koli
@@ -250,6 +242,8 @@ Faculty: Dr. Ajay Kumar Koli
 By **[Anirban Shaw]{style="color:#ffae09"}** R & Shiny Expert, India [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anirban-shaw/)
     
 {{< fa clock >}} 27 JULY 4 PM IST.
+
+{{< fa video >}} [Watch on YouTube](https://youtu.be/ZrKkfbdXQUM?feature=shared)
 
 ## In-person sessions
 
@@ -278,6 +272,8 @@ By **[Dr. Lito P Cruz]{style="color:#ffae09"}**, Principal Data Science Consulta
     
 {{< fa clock >}} 28 JULY 4 PM IST.
 
+{{< fa video >}} [Watch on YouTube](https://youtu.be/fInEDYQZq-s)
+
 ## In-person sessions
 
 Faculty: Dr. Ajay Kumar Koli
@@ -304,6 +300,8 @@ Faculty: Dr. Ajay Kumar Koli
 By **[Betsabe Laila Cohen]{style="color:#ffae09"}**, Sociologist & R expert, Argentina | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/betsabe1984/)
     
 {{< fa clock >}} 29 JULY 4 PM IST.
+
+{{< fa video >}} [Watch on YouTube](https://youtu.be/ZM9D7DmcFhA)
 
 ## In-person sessions
 

@@ -64,7 +64,7 @@ IFSC Code: `SBIN0000721`.
 
 ## 3. Support SARA on Social Media.
 
-<br>[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+<br>[{{< iconify fa6-brands bluesky size=2x >}}](https://bsky.app/profile/sarainstitute.bsky.social) &nbsp; [{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp; [{{< fa brands instagram size=2x >}}](https://www.instagram.com/sara_data_sci/) &nbsp; [{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 <br>
 

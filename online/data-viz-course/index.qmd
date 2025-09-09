@@ -9,6 +9,8 @@ pagetitle: "Viz - SARA"
 description: "Join our live online course to turn raw numbers into compelling stories. Designed for NGO workers, researchers, students, and professionals, you’ll gain practical skills to data visualization using excel."
 ---
 
+
+
 :::: {.layout-grid}
 
 ::: {.col}
@@ -31,21 +33,29 @@ St Petersburg, Russia.
 
 ![](students.png)
 
-## Thank you dear students for attending this course. Session recordings ⤵️
+## Thank you dear students for attending this course. 1-4 Session recordings ⤵️
 
 <br>
+
+## Session 1
 
 {{< video https://youtu.be/9_U0iGHLRMc?feature=shared >}}
 
 <br>
 
+## Session 2
+
 {{< video https://youtu.be/O_XEGemd1rI?feature=shared >}}
 
 <br>
 
+## Session 3
+
 {{< video https://youtu.be/SLCROODEXq4?feature=shared >}}
 
 <br>
+
+## Session 4
 
 {{< video https://youtu.be/lSVBcqgbI0A?feature=shared >}}
 

@@ -1,6 +1,6 @@
 ---
 title: "<br>News & Events"
-subtitle: "Latest news about SARA"
+subtitle: "Latest news & event about SARA"
 pagetitle: "News & Events"
 page-layout: full
 backgroundcolor: "#e9e9e9"
@@ -16,16 +16,29 @@ lightbox: true
 title-block-banner: "#ffffff"
 title-block-style: default
 title-block-banner-color: "#003262"
+format: 
+  html: 
+    toc: true
 ---
 
 ::: {.col}
 ::: {.card}
+
+## 20 August 2025
+
+Online Talk "Recognizing the Signs of Stress" by [Kenneth Minor](https://www.linkedin.com/in/kenneth-minor-526ba4148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3bsO37VuTjq8g5d27P3whA%3D%3D), New York, USA.
+
+{{< video https://youtu.be/X5Z_etFguEk?feature=shared >}}
+
+-----
 
 ## 14 July 2025
 
 Dainik Bhaskar (दैनिक भास्कर)
 
 ![](images/news-2025-07-14.jpeg)
+
+-----
 
 ## 28 May 2025
 
@@ -34,6 +47,14 @@ Thank you to Julius Maximilians University of Würzburg, Germany, and Michaela T
 🔗 Read more: [UNI WÜRZBURG COMMUNITY - 1000 Careers One Story](https://www.uni-wuerzburg.de/alumni/community/aktueller-community-letter/newsletter-single/news/the-uni-wuerzburg-community-is-widespread-around-the-world/)
 
 ![](images/germany.png)
+
+-------
+
+## 29 April 2025
+
+Online Talk "Digital Literacy for Women" by Prof. Dr. Suman Munday, BPSM University, Haryana.
+
+{{< video https://youtu.be/3juCmMlDHT8?feature=shared >}}
 
 -------
 
