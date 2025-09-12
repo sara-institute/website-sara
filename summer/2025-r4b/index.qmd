@@ -1,5 +1,5 @@
 ---
-title: "R for Researchers"
+title: "2nd R for Researchers"
 subtitle: "Supercharge Your PhD with R!"
 image: students.jpeg
 description: "Thank you! For the Successful Completion of the 5‑Day Data Science Summer School, “R for Researchers”, held from 25–29 July 2025"

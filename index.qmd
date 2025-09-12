@@ -42,6 +42,29 @@ include-in-header:
 
 ::::: {.column-page .centering}
 
+```{=html}
+<div class="logo-marquee">
+  <div class="logo-marquee-content">
+  <!-- First set of logos -->
+    <div class="logo-item">
+      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/idsj.png" alt="IDS Jaipur" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 150px;">
+    </div>
+  </div>
+</div>
+```
+
 # Inclusive Education
 
 [Since 2023, we’ve trained 200+ learners from rural communities, public universities, and underrepresented groups.]{.p-mission}

@@ -1,6 +1,18 @@
 
 /* this image trick is from Kevin's youtube channel https://youtu.be/345V2MU3E_w  */
 
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #667eea;
+    --accent-color: #764ba2;
+    --text-dark: #1e293b;
+    --text-light: #64748b;
+    --background-light: #f8fafc;
+    --success-color: #10b981;
+    --warning-color: #f59e0b;
+    --error-color: #ef4444;
+}
+
 body {
   
   color: #003262
@@ -34,4 +46,221 @@ img {
     --fs-600: 3rem;
     --fs-400: 1.125
   }
+}
+
+/* Partner Organization Logo Styles */
+.logo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-item {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 120px;
+    position: relative;
+    overflow: hidden;
+}
+
+.logo-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+.logo-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.logo-item:hover::before {
+    opacity: 1;
+}
+
+.logo-item img {
+    max-width: 100%;
+    max-height: 80px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: grayscale(20%);
+    transition: filter 0.3s ease;
+}
+
+.logo-item:hover img {
+    filter: grayscale(0%);
+}
+
+/* Logo Marquee for Homepage */
+.logo-marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    background: white;
+    padding: 2rem 0;
+    margin: 3rem 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.logo-marquee-content {
+    display: inline-flex; /* Change from inline-block to inline-flex */
+    white-space: nowrap;
+    animation: marquee 20s linear infinite; /* logos moving speed control */
+    width: max-content; /* Ensure it takes the full width needed */
+}
+
+.logo-marquee .logo-item {
+    flex-shrink: 0; /* Prevent items from shrinking */
+    margin: 0 2rem;
+    background: none;
+    box-shadow: none;
+    padding: 1rem;
+    min-height: auto;
+}
+
+.logo-marquee .logo-item img {
+    max-height: 50px;
+    opacity: 0.8;
+}
+
+.logo-marquee .logo-item:hover img {
+    opacity: 1;
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+}
+
+/* Compact Logo Grid Variant */
+.logo-grid-compact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.logo-grid-compact .logo-item {
+    padding: 1.5rem;
+    min-height: 100px;
+}
+
+.logo-grid-compact .logo-item img {
+    max-height: 60px;
+}
+
+/* Partner Categories Styling */
+.category-section {
+    margin-bottom: 4rem;
+}
+
+.category-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--primary-color);
+    display: inline-block;
+}
+
+/* Responsive Partner Logos */
+@media (max-width: 768px) {
+    .logo-grid {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 1rem;
+    }
+    
+    .logo-grid-compact {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+    
+    .logo-item {
+        padding: 1.5rem;
+        min-height: 100px;
+    }
+    
+    .logo-item img {
+        max-height: 60px;
+    }
+    
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .stat-number {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+    
+    .logo-item {
+        padding: 1rem;
+        min-height: 80px;
+    }
+    
+    .logo-item img {
+        max-height: 40px;
+    }
+    
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+    
+    .logo-marquee-content {
+        animation: none;
+    }
+}
+
+/* Scroll Animation Classes */
+.scroll-reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.6s ease;
+}
+
+.scroll-reveal.revealed {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.fade-in {
+    animation: fadeInUp 0.8s ease forwards;
+}
+
+.slide-in-left {
+    animation: slideInFromLeft 0.8s ease forwards;
 }

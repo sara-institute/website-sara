@@ -1,6 +1,6 @@
 ---
 title: "Workshop Collaborations"
-subtitle: "Bringing Data Science Education to Campuses Nationwide"
+subtitle: "Bringing Data Science Education to Organizations Nationwide"
 listing:
   contents: workshops
   sort: "date desc"
@@ -15,15 +15,38 @@ title-block-banner-color: "#003262"
 lightbox: true    
 ---
 
-## Empower Your Students with Hands-On Data Skills
+## Empower Your Organization with Hands-On Data Skills
 
-At SARA Institute of Data Science, we partner with universities, colleges, and institutes to deliver practical workshops that bridge the gap between theory and real-world data science.
+At SARA Institute of Data Science, we partner with universities, colleges, institutes, and organizations to deliver practical workshops that bridge the gap between theory and real-world data science.
 
 ## Why Collaborate with SARA?
 
 - **Customized Workshops:** Tailored to your students’ needs—from R/Python basics to advanced analytics.        
 - **Expert Instructor:** Dr. Ajay Kumar Koli.          
-- **Career-Ready Skills:** Equip students with tools for research, internships, and jobs.     
+- **Career-Ready Skills:** Equip people with tools for research, internships, and jobs. 
+
+```{=html}
+<div class="logo-marquee">
+  <div class="logo-marquee-content">
+  <!-- First set of logos -->
+    <div class="logo-item">
+      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/idsj.png" alt="IDS Jaipur" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 150px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 150px;">
+    </div>
+  </div>
+</div>
+```
 
 ## Past Workshop Highlights
 
