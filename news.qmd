@@ -18,8 +18,17 @@ title-block-style: default
 title-block-banner-color: "#003262"
 format: 
   html: 
-    toc: true
+    toc: false
 ---
+
+## Calender of Events
+
+Here you will find schedules for our special online events:
+
+📌 Stay updated and join sessions directly through the event links here.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&showPrint=0&src=c2FyYS5pbnN0aXR1dGUuaW5mb0BnbWFpbC5jb20&color=%23039be5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 ::: {.col}
 ::: {.card}
