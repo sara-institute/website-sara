@@ -30,19 +30,22 @@ At SARA Institute of Data Science, we partner with universities, colleges, insti
   <div class="logo-marquee-content">
   <!-- First set of logos -->
     <div class="logo-item">
-      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 150px;">
+      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 100px;">
     </div>
     <div class="logo-item">
       <img src="images/logos/idsj.png" alt="IDS Jaipur" style="max-height: 150px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 150px;">
+      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 100px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 150px;">
+      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 100px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 150px;">
+      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/du.png" alt="Delhi University" style="max-height: 100px;">
     </div>
   </div>
 </div>

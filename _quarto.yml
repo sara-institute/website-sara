@@ -29,10 +29,10 @@ website:
   #   type: success
   #   position: below-navbar
   
-  
+
   navbar:
-    search: false
-    pinned: false
+    search: true
+    pinned: true
     right:
       - text: Home
         href: index.qmd
@@ -62,7 +62,7 @@ website:
             href: bootcamp.qmd
       # - text: Studio
       #   href: studio.qmd
-      - text: Workshop Collaborations
+      - text: Collaborations
         href: workshops.qmd
       - text: News & Events
         href: news.qmd
@@ -71,7 +71,7 @@ website:
       - text: Contact
         href: contact.qmd
         
-              
+        
   page-footer:
     background: "#003262"
     left: "SARA Institute &copy; 2023-2025"
@@ -97,7 +97,7 @@ website:
         href: https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J
         aria-label: WhatsApp  
   
-    right: "[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
+    right: "Buil[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
     border: true
     
     

@@ -10,28 +10,36 @@ include-in-header:
     </style>
 ---
 
-:::: {.banner-blue}
-::: {.column-screen}
+::: {.centering .banner-blue .column-screen}
+
+# [Making Data Science Accessible to All]{.clr-white}
+
+[Free Training in Coding, Statistics, and Research Methods]{.clr-white .p-mission}
+
+:::
+
+::::: {.banner-blue}
+:::: {.column-screen}
 
 ![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names." }
 
 ::: {.centering}
 
-# [SARA Institute of Data Science]{.clr-white}
+# [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
 
 :::
 
-:::
 ::::
+:::::
 
 ::: {.column-page .centering}
 
 # Our Mission 
 
-[SARA is a non-profit educational institute committed to delivering inclusive data science education. We break down barriers of privilege, technical complexity, and financial exclusion by providing accessible training in coding, English, and data skills—empowering students, researchers, and professionals to shape their own futures.]{.p-mission}
+[SARA makes data science accessible to everyone - not just the privileged few. We provide **free** training in coding and data analysis to students, researchers, and professionals, removing barriers of cost, complexity, and background. We are empowering the next generation to transform their careers and communities through data.]{.p-mission}
 
 ::: {.button}
-[Learn more](about.qmd)
+[Support Our Mission](donate.qmd)
 :::
 :::
 
@@ -40,26 +48,46 @@ include-in-header:
 ![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
 :::
 
+
+
 ::::: {.column-page .centering}
+
+```{=html}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My Page</title>
+</head>
+<body>
+  <h1>Training Partnerships</h1>
+</body>
+</html>
+
+```
+
 
 ```{=html}
 <div class="logo-marquee">
   <div class="logo-marquee-content">
   <!-- First set of logos -->
     <div class="logo-item">
-      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 150px;">
+      <img src="images/logos/gju.png" alt="GJU Hisar" style="max-height: 100px;">
     </div>
     <div class="logo-item">
       <img src="images/logos/idsj.png" alt="IDS Jaipur" style="max-height: 150px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 150px;">
+      <img src="images/logos/jnu.png" alt="JNU Delhi" style="max-height: 100px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 150px;">
+      <img src="images/logos/mdu.png" alt="MDU Rohtak" style="max-height: 100px;">
     </div>
     <div class="logo-item">
-      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 150px;">
+      <img src="images/logos/srm.png" alt="SRM Sonipat" style="max-height: 100px;">
+    </div>
+    <div class="logo-item">
+      <img src="images/logos/du.png" alt="Delhi University" style="max-height: 100px;">
     </div>
   </div>
 </div>
@@ -67,7 +95,7 @@ include-in-header:
 
 # Inclusive Education
 
-[Since 2023, we’ve trained 200+ learners from rural communities, public universities, and underrepresented groups.]{.p-mission}
+[Since 2023, we’ve trained 200+ learners from rural communities, public universities, and underrepresented groups across India.]{.p-mission}
 
 <br>
 
@@ -80,9 +108,7 @@ include-in-header:
 
 ## Computer Skills
 
-You will learn how to use a personal computer,  components of computers, how to
-
-Learning computer skills enhances employability, facilitate efficient communication, information retrieval, and collaboration.
+Learn essential computer skills including operating systems, file management, internet navigation, and productivity software—the foundation for digital literacy and data science learning.
 
 [Learn more](offline/computer/index.qmd)
 
@@ -94,9 +120,9 @@ Learning computer skills enhances employability, facilitate efficient communicat
 
 ![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-## Data Science
+## Data Science for Social Impact
 
-Uncovering hidden patterns to drive decision making and innovation using data science education.
+Learn R, Python, statistics, and Quarto to conduct rigorous research and analysis
 
 [R](summer.qmd), [Statistics](winter.qmd), [Python](online.qmd), & [Quarto](bootcamp.qmd)
 
@@ -106,7 +132,7 @@ Uncovering hidden patterns to drive decision making and innovation using data sc
 
 ![](https://images.unsplash.com/photo-1508004680771-708b02aabdc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-## Research Methods
+## Research Methods for Social Science
 
 Scholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.
 
@@ -250,9 +276,13 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::: {.column-page .banner-white .centering}
 
-# Donate for Education
+# Sponsor a Student's Journey
 
-[Your every donation unlocks data science skills for a learner.]{.p-mission}
+₹500 = Full training for one student.  
+₹5,000 = Sponsor an entire cohort.   
+₹25,000 = Launch a new training program.   
+
+[Your contribution breaks barriers and opens doors to data science careers fro students from marginalized communities.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate Now](donate.qmd)
@@ -277,7 +307,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.layout-grid}
 
 ::: {.col}
-![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD<br>Co-Founder & Exec. Director, SARA Institute.
+![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Co-Founder & Exec. Director, SARA Institute<br>koliajaykumar@gmail.com
 
 :::
 
@@ -285,7 +315,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 :::
 
 ::: {.col}
-![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD<br>Co-Founder & Director, SARA Institute.
+![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-kiran-koli-85263a5b/)<br>Co-Founder & Director, SARA Institute<br>kolikiranlata@gmail.com
 :::
 
 ::: {.col}

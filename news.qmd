@@ -33,6 +33,14 @@ Here you will find schedules for our special online events:
 ::: {.col}
 ::: {.card}
 
+## 01 October 2025
+
+Online Talk "Life, Universe & Data Visualization" by [Jason Forrest](https://www.linkedin.com/in/jasonforrestftw/), New York, USA.
+
+{{< video https://youtu.be/PqykNOilum4?si=4r5gCyQTQQnvzbCR >}}
+
+-----
+
 ## 20 August 2025
 
 Online Talk "Recognizing the Signs of Stress" by [Kenneth Minor](https://www.linkedin.com/in/kenneth-minor-526ba4148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3bsO37VuTjq8g5d27P3whA%3D%3D), New York, USA.
