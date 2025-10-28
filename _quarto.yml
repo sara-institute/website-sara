@@ -11,6 +11,7 @@ project:
     browser: true
   #output-dir: docs
 
+
 website:
   title: "SARA INSTITUTE"
   favicon: "images/logo-sara.png"
@@ -74,7 +75,7 @@ website:
         
   page-footer:
     background: "#003262"
-    left: "SARA Institute &copy; 2023-2025"
+    left: "SARA Institute &copy; 2025"
     center:
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/sarainstitute.bsky.social  
@@ -97,7 +98,7 @@ website:
         href: https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J
         aria-label: WhatsApp  
   
-    right: "Buil[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
+    right: "[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
     border: true
     
     

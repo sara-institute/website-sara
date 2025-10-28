@@ -278,10 +278,6 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Sponsor a Student's Journey
 
-₹500 = Full training for one student.  
-₹5,000 = Sponsor an entire cohort.   
-₹25,000 = Launch a new training program.   
-
 [Your contribution breaks barriers and opens doors to data science careers fro students from marginalized communities.]{.p-mission}
 
 ::: {.button}
