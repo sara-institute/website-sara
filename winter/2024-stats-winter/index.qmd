@@ -1,8 +1,8 @@
 ---
 title: "Statistics using R"
 image: images/students.jpeg
-date: "2025-12-16 "
-categories: [R, Data Science, Winter School, Completed, Statistics]
+date: "2024-12-16 "
+categories: [R, Data Science, Winter School, Statistics]
 pagetitle: "SARA - r"
 lightbox: true
 ---

@@ -1,9 +1,22 @@
 [
   {
-    "listing": "/summer.html",
+    "listing": "/winter.html",
     "items": [
-      "/summer/2025-r4b/index.html",
-      "/summer/2024-r4b/index.html"
+      "/winter/2025-stats-winter/index.html",
+      "/winter/2024-stats-winter/index.html"
+    ]
+  },
+  {
+    "listing": "/offline.html",
+    "items": [
+      "/offline/computer/index.html",
+      "/offline/english/index.html"
+    ]
+  },
+  {
+    "listing": "/bootcamp.html",
+    "items": [
+      "/bootcamp/2025-bootcamp/index.html"
     ]
   },
   {
@@ -15,22 +28,10 @@
     ]
   },
   {
-    "listing": "/bootcamp.html",
+    "listing": "/summer.html",
     "items": [
-      "/bootcamp/2025-bootcamp/index.html"
-    ]
-  },
-  {
-    "listing": "/offline.html",
-    "items": [
-      "/offline/computer/index.html",
-      "/offline/english/index.html"
-    ]
-  },
-  {
-    "listing": "/winter.html",
-    "items": [
-      "/winter/2024-stats-winter/index.html"
+      "/summer/2025-r4b/index.html",
+      "/summer/2024-r4b/index.html"
     ]
   },
   {

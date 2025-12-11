@@ -1,0 +1,236 @@
+---
+title: "Statistics using R"
+subtitle: "2nd SARA Winter School"
+image: banner.png
+description: "Empowering Social Science & Humanities Students with Data Skills"
+date: today
+categories: [R, Data Science, Winter School, Statistics]
+pagetitle: "SARA - r"
+lightbox: true    
+---
+
+The **2nd SARA Winter School** is a five-day, hands-on learning experience designed especially for **students and early-career researchers in social sciences and the humanities** who want to build confidence in statistics and learn how to use **R**, a powerful and free tool for data analysis.
+
+Whether you are completely new to programming, anxious about statistics, or eager to upgrade your research skills — this winter school is built for you.
+
+<br>
+
+<div style="position: relative; width: 70%; height: 0; padding-top: 99.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAG66iABn8g/NrZdL6ssJrNzRFvBMVhB6g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+<br>
+
+::::: {.centering}
+
+# [Why Join This Winter School?]{style="color:#c2274c"}
+
+:::::
+
+:::: col
+::: card
+
+### 1. Learn Statistics Without Fear
+
+We understand that many social science and humanities students feel anxious about numbers. We use simple, intuitive explanations to help you understand concepts step by step, with real examples from sociology, psychology, education, political science, economics, and related fields.
+
+### 2. Start From Zero — No Coding or Math Background Required
+
+You will learn R through guided exercises, interactive demos, and hands-on practice—we begin from the basics and build up gradually.
+
+### 3. Practical Skills for Research & Jobs
+
+You will learn how to:
+
+- Clean and prepare datasets
+
+- Explore data visually
+
+- Run descriptive and inferential statistics
+
+- Interpret results confidently
+
+- Create publication-ready graphs and reports
+
+Skills you gain will directly help in coursework, dissertations, research, policy work, NGO projects, and academic publications.
+
+### 4. Supportive and Inclusive Learning Environment
+
+The winter school is designed to be friendly, collaborative, and accessible.   
+We focus on removing fear, building confidence, and creating a safe space for beginners.
+
+### 5. Affordable — Tuition is Free
+
+The entire winter school is **completely FREE**.
+Participants only pay **Rs. 3500** for food and accommodation for five days.
+
+### 6. Fellowships for Marginalized Students & Women
+
+A limited number of **full and partial fellowships** are available for:
+
+- Students from marginalized communities
+
+- Women researchers
+
+- First-generation learners
+
+These fellowships cover **food + accommodation** and are awarded based on need and motivation.
+
+:::
+::::
+
+<br>
+
+::::: {.centering}
+
+# [When and Where?]{style="color:#c2274c"}
+
+:::::
+
+:::: col
+::: card
+
+📅 **Dates:** Fri 23 Jan 2026 to Tue 27 Jan 2026
+
+📍 **Venue:** Dr. Ambedkar Bhawan, Near Dayanand Hospital, Kakroi Road, Sonipat, Haryana - 131001
+
+🕗 **Daily Schedule:** 8 hours of offline engaging instruction, practice, and projects
+
+🍽 **Stay:** Shared hostel accommodation + meals included (Rs. 3500 total)
+
+:::
+::::
+
+
+::: {.centering}
+# [Registration]{style="color:#c2274c"}
+:::
+
+:::: col
+::: card
+
+## What will you learn
+
+- Basics of R and RStudio
+
+- Data cleaning and preparation
+
+- Descriptive statistics and visualization
+
+- Correlation, regression, and hypothesis testing
+
+- Hands-on practice with real datasets
+
+- Creating reports using Quarto/RMarkdown
+
+## Who Should Apply?
+
+- Undergraduate and postgraduate students
+
+- M.Phil. and PhD scholars
+
+- Faculty from social science & humanities disciplines
+
+- NGO and development sector workers
+
+- Anyone who wants to overcome fear of statistics and learn R
+
+*No prior programming, statistics, or mathematics experience is required.*
+
+## Limited Seats — Apply Early
+
+- **Step 1 Payment:** Take screen shot of your successful transaction. You can secure your spot by making the payment via below QR or using our UPI ID is `919253152024@sbi`. 
+
+::: {.col}
+![](images/qr-sara.png){width=49% fig-align="center"}
+:::
+
+- **Step 2 Register:** Fill this Google Form with required information: <https://forms.gle/vcBv55mJM7PhEncR8>
+
+Seats are limited to ensure personal attention and guided support for each participant. Shortlisted candidates will be informed by email.
+
+## Refund Policy
+
+### 1. Cancellation by Participant
+- **15+ Days Before Start Date**:  
+  - **100% Refund**: Full refund of fees paid.  
+- **7–14 Days Before Start Date**:  
+  - **50% Refund**: Half of the fees paid.  
+- **Less Than 7 Days Before Start Date**:  
+  - **No Refund**: Fees are non-refundable.  
+
+**Process**:
+
+- Submit a refund request via email to **sara.institute.info@gmail.com** with:    
+  - Participant name  
+  - Transaction details (payment ID, date).  
+  - Reason for cancellation.
+    
+- Refunds processed within **7–10 business days** via original payment method.  
+
+### 2. Scholarship Recipients
+- Scholarship seats are **non-refundable**.  
+- If unable to attend, notify SARA **at least 7 days prior** to free the seat for another candidate.  
+
+### 3. Cancellation by SARA  
+- If SARA cancels/reschedules the event:  
+  - **100% Refund**: Full refund for all paid participants.  
+  - **Option to Transfer**: Join the next cohort at no extra cost.  
+
+### 4. Special Cases  
+- **Medical Emergencies**: Submit a doctor’s certificate for refund consideration (partial/full, case-by-case basis).  
+- **Partial Attendance**: No refunds for days attended.  
+
+
+### 5. Non-Refundable Components  
+- **Administrative Fees**: ₹500 (deducted from all refunds).  
+
+### Contact for Refunds  
+**Email**: sara.institute.info@gmail.com | 📞 **Call**: 925 315 2024
+
+**Note:** SARA reserves the right to amend this policy. Exceptions apply only with prior written approval.  
+
+:::
+::::
+
+<br>
+
+::: {.card}
+
+## Support Provided by The Ambedkar Educational Society, Sonipat
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+We are grateful to the Ambedkar Educational Society, Sonipat for generously supporting the 2nd SARA Winter School.
+As part of their commitment to empowering marginalized communities through education, the Society is providing subsidized accommodation support for all participants during the five-day program.
+
+This collaboration enables us to:
+
+- Keep the winter school completely free of tuition fees
+
+- Offer affordable and safe hostel accommodation
+
+- Provide nutritious meals for all participants
+
+- Extend fellowship support to students from marginalized communities and women scholars
+
+The support from the Ambedkar Educational Society ensures that students from all socioeconomic backgrounds can attend the program without financial barriers and participate fully in the learning experience.
+
+:::
+
+<br>
+
+
+
+<br>
+
