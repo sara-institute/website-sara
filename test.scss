@@ -133,21 +133,40 @@ h2{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-.layout-grid {
+/* grid layout for home page */
+.layout-grid-course {
   --gap: 0.85rem;
   display: grid;
   gap: var(--gap);
 }
 
 @media (min-width: 800px) {
-  .layout-grid {
+  .layout-grid-course {
     grid-template-columns: 1fr 1.80fr 1fr;
   }
 }
 
-.layout-grid > * {
+.layout-grid-course > * {
   flex: 1;
 }
+
+/* grid layout for faculty pictures*/
+.layout-grid-img {
+  --gap: 0.85rem;
+  display: grid;
+  gap: var(--gap);
+}
+
+@media (min-width: 800px) {
+  .layout-grid-img {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.layout-grid-img > * {
+  flex: 1;
+}
+
 
 .col {
   display: grid;

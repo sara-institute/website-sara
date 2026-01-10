@@ -85,11 +85,51 @@ These fellowships cover **food + accommodation** and are awarded based on need a
 
 <br>
 
-::::: {.centering}
+::: {.centering}
+
+# [Meet your instructors]{style="color:#c2274c"}
+
+:::
+
+:::: {.layout-grid-img}
+
+::: {.col}
+::: {.card}
+
+![](images/cecilia.jpg)
+
+**Dr. Cecilia Baldoni** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/cecilia-baldoni/)
+
+Researcher 
+
+Max Planck Institute, Germany.
+
+::: 
+::: 
+
+::: {.col}
+::: {.card}
+
+![](images/ajay.jpeg)
+
+**Dr. Ajay Kumar Koli** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
+
+Data Science Educator
+
+SARA Institute, India.
+
+
+:::
+:::
+:::: 
+
+<br>
+
+::: {.centering}
 
 # [When and Where?]{style="color:#c2274c"}
 
-:::::
+:::
 
 :::: col
 ::: card
@@ -203,7 +243,7 @@ Seats are limited to ensure personal attention and guided support for each parti
 
 ## Support Provided by The Ambedkar Educational Society, Sonipat
 
-::: {.layout-grid}
+::: {.layout-grid-img}
 
 ::: {.col}
 ![](images/sonipat-bhawan.png)

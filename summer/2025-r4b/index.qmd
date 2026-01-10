@@ -18,7 +18,7 @@ lightbox: true
 ::::: {.centering}
 # [International Guest Speakers]{style="color:#ffae09"}
 
-:::: {.layout-grid}
+:::: {.layout-grid-img}
 
 ::: {.col}
 ::: {.card}

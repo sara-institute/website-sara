@@ -99,7 +99,7 @@ include-in-header:
 
 <br>
 
-:::: {.layout-grid}
+:::: {.layout-grid-course}
 
 ::: {.col}
 ::: {.card}
@@ -300,7 +300,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::: {.flex-container}
 
-::: {.layout-grid}
+::: {.layout-grid-img}
 
 ::: {.col}
 ![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Co-Founder & Exec. Director, SARA Institute<br>koliajaykumar@gmail.com
