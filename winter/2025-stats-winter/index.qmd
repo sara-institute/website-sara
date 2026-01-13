@@ -110,6 +110,20 @@ Max Planck Institute, Germany.
 ::: {.col}
 ::: {.card}
 
+![](images/kavitha.jpg)
+
+**Dr. Kavitha Kannan** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/kavskannan/)
+
+Researcher 
+
+Uni. of Konstanz, Germany.
+
+::: 
+:::
+
+::: {.col}
+::: {.card}
+
 ![](images/ajay.jpeg)
 
 **Dr. Ajay Kumar Koli** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
@@ -117,10 +131,9 @@ Max Planck Institute, Germany.
 Data Science Educator
 
 SARA Institute, India.
-
-
 :::
 :::
+
 :::: 
 
 <br>

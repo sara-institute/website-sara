@@ -88,7 +88,7 @@ The classes were offered physically in-person at the SARA Institute, Dr. Ambedka
 ::: {.centering}
 # [KEYNOTE SPEAKER]{style="color:#008080"}
 
-::: {.layout-grid}
+::: {.layout-grid-img}
 
 ::: {.col}
 :::
@@ -113,7 +113,7 @@ University of Johannesburg, ZA.
 # Online Expert Lectures
 
 
-::: {.layout-grid}
+::: {.layout-grid-img}
 
 ::: {.col}
 ::: {.card}
