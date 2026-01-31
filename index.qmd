@@ -209,24 +209,29 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Winter School "Statistics using R" 16 - 20 December 2024 {.centering}
+## 2nd Winter School "Statistics using R" 23-27 Jan 2026 {.centering}
 
-![](images/2024winter.jpeg)
+![](images/students-winter-school26.jpeg)
 
-> *This course ensures that we not only understood the theoretical aspects of statistics but also gained practical experience using R, which made the entire learning process much more approachable.*               
-> --- **Sapna Kanwar, MA, JNU**
+> *The progressive structuring of the course made the complex statistics concepts accessible & understandable.*      
+> --- **Dr. Priyanka Choudhary, Asst. Prof. Pol. Sci., Delhi University**
 
+> *My most of doubts are cleared & it will enhance the quality of my PhD thesis.*      
+> --- **M. Shiva Kumar, PhD Spanish, JNU**
 
-> *It is a full package that teaches us to integrate three skills: understanding Research Methodology, knowledge of statistics and use of R for data analysis.*     
-> --- **Dharmanshu Dhakar, PhD Scholar, MP**
+> *Sessions were very helpful & guided my PhD research in the right direction.*         
+> --- **Keerthivasan, PhD Media & Journalism, Woxsen University**
 
-> *We got to learn about Research Methodology, Statistics and data analysis in R. All the number of lectures and hours sessions are very well designed.*      
-> --- **Mahavir Bhagat, PhD Scholar, JNU**
+> *The step by step approach by the instructors made the sessions accessible for participants from non-technical background.*      
+> --- **Dr. Mridula Manglam, PhD Pol. Sci., Allahabad University**
 
-> *SARA made it possible for students coming from marginalized and under-represented groups in India at such a low cost, with all the necessary arrangements.*        
-> --- **Yashang Jambhulkar, BA, Maharashtra**
+> *It has endowed me with confidence to learn R & Stats myself.*     
+> --- **Mohit Jorwal, PhD Pol. Sci., JNU**
 
-[Know more](winter/2024-stats-winter/index.qmd)
+> *A respectful environment, people are helpful with humility. Never felt excluded or anxious of doing wrong/mistakes.*         
+> --- **Dr. Dhiraj Singh, PhD Sociology, Ambedkar University**
+
+[Know more](winter/2025-stats-winter/index.qmd)
 
 :::
 :::
