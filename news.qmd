@@ -33,6 +33,14 @@ Here you will find schedules for our special online events:
 ::: {.col}
 ::: {.card}
 
+## 27 January 2026
+
+About 2nd SARA Statistics Winter School
+
+{{< video https://youtu.be/BO11d6WGX8c?si=6qRTng1QK-4yzLbc >}}
+
+-----
+
 ## 10 October 2025
 
 Great energy at **Dr. Ajay Koli's talk** *"Why Code? Unlocking New Possibilities for Social Researchers"* talk with the **Department of Sociology at Delhi University!**

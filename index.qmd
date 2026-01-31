@@ -45,10 +45,9 @@ include-in-header:
 
 ::: {.column-screen}
 
-![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
+![](images/students-winter-school26.jpeg){fig-alt="Latest batch of data science students at SARA." fig-align="center"}
+
 :::
-
-
 
 ::::: {.column-page .centering}
 
@@ -159,11 +158,12 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 <br>
 
----
-
 :::::
 
+::: {.column-screen}
 
+![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
+:::
 
 ::::: {.column-screen .banner-cream .centering}
 

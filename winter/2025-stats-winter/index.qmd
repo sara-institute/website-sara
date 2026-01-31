@@ -1,7 +1,7 @@
 ---
 title: "Statistics using R"
 subtitle: "2nd SARA Winter School"
-image: banner.png
+image: banner.jpeg
 description: "Empowering Social Science & Humanities Students with Data Skills"
 date: today
 categories: [R, Data Science, Winter School, Statistics]
@@ -12,6 +12,10 @@ lightbox: true
 The **2nd SARA Winter School** is a five-day, hands-on learning experience designed especially for **students and early-career researchers in social sciences and the humanities** who want to build confidence in statistics and learn how to use **R**, a powerful and free tool for data analysis.
 
 Whether you are completely new to programming, anxious about statistics, or eager to upgrade your research skills — this winter school is built for you.
+
+### 🎉 Proud to share the success of 20 participants
+
+![](images/students-winter-school26.jpeg)
 
 <br>
 

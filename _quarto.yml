@@ -23,12 +23,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  announcement:
-     icon: info-circle
-     dismissable: true
-     content: "**Alert** - The applications for the Jan 2026 SARA Statistics Winter School are now open. [Apply today!](https://sara-edu.netlify.app/winter/2025-stats-winter/)"
-     type: success
-     position: below-navbar
+  #announcement:
+     #icon: info-circle
+     #dismissable: true
+     #content: "**Alert** - The applications for the Jan 2026 SARA Statistics Winter School are now open. [Apply today!](https://sara-edu.netlify.app/winter/2025-stats-winter/)"
+     #type: success
+     #position: below-navbar
   
 
   navbar:
@@ -72,10 +72,10 @@ website:
       - text: Contact
         href: contact.qmd
         
-        
+      
   page-footer:
     background: "#003262"
-    left: "SARA Institute &copy; 2025"
+    left: "SARA Institute &copy; 2026"
     center:
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/sarainstitute.bsky.social  
