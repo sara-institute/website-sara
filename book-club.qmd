@@ -1,0 +1,59 @@
+---
+title: "SARA Book Club"
+subtitle: "Let's Read & Discuss Books Together"
+pagetitle: "Book Club"
+listing:
+  contents: "book-club"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+#page-layout: full
+title-block-banner: "#ffffff"
+title-block-style: default
+title-block-banner-color: "#003262"
+
+---
+
+::: {.col}
+::: {.card}
+
+::: {.centering}
+
+![](images/book-club.png)
+
+:::
+
+## Launching SARA Book Club - An Inclusive Book Club
+
+Inspired by the SARA Institute's mission to make data science accessible to all, we are starting a collaborative reading initiative for anyone passionate about books.
+
+### Why This Matters:
+
+Data science education has historically been the privilege of a few. Through SARA Book Club, we're creating space where:
+
+→ Knowledge is democratized, not gatekept.  
+→ All backgrounds are valued and welcomed.   
+→ Learning happens through community, not isolation.    
+→ Data skills become tools for social impact.    
+
+### The Format:
+
+- One book per month.      
+- Bi-weekly Zoom discussions (every 15 days).   
+- Inclusive, respectful learning environment.        
+- Free participation - no barriers.
+
+### Who Should Join:
+
+Students, researchers, professionals, career changers, activists, scholars - anyone committed to learning and sharing knowledge equitably.
+
+**In the Spirit of Mata Savitribai Phule & Mata Ramabai Ambedkar**:
+This isn't just a book club. It's a space to build the diverse, inclusive data science community our field desperately needs.
+
+
+:::
+:::
+
+<br>

@@ -45,5 +45,11 @@
       "/workshops/srm-sonipat/index.html",
       "/workshops/mdu-eco/index.html"
     ]
+  },
+  {
+    "listing": "/book-club.html",
+    "items": [
+      "/book-club/2026-02-03-joe/index.html"
+    ]
   }
 ]

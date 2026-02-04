@@ -23,12 +23,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  #announcement:
-     #icon: info-circle
-     #dismissable: true
-     #content: "**Alert** - The applications for the Jan 2026 SARA Statistics Winter School are now open. [Apply today!](https://sara-edu.netlify.app/winter/2025-stats-winter/)"
-     #type: success
-     #position: below-navbar
+  announcement:
+     #icon: book
+     dismissable: true
+     content: "**🎉 New Launch** SARA Book Club - Read and discuss books together online. [Check now!](https://sara-edu.netlify.app/book-club/2026-02-03-joe/)"
+     type: success
+     position: below-navbar
   
 
   navbar:
@@ -61,8 +61,8 @@ website:
             href: winter.qmd
           - text: Publish using Quarto
             href: bootcamp.qmd
-      # - text: Studio
-      #   href: studio.qmd
+      - text: Book Club
+        href: book-club.qmd
       - text: Collaborations
         href: workshops.qmd
       - text: News & Events
