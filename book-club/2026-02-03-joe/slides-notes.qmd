@@ -1,0 +1,137 @@
+---
+format: 
+    revealjs:
+        theme: [default, styles.scss]
+slide-number: true
+logo: images/logo-sara-studio.png
+incremental: true
+menu: true
+---
+
+# 1st Book<br>Discussion {background-image="images/cover.jpg" background-size="contain" background-position="right" background-color="black"}
+
+
+
+**SARA Book Club**
+
+##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
+
+<br> <br>
+
+::::::: centering
+:::::: columns
+::: {.column width="36%"}
+![**GYAN JYOTI [SA]{.clr-red}VITRIBAI PHULE (1831-1897)**<br>🌺 🙏🏽
+🌼](images/savitrimai.png){width="70%"}
+:::
+
+::: {.column width="29%"}
+<br>
+
+![](images/logo-sara.png){width="2.0in" fig-align="center"}
+:::
+
+::: {.column width="34.75%"}
+![**MATA [RA]{.clr-red}MABAI AMBEDKAR (1898-1935)**<br>🌺 🙏🏽
+🌼](images/ramai.png){width="70%"}
+:::
+::::::
+
+[**Savitribai Ramabai (SARA) Institute of Data Science**]{.r-fit-text}
+:::::::
+
+## About SARA
+
+- Making Data Science Accessible to All
+
+- Free Training in Coding, Statistics, and Research Methods
+
+- Priority admission for marginalized communities & women.
+
+::: aside
+SARA website: <https://sara-edu.netlify.app/>
+:::
+
+## {background-image="images/welcome.png" background-size="contain" background-position="middle" background-color="black"}
+
+# {background-image="images/flyer-joe.png" background-size="contain" background-color="black"}
+
+## About Author {background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/960px-Joy_Buolamwini_-_Wikimania_2018_01.jpg" background-size="contain" background-color="black" background-position="right"}
+
+- Dr. Joy Buolamwini, AI Researcher
+
+- Founder of [Algorithmic Justice League](https://www.ajl.org/)
+
+- Rhodes Scholar, Ph.D. from MIT
+
+- TIME's 100 Most Influential People in AI (2023)
+
+- Technological Innovation Award <br>from the MLK Jr. Center
+
+# Introduction {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## Coded Gaze
+
+> "the ways in which the priorities, preferences, and prejudicies of those who have power to shape technology can propagate harm, such as discrimination and erasure" (p. xiii)
+
+<br>
+
+. . .
+
+::: {.callout-tip}
+Coded Gaze like **male gaze** or **white gaze** or **caste gaze**.
+:::
+
+## Predictive AI Systems
+
+- Mortages/loan/banks
+
+- Job hiring
+
+- College admissions
+
+- Medical treatment
+
+::: aside
+Page no. xvi
+:::
+
+## People
+
+> "Given the harm of AI, how can we center the lives of everyday people, and especially those at the margins, when we consider the designs and deployment of AI?" (p. xvii)
+
+## Algorithmic Injustice
+
+> "when machines fail, the people who often have the least resources and most limited access to power structures are those who have to experience the worst outcomes." (p. xix)
+
+## cannot use AI
+
+- "to sidestep the hard work of organizing society"
+
+- "to sidestep conversations about patriarchy, white supremacy, ableism, or who hold power and who doesn't." (p. xx)
+
+## Concern & Hope
+
+> "how technology can encode harmful discrimination and exclusionary practices." (p. xx)
+
+. . .
+
+> "you walk away with questions that push us all to rethink, reframe, and recode the future of AI." (p. xxi)
+
+# PART I<br>Idealistic<br>Immigrant {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## Daughter of Art & Science
+
+- color, cell and computers
+
+- "my parents taught me that the unknown was an invitation to learn, not a menancing dimension to avoid. Ignorance was a starting place to enter deeper realms of understanding." (p. 5)
+
+- "You will never find your worth in things." (p. 5)
+
+## MIT Media Lab
+
+- unwelcome at MIT, cambridge
+
+- less funding for her group working tech impact on society
+
+- 

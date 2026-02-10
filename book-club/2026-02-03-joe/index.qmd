@@ -2,6 +2,7 @@
 title: "1st Book Discussion"
 subtitle: "SARA Book Club"
 image: flyer-joe.png
+format: html
 description: "Unmaking AI by Dr. Joy Buolamwini"
 date: today
 categories: [AI, Non-fiction, Technology, Science, Memoir, Politics]
@@ -31,3 +32,8 @@ Why this book? Perfect alignment with SARA's values of justice, accessibility, a
 </div>
 
 <br>
+
+## Notes from the Book
+
+{{< revealjs file="slides-notes.html" height="500px" class="ratio ratio-16x9" >}}
+

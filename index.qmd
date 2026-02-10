@@ -12,7 +12,7 @@ include-in-header:
 
 ::: {.centering .banner-blue .column-screen}
 
-# [Making Data Science Accessible to All]{.clr-white}
+# [Making Coding Accessible to All]{.clr-white}
 
 [Free Training in Coding, Statistics, and Research Methods]{.clr-white .p-mission}
 
@@ -36,7 +36,7 @@ include-in-header:
 
 # Our Mission 
 
-[SARA makes data science accessible to everyone - not just the privileged few. We provide **free** training in coding and data analysis to students, researchers, and professionals, removing barriers of cost, complexity, and background. We are empowering the next generation to transform their careers and communities through data.]{.p-mission}
+[SARA makes education accessible to everyone - not just the privileged few. We provide free training in coding and data analysis to students, researchers, and professionals, removing barriers of cost, complexity, and background. We are empowering the next generation to transform their careers and communities through coding.]{.p-mission}
 
 ::: {.button}
 [Support Our Mission](donate.qmd)
@@ -283,7 +283,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Sponsor a Student's Journey
 
-[Your contribution breaks barriers and opens doors to data science careers fro students from marginalized communities.]{.p-mission}
+[Your contribution breaks barriers and opens doors to data science careers for marginalized communities and women.]{.p-mission}
 
 ::: {.button}
  [{{< fa heart >}}]{style="color:red"} &nbsp; [Donate Now](donate.qmd)
@@ -297,7 +297,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 # Thank You!
 
-[An inclusive organization is built with understanding and love.]{.p-mission}
+[An inclusive organization is built with community.]{.p-mission}
 
 [Thank you for being a part of SARA!]{.p-mission}
 

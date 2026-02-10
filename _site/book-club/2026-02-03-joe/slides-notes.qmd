@@ -1,0 +1,8 @@
+---
+title: "1 Book Discussion"
+subtitle: "SARA Book Club"
+format: revealjs
+---
+
+## Unmasking AI by Joe
+

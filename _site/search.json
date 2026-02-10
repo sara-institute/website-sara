@@ -282,42 +282,42 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "",
     "text": "Free Training in Coding, Statistics, and Research Methods"
   },
   {
     "objectID": "index.html#computer-skills",
     "href": "index.html#computer-skills",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "Computer Skills",
     "text": "Computer Skills\nLearn essential computer skills including operating systems, file management, internet navigation, and productivity software—the foundation for digital literacy and data science learning.\nLearn more"
   },
   {
     "objectID": "index.html#data-science-for-social-impact",
     "href": "index.html#data-science-for-social-impact",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "Data Science for Social Impact",
     "text": "Data Science for Social Impact\nLearn R, Python, statistics, and Quarto to conduct rigorous research and analysis\nR, Statistics, Python, & Quarto"
   },
   {
     "objectID": "index.html#research-methods-for-social-science",
     "href": "index.html#research-methods-for-social-science",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "Research Methods for Social Science",
     "text": "Research Methods for Social Science\nScholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.\nLearn more"
   },
   {
     "objectID": "index.html#english-language",
     "href": "index.html#english-language",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "English Language",
     "text": "English Language\nLearning English enhanced global communication, opens doors to diverse cultures, facilitates travel, and provides a competitive edge in the global job market.\nLearn more"
   },
   {
     "objectID": "index.html#nd-summer-school-r-for-beginners-25-29-july-2025",
     "href": "index.html#nd-summer-school-r-for-beginners-25-29-july-2025",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "2nd Summer School “R for Beginners” 25-29 July 2025",
     "text": "2nd Summer School “R for Beginners” 25-29 July 2025\n\n\nI got more hand-on experience during the workshop. Most importantly lost my fear of R.\n— Hardik Parmar, MA, TISS-Mumbai\n\n\nInteractive teaching is what I consider as the main features. I recommend course to others.\n— Jatin Mathur, MA Soc., DSE-DU\n\n\nThis summer school has given me the confidence that I can become better with R\n— R. Tharun, MA, TISS-Mumbai\n\n\nI’m from Humanities background & data, programming, & coding seem bit difficult. But SARA made this so comfortable.\n— Komal Devi, PhD Scholar, Pol. Sci. JNU\n\n\nHands-on training was greatly impactful.\n— Dr. Madhu Bala, PhD in Soc., JNU\n\n\nIts really commendable the way faculty explains each and every step in his classes.\n— Md. Allam Ashraf, PhD Scholar, Soc., Jamia University\n\nKnow more"
   },
@@ -331,7 +331,7 @@
   {
     "objectID": "index.html#bootcamp-publish-using-quarto-03---07-march-2025",
     "href": "index.html#bootcamp-publish-using-quarto-03---07-march-2025",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "Bootcamp “Publish using Quarto” 03 - 07 March 2025",
     "text": "Bootcamp “Publish using Quarto” 03 - 07 March 2025\n\n\nThe modules were taught in a simple and informative way.\n— Deepak Kumar, MA Psychology, UP\n\n\nI got to learn great skills in data science which will help me a lot in my academic journey.\n— Maga Ram, MA Pol. Sci., JNU\n\n\nDuring this bootcamp, I experienced a lot of things about data science. Classes were enjoyable and I had a great experience.\n— Rachna Rathi, BA LLB, HR\n\n\nMaking data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort.\n— Rishav Kumar, MA Pol. Sci., JNU\n\n\nWith the right help, guidance, and support of batch mates everything was made possible. SARA team was helpful and kind.\n— Garima, MA Eng. Lit., GVM Sonipat. \n\nKnow more"
   },
@@ -891,7 +891,7 @@
   {
     "objectID": "index.html#nd-winter-school-statistics-using-r-23-27-jan-2026",
     "href": "index.html#nd-winter-school-statistics-using-r-23-27-jan-2026",
-    "title": "Making Data Science Accessible to All",
+    "title": "Making Coding Accessible to All",
     "section": "2nd Winter School “Statistics using R” 23-27 Jan 2026",
     "text": "2nd Winter School “Statistics using R” 23-27 Jan 2026\n\n\nThe progressive structuring of the course made the complex statistics concepts accessible & understandable.\n— Dr. Priyanka Choudhary, Asst. Prof. Pol. Sci., Delhi University\n\n\nMy most of doubts are cleared & it will enhance the quality of my PhD thesis.\n— M. Shiva Kumar, PhD Spanish, JNU\n\n\nSessions were very helpful & guided my PhD research in the right direction.\n— Keerthivasan, PhD Media & Journalism, Woxsen University\n\n\nThe step by step approach by the instructors made the sessions accessible for participants from non-technical background.\n— Dr. Mridula Manglam, PhD Pol. Sci., Allahabad University\n\n\nIt has endowed me with confidence to learn R & Stats myself.\n— Mohit Jorwal, PhD Pol. Sci., JNU\n\n\nA respectful environment, people are helpful with humility. Never felt excluded or anxious of doing wrong/mistakes.\n— Dr. Dhiraj Singh, PhD Sociology, Ambedkar University\n\nKnow more"
   },
@@ -949,7 +949,7 @@
     "href": "book-club/2026-02-03-joe/index.html",
     "title": "1st Book Discussion",
     "section": "",
-    "text": "📚 We’re starting SARA Book Club with an inspiring choice!\n\nBook: Unmasking AI: My Mission to Protect What Is Human in a World of Machines\n\n\nAuthor: Dr. Joy Buolamwini\nDr. Buolamwini is the founder of the The Algorithmic Justice League and her book exposes how AI systems encode discrimination against women, people of color, and marginalized communities. She uncovered what she calls “the coded gaze”—the evidence of encoded discrimination and exclusion in tech products.\nWhy this book? Perfect alignment with SARA’s values of justice, accessibility, and making tech serve everyone - not just the privileged few."
+    "text": "📚 We’re starting SARA Book Club with an inspiring choice!"
   },
   {
     "objectID": "book-club/2026-02-03-joe/index.html#what-will-you-learn",
@@ -985,5 +985,138 @@
     "title": "1st Book Discussion",
     "section": "Support Provided by The Ambedkar Educational Society, Sonipat",
     "text": "Support Provided by The Ambedkar Educational Society, Sonipat\n\n\n\n\n\nWe are grateful to the Ambedkar Educational Society, Sonipat for generously supporting the 2nd SARA Winter School. As part of their commitment to empowering marginalized communities through education, the Society is providing subsidized accommodation support for all participants during the five-day program.\nThis collaboration enables us to:\n\nKeep the winter school completely free of tuition fees\nOffer affordable and safe hostel accommodation\nProvide nutritious meals for all participants\nExtend fellowship support to students from marginalized communities and women scholars\n\nThe support from the Ambedkar Educational Society ensures that students from all socioeconomic backgrounds can attend the program without financial barriers and participate fully in the learning experience."
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/index.html#notes-from-the-book",
+    "href": "book-club/2026-02-03-joe/index.html#notes-from-the-book",
+    "title": "1st Book Discussion",
+    "section": "Notes from the Book",
+    "text": "Notes from the Book\n    View slides in full screen"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#unmasking-ai-by-joe",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#unmasking-ai-by-joe",
+    "title": "SARA INSTITUTE",
+    "section": "Unmasking AI by Joe",
+    "text": "Unmasking AI by Joe"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html",
+    "href": "book-club/2026-02-03-joe/slides-notes.html",
+    "title": "",
+    "section": "",
+    "text": "format: revealjs title-slide-attributes: data-background-color: black data-background-image: flyer-joe.png data-background-size: contain —"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#section",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#section",
+    "title": "SARA INSTITUTE",
+    "section": "",
+    "text": "GYAN JYOTI SAVITRIBAI PHULE (1831-1897)🌺 🙏🏽 🌼\n\n\n\n\n\n\n\n\n\n\n\n\n\nMATA RAMABAI AMBEDKAR (1898-1935)🌺 🙏🏽 🌼\n\n\n\nSavitribai Ramabai (SARA) Institute of Data Science"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#about-sara",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#about-sara",
+    "title": "SARA INSTITUTE",
+    "section": "About SARA",
+    "text": "About SARA\n\nMaking Data Science Accessible to All\nFree Training in Coding, Statistics, and Research Methods\nPriority admission for marginalized communities & women.\n\n\n\nSARA website: https://sara-edu.netlify.app/"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#dr.-joy-b",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#dr.-joy-b",
+    "title": "SARA INSTITUTE",
+    "section": "Dr. Joy B",
+    "text": "Dr. Joy B"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#dr.-joy-buolamwini",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#dr.-joy-buolamwini",
+    "title": "SARA INSTITUTE",
+    "section": "Dr. Joy Buolamwini",
+    "text": "Dr. Joy Buolamwini"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#about-author",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#about-author",
+    "title": "SARA INSTITUTE",
+    "section": "About Author",
+    "text": "About Author\n\nDr. Joy Buolamwini, AI Researcher\nFounder of Algorithmic Justice League\nRhodes Scholar, Ph.D. from MIT\nTIME’s 100 Most Influential People in AI (2023)\nTechnological Innovation Award from the MLK Jr. Center"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#coded-gaze",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#coded-gaze",
+    "title": "SARA INSTITUTE",
+    "section": "Coded Gaze",
+    "text": "Coded Gaze\n\n“the ways in which the priorities, preferences, and prejudicies of those who have power to shape technology can propagate harm, such as discrimination and erasure” (p. xiii)\n\n\n\n\n\n\n\n\n\nTip\n\n\nCoded Gaze like male gaze or white gaze or caste gaze."
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#ai-systems",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#ai-systems",
+    "title": "SARA INSTITUTE",
+    "section": "AI Systems",
+    "text": "AI Systems\n\nMortages/loan/banks\nJob hiring\nCollege admissions\nMedical treatment"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#predictive-ai-systems",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#predictive-ai-systems",
+    "title": "SARA INSTITUTE",
+    "section": "Predictive AI Systems",
+    "text": "Predictive AI Systems\n\nMortages/loan/banks\nJob hiring\nCollege admissions\nMedical treatment\n\n\n\nPage no. xvi"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#people",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#people",
+    "title": "SARA INSTITUTE",
+    "section": "People",
+    "text": "People\n\n“Given the harm of AI, how can we center the lives of everyday people, and especially those at the margins, when we consider the designs and deployment of AI?” (p. xvii)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#algorithmic-injustice",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#algorithmic-injustice",
+    "title": "SARA INSTITUTE",
+    "section": "Algorithmic Injustice",
+    "text": "Algorithmic Injustice\n\n“when machines fail, the people who often have the least resources and most limited access to power structures are those who have to experience the worst outcomes.” (p. xix)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#cannot-use-ai",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#cannot-use-ai",
+    "title": "SARA INSTITUTE",
+    "section": "cannot use AI",
+    "text": "cannot use AI\n\n“to sidestep the hard work of organizing society”\n“to sidestep conversations about patriarchy, white supremacy, ableism, or who hold power and who doesn’t.” (p. xx)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#concern",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#concern",
+    "title": "SARA INSTITUTE",
+    "section": "Concern",
+    "text": "Concern\n\n“how technology can encode harmful discrimination and exclusionary practices.” (p. xx)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#concern-hope",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#concern-hope",
+    "title": "SARA INSTITUTE",
+    "section": "Concern & Hope",
+    "text": "Concern & Hope\n\n“how technology can encode harmful discrimination and exclusionary practices.” (p. xx)\n\n\n\n“you walk away with questions that push us all to rethink, reframe, and recode the future of AI.” (p. xxi)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#daughter-of-art-science",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#daughter-of-art-science",
+    "title": "SARA INSTITUTE",
+    "section": "Daughter of Art & Science",
+    "text": "Daughter of Art & Science\n\ncolor, cell and computers\n“my parents taught me that the unknown was an invitation to learn, not a menancing dimension to avoid. Ignorance was a starting place to enter deeper realms of understanding.” (p. 5)\n“You will never find your worth in things.” (p. 5)"
+  },
+  {
+    "objectID": "book-club/2026-02-03-joe/slides-notes.html#mit-media-lab",
+    "href": "book-club/2026-02-03-joe/slides-notes.html#mit-media-lab",
+    "title": "SARA INSTITUTE",
+    "section": "MIT Media Lab",
+    "text": "MIT Media Lab\n\nunwelcome at MIT, cambridge\nless funding for her group working tech impact on society"
+  },
+  {
+    "objectID": "donate.html#donate-to-sara-support-free-education",
+    "href": "donate.html#donate-to-sara-support-free-education",
+    "title": "Donate to SARA",
+    "section": "",
+    "text": "Your Contribution Breaks Barriers\nEvery rupee helps us provide free courses, tech resources, and mentorship to students who need it most.\n\n\nAccount Name: SARA EDUCATION TRUST.\nAccount Number: 42920911856.\nBank Name: STATE BANK OF INDIA.\nIFSC Code: SBIN0000721."
   }
 ]

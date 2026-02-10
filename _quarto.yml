@@ -65,7 +65,7 @@ website:
         href: book-club.qmd
       - text: Collaborations
         href: workshops.qmd
-      - text: News & Events
+      - text: News
         href: news.qmd
       - text: Donate 
         href: donate.qmd
