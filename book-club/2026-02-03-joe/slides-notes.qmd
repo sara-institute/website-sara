@@ -10,8 +10,6 @@ menu: true
 
 # 1st Book<br>Discussion {background-image="images/cover.jpg" background-size="contain" background-position="right" background-color="black"}
 
-
-
 **SARA Book Club**
 
 ##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover"}
@@ -40,13 +38,22 @@ menu: true
 [**Savitribai Ramabai (SARA) Institute of Data Science**]{.r-fit-text}
 :::::::
 
-## About SARA
+## About SARA 
 
+::: {.columns}
+::: {.column width=75%}
 - Making Data Science Accessible to All
 
 - Free Training in Coding, Statistics, and Research Methods
 
 - Priority admission for marginalized communities & women.
+
+:::
+::: {.column width=25%}
+![](images/logo-sara.png)
+:::
+:::
+<!-- end columns -->
 
 ::: aside
 SARA website: <https://sara-edu.netlify.app/>
@@ -54,21 +61,45 @@ SARA website: <https://sara-edu.netlify.app/>
 
 ## {background-image="images/welcome.png" background-size="contain" background-position="middle" background-color="black"}
 
-# {background-image="images/flyer-joe.png" background-size="contain" background-color="black"}
+## {background-image="images/flyer-joe.png" background-size="contain" background-color="black"}
 
-## About Author {background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/960px-Joy_Buolamwini_-_Wikimania_2018_01.jpg" background-size="contain" background-color="black" background-position="right"}
+## Dr. Joy Buolamwini {background-image="images/joy.png" background-size="contain" background-color="black" background-position="110%"}
 
-- Dr. Joy Buolamwini, AI Researcher
+::: {.columns}
+::: {.column}
+- The Founder of [Algorithmic Justice League](https://www.ajl.org/)
 
-- Founder of [Algorithmic Justice League](https://www.ajl.org/)
+- Award-winning researcher and "poet of code".
 
-- Rhodes Scholar, Ph.D. from MIT
+- Rhodes Scholarship, Fulbright Fellowhship, & Stamps President's Scholarship.
 
-- TIME's 100 Most Influential People in AI (2023)
+:::
 
-- Technological Innovation Award <br>from the MLK Jr. Center
+::: {.column}
+:::
+:::
+<!-- end columns -->
 
-# Introduction {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+## Dr. Joy Buolamwini {background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Joy_Buolamwini_-_Wikimania_2018_01.jpg/960px-Joy_Buolamwini_-_Wikimania_2018_01.jpg" background-size="contain" background-color="black" background-position="right"}
+
+::: {.columns}
+::: {.column}
+- BS Computer Science, Georgia Institute of Technology
+
+- MSc Education Learning & Technology, University of Oxford
+
+- MS Media Arts & Science, MIT
+
+- PhD Media Arts & Sciences, MIT
+:::
+
+::: {.column}
+:::
+:::
+<!-- end columns -->
+
+
+# INTRODUCTION {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
 
 ## Coded Gaze
 
@@ -79,59 +110,177 @@ SARA website: <https://sara-edu.netlify.app/>
 . . .
 
 ::: {.callout-tip}
-Coded Gaze like **male gaze** or **white gaze** or **caste gaze**.
+Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 :::
 
 ## Predictive AI Systems
 
-- Mortages/loan/banks
+> "already used to determine who gets a mortgage, who gets hired, who gets admitted to college, and who gets medical treatments" (p. xvi)
 
-- Job hiring
+. . .
 
-- College admissions
-
-- Medical treatment
-
-::: aside
-Page no. xvi
-:::
-
-## People
-
-> "Given the harm of AI, how can we center the lives of everyday people, and especially those at the margins, when we consider the designs and deployment of AI?" (p. xvii)
+> "Given the harm of AI, how can we center the lives of everyday people, and especially those at the margins, when we consider the designs and deployment of AI? Can we make room for the best of what AI has to offer while also resisting its perils?" (p. xvii)
 
 ## Algorithmic Injustice
 
+> "If the AI systems ... mask discrimination and systematize harmful bias, we entrench algorithmic injustice." (p. xix)
+
+. . .
+
 > "when machines fail, the people who often have the least resources and most limited access to power structures are those who have to experience the worst outcomes." (p. xix)
 
-## cannot use AI
+## AI Hypes
 
-- "to sidestep the hard work of organizing society"
+> "AI will no solve poverty ... discrimination ... climate change" (p. xix-xx)
 
-- "to sidestep conversations about patriarchy, white supremacy, ableism, or who hold power and who doesn't." (p. xx)
+. . .
 
-## Concern & Hope
+> "we cannot use AI to sidestep the hard work of organising society ... to sidestep conversations about patriarchy, white supremacy, ableism, or who hold power and who doesn't." (p. xx)
+
+## Author's Concern & Hope
 
 > "how technology can encode harmful discrimination and exclusionary practices." (p. xx)
 
 . . .
 
-> "you walk away with questions that push us all to rethink, reframe, and recode the future of AI." (p. xxi)
+> "deeper understanding of why each and every one of us has a role to play in reaching toward algorithmic justice ... you walk away with questions that push us all to rethink, reframe, and recode the future of AI." (p. xxi)
 
-# PART I<br>Idealistic<br>Immigrant {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+# PART I<br>IDEALISTIC<br>IMMIGRANT {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
 
 ## Daughter of Art & Science
 
-- color, cell and computers
+> "this was certainly not the first time cameras had failed me." (p. 08)
 
-- "my parents taught me that the unknown was an invitation to learn, not a menancing dimension to avoid. Ignorance was a starting place to enter deeper realms of understanding." (p. 5)
+<br>
 
-- "You will never find your worth in things." (p. 5)
+. . .
 
-## MIT Media Lab
+::: {.callout-tip title="Personal Favs"}
+- "my parents taught me that the unknown was an invitation to learn, not a menancing dimension to avoid. Ignorance was a starting place to enter deeper realms of understanding." (p. 05)
 
-- unwelcome at MIT, cambridge
+- "You will never find your worth in things." (p. 05)
+:::
 
-- less funding for her group working tech impact on society
+## The Future Factory
 
-- 
+- Unwelcomed at MIT.
+
+- Less funding for her group working technology impact on society.
+
+## Breaking the Alabaster
+
+> "What will you do with your privilege?" (p. 19)
+
+- Meeting **Cathy O'Neil** author of *Weapons of Math Destruction*
+    - "how data was being used to sort and control people" (p. 22)
+    - "ways in which mathematical models were being used as smoke screens to obscure inequality." (p. 22)
+
+. . .
+
+::: {.callout-tip title="Personal Favs"}
+- "from bar gazing to star gazing" (p. 25)
+:::
+
+## Shield Ready
+
+> "I was acutely aware of being stereotyped as an angry Black woman, eager to play the race card and find offence in the seemingly innocuous." (p. 29)
+
+## Algorithmic Bias
+
+> "occurs when one group is better served than another by an AI system. If you are denied employment because an AI system screened out candidates that attended women's colleges, you have experienced algorithmic bias." (p. 34.35)
+
+# PART II<br>CURIOUS<br>CRITIC {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## Defaults are not Neutrals
+
+> "Machines are presumed to be free from the societal biases that plague us mortals. My experiences were showing otherwise" (p. 42)
+
+<br>
+
+. . .
+
+::: {.callout-tip title="Personal Favs"}
+- "The spotlight both shines and burns" (p. 42)
+:::
+
+## Defaults are not Neutrals
+
+> "Access to the training data is crucial when we want to have a deeper understanding of the risks posed by an AI system. Unless we know where the data comes from who colleted it, and how it is organized, we cannot know if ethical processes were used." (p. 53)
+
+. . .
+
+> "Was the data obtained with consent? What were the working conditions and compensation for the workers who processed the data? These questions go beyong the technical." (p. 53)
+
+## Defaults are not Neutrals
+
+> "Simply because decisions are made by a computer analyzing data does not make them neutral" (p. 54)
+
+. . .
+
+> "The coded gaze does not have to be explicit to do the job of oppression. Like systemic forms of oppression, including patriarchy and white supremacy, it is programmed into the fabric of society. Without intervention, those who have held power in the past continue to pass that power to those who are most like them." (p. 55)
+
+## Face Recogniation Technologies
+
+> "instead of saying a system uses facial recognition, a company might say "face matching" to distance themselves from scrutiny." (p. 58)
+
+. . .
+
+### AI Functionality Fallacy
+
+> the assumption that a system performs the task it was designed to execute as expected." (p. 59)
+
+## Face Recogniation Technologies
+
+> "guess the emotions of a person ... age estimation ... gender classification ... go as far as claiming that their systems can predict someone's sexual orientation, political affiliation, intelligence or likelihood of committing a crime based solely on their facial features" (p. 60-61)
+
+## Face Recogniation Technologies
+
+>  "facial verification (one-to-one matching) and facial identification (one-to-many matching)" (p. 63)
+
+. . .
+
+### Face Detection
+
+- HireVue case of using AI to analyze candidate's video.
+
+- Dutch student Robin Pocornie remote examination case.
+
+## Face Recogniation Technologies
+
+> "When companies require individuals to fit a narrow definition of acceptable behaviour encoded into a machine learning model, they will reproduce harmful patterns of exclusion and suspicion." (p. 66)
+
+## Guardians Assemble
+
+> "ImageNet showed that strategic data collection, often seen as grunt work and inferior to the development of algorithms, was just as important for advancing artificial intelligence. Data was queen." (p. 69)
+
+<br>
+
+. . .
+
+::: {.callout-tip}
+Team work, you will have to find your own team. You have believe in your cause and find people to get it done.
+:::
+
+## Power Shadows
+
+> "the [LFW] database of images contained 77.5 percent male-labeled faces and 83.5 percent faces labeled white. The gold standard for facial recogniation, it turned out, was heavily skewed. I started calling these "pale male datasets"." (p. 77)
+
+. . .
+
+> "machine learning community was not yet applying these insights from anti-discriminaiton scholarship." (p. 80)
+
+## Power Shadows
+
+> "people underrepresented in the dataset. It would mean automated vehicles would be more likely to crash into some groups of people than others." (p. 81)
+
+. . .
+
+> "Power shadows are cast when the biases or systemic exclusion of a society are reflected in the data." (p. 83)
+
+## Power Shadows
+
+> "India with its vast diversity of skin types has an entertainment and beauty industry that elevates light-skinned actors and actresses. ... Beyond beauty, lighter skin is also associated with having more intelligence in societies touched by white supremacy." (p. 84)
+
+. . .
+
+> "Relying on convenient data collection methods by collecting what is most popular and most readily available will reflect existing power structures." (p. 85)
