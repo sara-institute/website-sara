@@ -15,24 +15,48 @@ include-in-header:
 
 # SARA Timeline {.unnumbered .unlisted}
 
+<br>
+
 ::: {.card}
 
-## April 2023
+## March 2025 1st Bootcamp
 
-05 April 2023, SARA Institute inauguration at Terra City, Bhiwadi, Rajasthan.
+SARA Data Science Bootcamp "Publish using Quarto"
 
-![Students, family & friends at the inaugration of SARA.](images/launch-sara.jpg)
+![](https://sara-edu.netlify.app/bootcamp/2025-bootcamp/images/students.jpg)
 
-![First data science class at the SARA.](images/first_class1.jpg)
+:::
+
+<br>
+
+::: {.card}
+
+## December 2024 1st Winter School
+
+SARA Winter School "Statistics using R"
+
+![](images/2024winter.jpeg)
+
+:::
+
+<br>
+
+::: {.card}
+
+## July 2024 1st Summer School
+
+SARA Summer School "R for Beginners"
+
+![](images/2024summer.png)
 
 :::
 
 <br>
 
 :::: {.card}
-## Sept 2023 
+## Sept 2023 Moved to Sonipat
 
-We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat.
+We **relocated to Sonipat** to establish and operate SARA at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat.
 
 ::: {layout="[[1,1], [1]]"}
 
@@ -47,38 +71,15 @@ We relocated to Sonipat to establish and operate SARA at the Dr. Ambedkar Bhawan
 
 ::: {.card}
 
-## July 2024
+## April 2023 Launch of SARA
 
-SARA Summer School "R for Beginners"
+05 April 2023, **Launch** of the SARA Institute at Terra City, Bhiwadi, Rajasthan.
 
-![](images/2024summer.png)
+![Students, family & friends at the inaugration of SARA.](images/launch-sara.jpg)
 
-:::
-
-<br>
-
-::: {.card}
-
-## December 2024 
-
-SARA Winter School "Statistics using R"
-
-![](images/2024winter.jpeg)
+![First data science class at the SARA.](images/first_class1.jpg)
 
 :::
 
 <br>
 
-::: {.card}
-
-## March 2025 
-
-SARA Data Science Bootcamp "Publish using Quarto"
-
-![](https://sara-edu.netlify.app/bootcamp/2025-bootcamp/images/students.jpg)
-
-:::
-
-
-
-<br>

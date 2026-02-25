@@ -61,7 +61,7 @@ website:
             href: winter.qmd
           - text: Publish using Quarto
             href: bootcamp.qmd
-      - text: Book Club
+      - text: Club
         href: book-club.qmd
       - text: Collaborations
         href: workshops.qmd

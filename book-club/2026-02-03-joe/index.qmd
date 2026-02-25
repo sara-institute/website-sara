@@ -23,6 +23,12 @@ Why this book? Perfect alignment with SARA's values of justice, accessibility, a
 
 <br>
 
+### 📺 Watch 1st Discussion on YouTube
+
+{{< video https://youtu.be/Tl6r2CZ7hP0?si=3XR6yxWFHb0csMaD >}}
+
+<br>
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 83.8298%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -32,8 +38,4 @@ Why this book? Perfect alignment with SARA's values of justice, accessibility, a
 </div>
 
 <br>
-
-## Notes from the Book
-
-{{< revealjs file="slides-notes.html" height="500px" class="ratio ratio-16x9" >}}
 
