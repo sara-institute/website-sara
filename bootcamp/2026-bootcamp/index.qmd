@@ -1,0 +1,214 @@
+---
+title: "Publish Research using Quarto"
+subtitle: "2nd SARA Bootcamp"
+image: banner.png
+description: "A hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome."
+date: today
+categories: [R, Data Science, Bootcamp, Quarto]
+lightbox: true    
+---
+
+::: {.hero-badge}
+20 Seats Only &nbsp;·&nbsp; Offline &nbsp;·&nbsp; 3 Days
+:::
+
+### [[Register Now](https://forms.gle/9jTZAp5ekVzmcU6XA)]{.bg-}
+
+<br>
+
+The 2nd SARA Bootcamp brings together researchers, students, and academics for three days of intensive, practical learning on how to write, format, and publish research using Quarto and R - two of the most powerful open-source tools in modern research communication.
+
+SARA believes research produced by and about marginalized communities must be heard. This bootcamp equips you with the tools to publish that research professionally, reproducibly, and beautifully.  
+
+<center>
+
+<div style="position: relative; width: 60%; height: 0; padding-top: 77.655%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHAFVn-1v0/3P3Y9dL7ZKfAuWlXhOYPVA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHAFVn-1v0&#x2F;3P3Y9dL7ZKfAuWlXhOYPVA&#x2F;view?utm_content=DAHAFVn-1v0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> </a> 
+
+</center>
+
+<br>
+
+::: {.centering}
+# [Learn. Write. Publish.]{style="color:#b01818"}
+:::
+
+:::: {.layout-grid-course}
+
+::: {.col}
+::: {.card}
+
+## 🔬 What is Quarto?
+
+[Quarto](https://quarto.org/) is a next-generation open-source scientific publishing system. Write in Markdown, embed R or Python code, and publish as PDF, HTML, Word, or a full website — all from one document.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+## 👥 Who Should Attend?
+
+Researchers, PhD scholars, postgraduates, faculty, NGO professionals, journalists, and anyone who wants to write and publish evidence-based work. No prior coding experience needed for beginners' track.
+
+:::
+
+::: {.card}
+
+## 🏆 What You Take Home
+
+A published or near-published research piece, a working Quarto + R setup, a certificate of participation from SARA, and a network of fellow researchers committed to inclusive knowledge production.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+## 📊 Why R?
+
+R is the gold standard for statistical computing and data visualisation in research. Used by academics, government statisticians, and data scientists worldwide — and it's free and open-source.
+
+:::
+:::
+:::
+
+<br>
+
+::: {.card}
+## Proudly Supported by The Ambedkar Educational Society, Sonipat
+
+::: {.layout-grid-img}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+We are grateful to the Ambedkar Educational Society, Sonipat for generously supporting the 2nd SARA Bootcamp. As part of their commitment to empowering marginalized communities through education, the Society is providing subsidized accommodation support for all participants during the five-day program.
+
+This collaboration enables us to:
+
+- Keep the bootcamp completely free of tuition fees
+
+- Offer affordable and shared accommodation
+
+- Provide nutritious meals for all participants
+
+The support from the Ambedkar Educational Society ensures that students from all socioeconomic backgrounds can attend the program without financial barriers and participate fully in the learning experience.
+:::
+
+<br>
+
+::: {.centering}
+# [What You will Learn]{style="color:#b01818"}
+:::
+
+:::: col
+::: card
+### ⚙️ Setting Up Your Research Environment
+Install R, RStudio, and Quarto. Understand the workflow from data to document.
+
+### 📝 Thesis Writing with Quarto Markdown
+Structure research papers, reports, and dissertations using Quarto's powerful markdown syntax.
+
+### 📚 Citations & Bibliography
+Manage references with Zotero and BibTeX. Auto-generate formatted citations in APA, MLA, or Chicago style.
+
+### 🌐 Publishing to PDF, HTML & Web
+Render your research to multiple formats and publish it as a website, PDF report, or journal submission.
+
+### 🔁 Reproducible Research Practices
+Learn version control with Git and GitHub to make your research transparent, reproducible, and collaborative.
+
+### 🎨 Interactive Slides
+Quarto replaces PowerPoint, Beamer (LaTeX), and R Markdown slides all at once - with reproducibility, live code output, and web publishing built in.
+:::
+::::
+
+::: {.centering}
+# [Three Days, Full Schedule]{style="color:#b01818"}
+:::
+
+::: {.callout-caution}
+Section under process.
+:::
+
+Each day builds on the previous. By Day 3 you will have produced a complete, publishable research document.
+
+::: {.panel-tabset}
+## Day 1 - Mar 20
+
+## Day 2 - Mar 21
+
+## Day 3 - Mar 22
+:::
+
+::: {.centering}
+# [Invest in Your Research Future]{style="color:#b01818"}
+:::
+
+:::: col
+::: card
+
+## 20 Seats Only - Apply Early
+
+-  **Step 1 Payment:** Take screen shot of your successful transaction to upload in the Google Form. The entire winter school is completely FREE. Participants only pay Rs. 3000 for food and accommodation for three days. You can use the below QR or our UPI ID is `919253152024@sbi`.
+
+::: {.col}
+![](images/upi-sara.png){width=40% fig-align="center"}
+:::
+
+- **Step 2 Registration:** Fill this Google Form with required information <https://forms.gle/9jTZAp5ekVzmcU6XA>
+
+## Refund Policy
+
+### 1. Cancellation by Participant
+- **15+ Days Before Start Date**:  
+  - **100% Refund**: Full refund of fees paid.  
+- **7–14 Days Before Start Date**:  
+  - **50% Refund**: Half of the fees paid.  
+- **Less Than 7 Days Before Start Date**:  
+  - **No Refund**: Fees are non-refundable.  
+
+**Process**:
+
+- Submit a refund request via email to **sara.institute.info@gmail.com** with:    
+  - Participant name  
+  - Transaction details (payment ID, date)
+    
+- Refunds processed within **7–10 business days** via original payment method.
+
+### 2. Scholarship Recipients
+- Scholarship seats are **non-refundable**.  
+- If unable to attend, notify SARA **at least 7 days prior** to free the seat for another candidate.  
+
+### 3. Cancellation by SARA  
+- If SARA cancels/reschedules the event:  
+  - **100% Refund**: Full refund for all paid participants.  
+  - **Option to Transfer**: Join the next cohort at no extra cost.  
+
+### 4. Special Cases  
+- **Medical Emergencies**: Submit a doctor’s certificate for refund consideration (partial/full, case-by-case basis).  
+- **Partial Attendance**: No refunds for days attended.  
+
+
+### 5. Non-Refundable Components  
+- **Administrative Fees**: ₹500 (deducted from all refunds).  
+
+### Contact for Refunds  
+**Email**: sara.institute.info@gmail.com | 📞 **Call**: 925 315 2024
+
+**Note:** SARA reserves the right to amend this policy. Exceptions apply only with prior written approval.
+:::
+::::
+
+<br>

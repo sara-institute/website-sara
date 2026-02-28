@@ -1,13 +1,12 @@
 ---
 title: "Publish using Quarto"
+subtitle: "1st SARA Bootcamp"
 image: images/students.jpg
 date: "2025-03-03"
 categories: [R, Data Science, Bootcamp, Completed, Quarto]
 pagetitle: "SARA - r"
 lightbox: true
 ---
-
-
 
 SARA Data Science Bootcamp Successfully Completed! 🎉
 

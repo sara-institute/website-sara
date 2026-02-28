@@ -4,13 +4,13 @@
 
 
 // color system
-$clr-navyblue:    #003262;
-$clr-gray:        #2A2121;
-$clr-blue:        #0061ab;
-$clr-cream:       #f2f2f2;
-$clr-white:       #fff;
-$clr-tom:         #ef4338;
-$clr-gam:         seagreen;
+$clr-navyblue: #003262;
+$clr-gray: #2A2121;
+$clr-blue: #0061ab;
+$clr-cream: #f2f2f2;
+$clr-white: #fff;
+$clr-tom: #ef4338;
+$clr-gam: seagreen;
 
 .clr-blue {
   color: $clr-blue;
@@ -31,9 +31,9 @@ $clr-gam:         seagreen;
 $font-family-sans-serif: "Poppins", sans-serif;
 
 //$font-size-root: 1.6rem;
-$font-size-base: 1.10rem; 
-$font-size-sm:  $font-size-base * 0.875 !default;
-$font-size-lg:  $font-size-base * 1.25 !default; // font size of home top logo
+$font-size-base: 1.10rem;
+$font-size-sm: $font-size-base * 0.875 !default;
+$font-size-lg: $font-size-base * 1.25 !default; // font size of home top logo
 
 $h1-font-size: $font-size-base *2.15;
 $h2-font-size: $font-size-base *1.45;
@@ -47,7 +47,7 @@ $navbar-hl: $clr-white; //nav bar text hover color
 
 $link-color: $clr-gam; //#2A2121;
 
-h1{
+h1 {
   font-family: "Poppins", sans-serif;
   color: #003262;
   font-weight: 700;
@@ -58,7 +58,7 @@ h1{
   letter-spacing: -0.02em;
 }
 
-h2{
+h2 {
   font-family: "Poppins", sans-serif;
   color: #003262;
   font-weight: 700;
@@ -67,13 +67,13 @@ h2{
 
 @media (max-width: 400px) {
   h1 {
-      font-size: $font-size-base *1.25;
-      padding-top: 1.0rem;
-      padding-bottom: 1.0rem;
-    }
-    
-  h2{
-      font-size: $font-size-base *1.00;
+    font-size: $font-size-base *1.25;
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+  }
+
+  h2 {
+    font-size: $font-size-base *1.00;
   }
 }
 
@@ -122,7 +122,7 @@ h2{
 .card {
   padding: 2rem;
   border-top: 8px solid;
-  border-radius: 0.5rem; 
+  border-radius: 0.5rem;
   box-shadow: 0 1rem 1.5rem -0.5rem rgba(0 50 100 / 0.15);
   background: #cdc8c8;
   text-align: left;
@@ -130,7 +130,7 @@ h2{
 
 /* On mouse-over, add a deeper shadow */
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 /* grid layout for home page */
@@ -146,7 +146,7 @@ h2{
   }
 }
 
-.layout-grid-course > * {
+.layout-grid-course>* {
   flex: 1;
 }
 
@@ -163,7 +163,7 @@ h2{
   }
 }
 
-.layout-grid-img > * {
+.layout-grid-img>* {
   flex: 1;
 }
 
@@ -191,7 +191,7 @@ h2{
   }
 }
 
-.layout-grid > * {
+.layout-grid>* {
   flex: 1;
 }
 
@@ -224,7 +224,7 @@ h2{
     padding: .77777778em 2.0em 0em;
     margin: 30px 2px 60px 2px;
   }
-  
+
 }
 
 .button a:link {
@@ -236,8 +236,9 @@ h2{
 }
 
 .button:hover {
-  background-color: rgb(0, 50, 98, 0.85); /* $clr-navyblue */
-  
+  background-color: rgb(0, 50, 98, 0.85);
+  /* $clr-navyblue */
+
 }
 
 .flex-container {
@@ -249,35 +250,35 @@ h2{
 }
 
 .fa-facebook:hover {
-    color: #316FF6;
+  color: #316FF6;
 }
 
 .fa-bluesky:hover {
-    color: #448dee;
+  color: #448dee;
 }
 
 .fa-twitter:hover {
-    color: #1DA1F2;
+  color: #1DA1F2;
 }
 
 .fa-instagram:hover {
-    color: #a51f3c;
+  color: #a51f3c;
 }
 
 .fa-linkedin:hover {
-    color: #0077b5;
+  color: #0077b5;
 }
 
 .fa-youtube:hover {
-    color: #CD201F;
+  color: #CD201F;
 }
 
 .fa-github:hover {
-    color: #000;
+  color: #000;
 }
 
 .fa-whatsapp:hover {
-    color: #25D366;    
+  color: #25D366;
 }
 
 // below important to zero top padding gap solution is from the Stackoverflow
@@ -296,3 +297,39 @@ h2{
   text-align: left;
 }
 
+// below codes for an animation for the 2nd bootcamp webpage
+.hero-badge {
+  display: inline-flex;
+  align-items: middle;
+  gap: 8px;
+  background: rgba(232, 98, 10, 0.15);
+  border: 1px solid var(--saffron);
+  color: var(--saffron);
+  font-family: 'DM Mono', monospace;
+  font-size: 1rem;
+  letter-spacing: 0.1em;
+  padding: 6px 6px;
+  border-radius: 2px;
+  margin-bottom: 28px;
+  animation: fadeUp 0.6s ease both;
+}
+
+.hero-badge::before {
+  content: '●';
+  font-size: 0.8rem;
+  animation: pulse 1.5s ease infinite;
+}
+
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1
+  }
+
+  50% {
+    opacity: 0.3
+  }
+}
+
+// the above 2nd bootcamp animation code ends here
