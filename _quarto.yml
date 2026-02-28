@@ -26,7 +26,7 @@ website:
   announcement:
      #icon: book
      dismissable: true
-     content: "🎉 Application are open for 2nd SARA Bootcamp 20-22 Mar 2026 [Check now!](https://sara-edu.netlify.app/bootcamp/2006-bootcamp/)"
+     content: "🎉 Application are open for 2nd SARA Bootcamp 20-22 Mar 2026 [Check now!](https://sara-edu.netlify.app/bootcamp/2026-bootcamp/)"
      type: success
      position: below-navbar
   
