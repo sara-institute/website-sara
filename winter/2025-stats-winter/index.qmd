@@ -19,6 +19,12 @@ Whether you are completely new to programming, anxious about statistics, or eage
 
 <br>
 
+### 📺 Watch the Feedback of the Students
+
+{{< video https://youtu.be/xMG_7eSmPQM?si=dCHe6SjBBLVS5WR4 >}}
+
+<br>
+
 <div style="position: relative; width: 70%; height: 0; padding-top: 99.4286%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">

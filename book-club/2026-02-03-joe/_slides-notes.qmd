@@ -6,6 +6,7 @@ slide-number: true
 logo: images/logo-sara-studio.png
 incremental: true
 menu: true
+scrollable: true
 ---
 
 # 1st Book<br>Discussion {background-image="images/cover.jpg" background-size="contain" background-position="right" background-color="black"}
@@ -284,3 +285,250 @@ Team work, you will have to find your own team. You have believe in your cause a
 . . .
 
 > "Relying on convenient data collection methods by collecting what is most popular and most readily available will reflect existing power structures." (p. 85)
+
+# PART III<br>RISING<br>RESEARCHER {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## Crawling Through Data
+
+> "Digging deeper made me see that any technology involved with classifying people by necessity would be shaped by subjective human choices" (p. 94)
+
+## Crawling Through Data
+
+> "I was somewhat surprised at how light-skinned power appeared in Caribbean nations despite their large dark-skinned population." (p. 99)
+
+## Crawling Through Data
+
+> "users gave broad nonspecific access to their data, allowing for unknown profitable downstream use." (p. 103)
+
+## Crawling Through Data
+
+> "AI-generated images have opened up another way in which misogyny and the male gaze can be used to deprive women of dignity." (p. 106)
+
+. . .
+
+> "At the time of writing there are no laws that ban the generation of sexualized images of children from AI systems." (p. 107)
+
+## Crawling Through Data
+
+> "The responsibility of preventing harms from AI lies not with individual users but with the companies that create those systems, the organizations that adopt them, and the elected officials tasked with the public interest" (p. 111-112)
+
+. . .
+
+> "What we can do as individuals is share our stories, document harms, and demand that our dignity be a priority, not an afterthought." (p. 112)
+
+## Arbiter of Truth
+
+> "The labels represent what machine learning researchers call 'ground truth'." (p. 113)
+
+. . .
+
+> "For example, if you decide to sue binary gender labels - male and female - and use them on a dataset that includes only the faces of middle-aged white actors, the system is preclused from learning about inersex, trans, or nonbinary representations and will be less equipped to handle faces that fall outside its initial binary training set. The classification system erases the existence of those groups not included in it." (p. 115)
+
+## Arbiter of Truth
+
+> "A computer vision system cannot observe how someone thinks about their gender, because the system is presented only with image data." (p. 115)
+
+. . .
+
+> "For machine learning models data is destiny, because the data provides the model with the representation of the world as curated by the makers of the system." (p. 117)
+
+. . .
+
+> "When ground truth is shaped by convenience sampling, grabbing what is most readily available and applying labels in a subjective manner, it represents the standpoint of the makers of the system, not a standalone objective truth." (p. 117)
+
+## Arbiter of Truth
+
+> "It was still painful to know that I was considered less than by some simply because of my skin color." (p. 120)
+
+. . .
+
+> "We cannot assume that just because something is data driven or processed by an algorithm it is immune to bias. Labels and categories we may take for granted need to be interrogated." (p. 123)
+
+## Gender Shades
+
+> "the shadow of the tech giants touched all aspects of the AI research ecosystem." (p. 126)
+
+## Gender Shades
+
+> "subsequent studies showed that pedestrian tracking systems were more likey to miss detecting people with darker skin that those with lighter skin. When applied to self driving cars, the result would be that people with darker skin were at increased risk of being hit by a car with automatd driving capabilities fully engaged." (p. 130)
+
+. . .
+
+> "The results of the phenotypic analysis showed that overall, Microsoft, IBM, and Face++ did better on lighter-skinned faces than darker-skinned faces when it came to guessing the gender of a face." (p. 130)
+
+. . .
+
+> "I found that for female-labeled faces of type VI, error rates were up to 46.8 percent." (p. 132)
+
+## Gender Shades
+
+> "The common thread was that the deep learning techniques being used to create gender classifiers were also being used to create systems to attempt to identify a unique individual or detect skin cancer." (p. 133)
+
+. . .
+
+> "I did not want to minimize the imapct of misclassification." (p. 135)
+
+. . .
+
+> "They were in some ways 'just' doing their job in the eays they had been trained to do. But when just doing your job can mean someone eles's life chances are at stake, there has to be a higher standard." (p. 138)
+
+## Deserted Desserts
+
+> "You are some of the world's smartest people, making some of the most powerful rechnology known to mankind. You should use it for good. You should tackle the hardest problems. This is an immense opportunity." (p. 146)
+
+## Deserted Desserts
+
+> "Existing AI systems with demonstrated harms are more dangerous than hypothetical 'sentient' AI systems because they are real" (p. 151)
+
+. . .
+
+> "Though it is tempting to view physical violence as the ultimate harm, doing so makes it easy to forget pernicious ways our societies perpetuate *structured voilence*. Johan Galtung coined this term to describe how institutions and social structures prevent people from meeting their fundamental needs and thus cause harm. Denial of access to healthcare, housing, and employment through the use of AI perpetuates individual harms and generational scars. AI systems can kill us slowly." (p. 152)
+
+. . .
+
+> "No one is immune from being excoded, and those already marginalized are at greater risk" (p. 153)
+
+# PART IV<br>INTREPID<br>POET {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## AI, AIN'T I A WOMAN?
+
+> "Did the government officials in India exploring the adoption of the Aadhaar system known about the potential for bias in the biometric solutions being offered as answers for efficient distribution fo government resources and persistent identification? Did they know algorithmic bias might deny benefits to the very people they sought to help? What about the polic departments adopting facial recognition technologies?" (p. 157)
+
+## AI, AIN'T I A WOMAN?
+
+> "all systems tested worked worst for dark-skinned females." (p. 161)
+
+. . .
+
+> "I want people to see what it means when systems from tech giants box us into stereotypes we hoped to transcend with algorithms." (p. 161-162)
+
+## AI, AIN'T I A WOMAN?
+
+> "AI systems can be used as tools of oppression as well as tools of liberation. ... the critique of artificial intelligence is not a Luddite call to break machines, but a call to break harmful assumptions about machines and thus enable the construction of better tools and, more important, better societies." (p. 166)
+
+## AI, AIN'T I A WOMAN?
+
+> "I used my conunter-demos to combat assumptions about the neutrality of AI." (p. 167)
+
+. . .
+
+> "I paint pictures using words, performance, video, and technical research to highlight the contradictions in the promises we hear about technology - like artifical intelligence to advance humanity - and the reality I and others bear witness to when technology oppresses instead of liberates." (p. 169)
+
+## Gates in Belgium
+
+> "Just like algorithms confronted with individuals who do not fit prior assumptions, the human gatekeeper stood in the way of opportunity, supposedly for the safety of those deemed credible enough or worthy to enter the building." (p. 172)
+
+<br>
+
+. . .
+
+::: {.callout-important}
+"Why not focus your energy on building something instead of critiquing what's not working?" (p. 176)
+:::
+
+## POET VS. GOLIATH IN THE WILD
+
+::: {.callout-tip}
+"you don't make change by talking only to the people who agree with you." (p. 179)
+:::
+
+. . .
+
+::: {.callout-note}
+"Many people can gain tech skills. Your ability to communicate and tell a story about your technical work is what will separate you from your peers. It's what makes people see why change is necessary." (p. 185)
+:::
+
+## Brooklyn Tenants
+
+> "Yes, the companies needed to change how they developed and deployed AI products. And those changes could help prevent future harm. But there was no gurantee companies would change without legislation. I wanted to be closer to the ground. I wanted to help real people who were being impacted by these systems. I wanted to feel like my work mattered, not because it was validated by other academics but because it made a valid impact in the lives of the excoded." (p. 191)
+
+## Brooklyn Tenants
+
+::: {.callout-tip}
+"When it comes to AI systems, trust must be earned and not assumed." (p. 198)
+:::
+
+. . .
+
+> "On May 14, 2019, San Francisco became the first city to ban police use of facial recognition." (p. 202)
+
+. . .
+
+::: {.callout-important}
+"Your silence will not protect you." by Audre Lorde (p. 203)
+:::
+
+## Testify
+
+> "he noted the chilling effects of deploying facial recognition at protests - a threat to the First Amendment right of freedom of expression. Would you feel free to attend a protest if you knew law enforcement would deploy facial recognition to record who attended?" (p. 209)
+
+## Testify
+
+"Which demographic is it mostly effective on?"
+
+***"White men."***
+
+"And who are the primary engineers and designers of these algorithms?"
+
+***"Definitely white men."***
+
+"So we have a technology that was created and designed by one demographic, that is only mostly effective on that on demographic, and they are trying to sell it and impose it on the entirety of the country?" (p. 212)
+
+## Testify
+
+> "William was wrongfully arrested in front of his two young daughters and held by law enforcement overnight. Even though Williams was eventually released the memory of this two yound girls seeing their father arrested as neighbors looked on cannot be erased." (p. 213)
+
+. . .
+
+> "Chariman, we need a baseline. Right now we do not have a complete picture of how the federal government is using facial recognition or how organizations receiving federal dollars are using it. At a minimum, the committee should commission a survey so we know where the technology is being used, to what purposes, and which companies are or have been selling to all government agencies." (p. 214)
+
+## Betting on Coded Bias
+
+> "I left the *Hidden Figures* screening room with a deep understanding that representation is vital and telling stories that are often hidden or seldom elevated not only corrected the historical record but also enabled others to see within themselves the posibility to make contributions broader society would say were beyond their reach, scope, intelligence, or capability." (p. 232)
+
+## Betting on Coded Bias
+
+> "The excoded included people like Daniel Santos, a school teacher who received low rankings from an automated system despite winning numerous "Teacher of the Year" awards." (p. 223)
+
+# PART V<br>Just<br>Human {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+
+## Drop Out
+
+> "Simone Biles's example of self-love and self-preservation could not have come at a better time." (p. 237)
+
+. . .
+
+> "The Biles Refusal is a beautiful reminder of the power of saying yes to your well-being." (p. 238)
+
+::: {.callout-important}
+"It is not a badge of honor to be burnt out." (p. 238)
+:::
+
+. . .
+
+> "Thank you for demonstrating a better order where health comes before gold, where self-preservation comes before thankless martyrdom, where the dreams of daughters of diasporas to be love for who they are, not what they do, come ture." (p. 239)
+
+## Drop Out
+
+> "I though about visiting the National Civil Rights Museum in Memphis, Tennesse, and going through exhibitions about freedom fighters who fought against Jim Crow segregation and bled in the streets and languished in jail cells so people like me couldhave the option to study at educational institutions." (p. 243)
+
+## Golden Redemption
+
+::: {.callout-tip}
+"I remember the schoolchildren who would put their arms next to mine and sigh in relief that their skin was not as dark." (p. 247)
+:::
+
+> "I remember the many times I walked into room, even ones where I was invited to speak, and was treated as if I was taking up space meant for important people." (p. 248)
+
+## Golden Redemption
+
+> "If news coverage depicts Black people only as victims, it perpetuates a harmful trope that we lack agency to make meaningful change."
+
+<br>
+
+. . .
+
+::: {.callout-important}
+"Now I knew I would need to be more strategic about where I committted my energy." (p. 253)
+:::
+
