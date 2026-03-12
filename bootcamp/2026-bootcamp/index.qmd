@@ -35,7 +35,7 @@ SARA believes research produced by and about marginalized communities must be he
 
 <br>
 
-::: {.centering}
+<!-- ::: {.centering}
 # [Learn. Write. Publish.]{style="color:#b01818"}
 :::
 
@@ -80,7 +80,7 @@ R is the gold standard for statistical computing and data visualisation in resea
 :::
 :::
 
-<br>
+<br> -->
 
 ::: {.card}
 ## Proudly Supported by The Ambedkar Educational Society, Sonipat
@@ -135,21 +135,61 @@ Quarto replaces PowerPoint, Beamer (LaTeX), and R Markdown slides all at once - 
 ::::
 
 ::: {.centering}
-# [Three Days, Full Schedule]{style="color:#b01818"}
+# [Full Schedule]{style="color:#b01818"}
 :::
-
-::: {.callout-caution}
-Section under process.
-:::
-
-Each day builds on the previous. By Day 3 you will have produced a complete, publishable research document.
 
 ::: {.panel-tabset}
 ## Day 1 - Mar 20
 
+::: {.card}
+## Personal Website with Quarto, GitHub & Netlify
+
+- Welcome & Icebreaker
+
+- Setup R & RStudio
+
+- Quarto Basics
+
+- Website Structure
+
+- GitHub & Netlify
+
+- Customisation, participants work on their own website and give 5 minutes demo
+:::
+
 ## Day 2 - Mar 21
 
+::: {.card}
+## PhD Thesis/Research Paper - Reproducible Research - Typst & Latex
+
+- Reproducible Research
+
+- Academic Writing in Quarto
+
+- Thesis Structure
+
+- PDF Outputs: Latex & Typst
+
+- Tables, Figures & Data
+:::
+
+
+
 ## Day 3 - Mar 22
+
+::: {.card}
+## Interactive Slides with Quarto & Reveal.js
+- Reveal.js Foundations
+
+- Visual Design
+
+- Interactive Elements
+
+- Publishing Slides
+
+- Open Lab, participants work on their own 5-slide presentation
+:::
+
 :::
 
 ::: {.centering}

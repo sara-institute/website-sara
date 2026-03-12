@@ -7,6 +7,9 @@ logo: images/logo-sara-studio.png
 incremental: true
 menu: true
 scrollable: true
+filters: 
+    - editable
+    - roughnotation
 ---
 
 # 1st Book<br>Discussion {background-image="images/cover.jpg" background-size="contain" background-position="right" background-color="black"}
@@ -43,7 +46,7 @@ scrollable: true
 
 ::: {.columns}
 ::: {.column width=75%}
-- Making Data Science Accessible to All
+- Making Coding Accessible to All
 
 - Free Training in Coding, Statistics, and Research Methods
 
@@ -104,7 +107,7 @@ SARA website: <https://sara-edu.netlify.app/>
 
 ## Coded Gaze
 
-> "the ways in which the priorities, preferences, and prejudicies of those who have power to shape technology can propagate harm, such as discrimination and erasure" (p. xiii)
+> "the ways in which the priorities, preferences, and prejudicies of those who have [power to shape technology]{.rn-fragment rn-color=lightgreen} can propagate harm, such as discrimination and erasure" (p. xiii)
 
 <br>
 
@@ -124,7 +127,7 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 ## Algorithmic Injustice
 
-> "If the AI systems ... mask discrimination and systematize harmful bias, we entrench algorithmic injustice." (p. xix)
+> "If the AI systems ... mask discrimination and [systematize harmful bias]{.rn-fragment rn-color=lightgreen}, we entrench algorithmic injustice." (p. xix)
 
 . . .
 
@@ -132,7 +135,7 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 ## AI Hypes
 
-> "AI will no solve poverty ... discrimination ... climate change" (p. xix-xx)
+> "AI will not solve poverty ... discrimination ... climate change" (p. xix-xx)
 
 . . .
 
@@ -140,7 +143,7 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 ## Author's Concern & Hope
 
-> "how technology can encode harmful discrimination and exclusionary practices." (p. xx)
+> "how technology can [encode]{.rn-fragment rn-color=lightgreen} harmful discrimination and exclusionary practices." (p. xx)
 
 . . .
 
@@ -206,7 +209,7 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 ## Defaults are not Neutrals
 
-> "Access to the training data is crucial when we want to have a deeper understanding of the risks posed by an AI system. Unless we know where the data comes from who colleted it, and how it is organized, we cannot know if ethical processes were used." (p. 53)
+> "Access to the training data is crucial when we want to have a deeper understanding of the risks posed by an AI system. Unless we know where the data comes from who colleted it, and how it is organized, we cannot know if [ethical processes]{.rn-fragment rn-color=lightgreen} were used." (p. 53)
 
 . . .
 
@@ -218,11 +221,11 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 . . .
 
-> "The coded gaze does not have to be explicit to do the job of oppression. Like systemic forms of oppression, including patriarchy and white supremacy, it is programmed into the fabric of society. Without intervention, those who have held power in the past continue to pass that power to those who are most like them." (p. 55)
+> "The [coded gaze]{.rn-fragment rn-color=lightgreen} does not have to be explicit to do the job of oppression. Like systemic forms of oppression, including patriarchy and white supremacy, it is programmed into the fabric of society. Without intervention, those who have held power in the past continue to pass that power to those who are most like them." (p. 55)
 
 ## Face Recogniation Technologies
 
-> "instead of saying a system uses facial recognition, a company might say "face matching" to distance themselves from scrutiny." (p. 58)
+> "instead of saying a system uses facial recognition, a company might say 'face matching' to distance themselves from scrutiny." (p. 58)
 
 . . .
 
@@ -248,7 +251,7 @@ Coded Gaze like **"male gaze"** or **"white gaze"** or **caste gaze**.
 
 ## Face Recogniation Technologies
 
-> "When companies require individuals to fit a narrow definition of acceptable behaviour encoded into a machine learning model, they will reproduce harmful patterns of exclusion and suspicion." (p. 66)
+> "When companies require individuals to [fit a narrow definition]{.rn-fragment rn-color=lightgreen} of acceptable behaviour encoded into a machine learning model, they will reproduce harmful patterns of exclusion and suspicion." (p. 66)
 
 ## Guardians Assemble
 
@@ -276,7 +279,7 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 . . .
 
-> "Power shadows are cast when the biases or systemic exclusion of a society are reflected in the data." (p. 83)
+> "[Power shadows]{.rn-fragment rn-color=lightgreen} are cast when the biases or systemic exclusion of a society are reflected in the data." (p. 83)
 
 ## Power Shadows
 
@@ -314,17 +317,17 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 . . .
 
-> "What we can do as individuals is share our stories, document harms, and demand that our dignity be a priority, not an afterthought." (p. 112)
+> "What we can do as individuals is share our stories, document harms, and demand that [our dignity be a priority]{.rn-fragment rn-color=lightgreen}, not an afterthought." (p. 112)
 
-## Arbiter of Truth
+## Arbiter of Truth {.smaller}
 
 > "The labels represent what machine learning researchers call 'ground truth'." (p. 113)
 
 . . .
 
-> "For example, if you decide to sue binary gender labels - male and female - and use them on a dataset that includes only the faces of middle-aged white actors, the system is preclused from learning about inersex, trans, or nonbinary representations and will be less equipped to handle faces that fall outside its initial binary training set. The classification system erases the existence of those groups not included in it." (p. 115)
+> "For example, if you decide to use binary gender labels - male and female - and use them on a dataset that includes only the faces of middle-aged white actors, the system is precluded from learning about inersex, trans, or nonbinary representations and will be less equipped to handle faces that fall outside its initial binary training set. The classification system erases the existence of those groups not included in it." (p. 115)
 
-## Arbiter of Truth
+## Arbiter of Truth {.smaller}
 
 > "A computer vision system cannot observe how someone thinks about their gender, because the system is presented only with image data." (p. 115)
 
@@ -348,9 +351,9 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 > "the shadow of the tech giants touched all aspects of the AI research ecosystem." (p. 126)
 
-## Gender Shades
+## Gender Shades {.smaller}
 
-> "subsequent studies showed that pedestrian tracking systems were more likey to miss detecting people with darker skin that those with lighter skin. When applied to self driving cars, the result would be that people with darker skin were at increased risk of being hit by a car with automatd driving capabilities fully engaged." (p. 130)
+> "subsequent studies showed that pedestrian tracking systems were more likey to miss detecting people with darker skin than those with lighter skin. When applied to self driving cars, the result would be that people with darker skin were at increased risk of being hit by a car with automatd driving capabilities fully engaged." (p. 130)
 
 . . .
 
@@ -360,13 +363,13 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 > "I found that for female-labeled faces of type VI, error rates were up to 46.8 percent." (p. 132)
 
-## Gender Shades
+## Gender Shades {.smaller}
 
 > "The common thread was that the deep learning techniques being used to create gender classifiers were also being used to create systems to attempt to identify a unique individual or detect skin cancer." (p. 133)
 
 . . .
 
-> "I did not want to minimize the imapct of misclassification." (p. 135)
+> "I did not want to minimize the [imapct of misclassification]{.rn-fragment rn-color=lightgreen}." (p. 135)
 
 . . .
 
@@ -374,9 +377,9 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 ## Deserted Desserts
 
-> "You are some of the world's smartest people, making some of the most powerful rechnology known to mankind. You should use it for good. You should tackle the hardest problems. This is an immense opportunity." (p. 146)
+> "You are some of the world's smartest people, making some of the most powerful technology known to mankind. You should use it for good. You should tackle the hardest problems. This is an immense opportunity." (p. 146)
 
-## Deserted Desserts
+## Deserted Desserts {.smaller}
 
 > "Existing AI systems with demonstrated harms are more dangerous than hypothetical 'sentient' AI systems because they are real" (p. 151)
 
@@ -386,13 +389,13 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 . . .
 
-> "No one is immune from being excoded, and those already marginalized are at greater risk" (p. 153)
+> "No one is immune from being [excoded]{.rn-fragment rn-color=lightgreen}, and those already marginalized are at greater risk" (p. 153)
 
 # PART IV<br>INTREPID<br>POET {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
 
 ## AI, AIN'T I A WOMAN?
 
-> "Did the government officials in India exploring the adoption of the Aadhaar system known about the potential for bias in the biometric solutions being offered as answers for efficient distribution fo government resources and persistent identification? Did they know algorithmic bias might deny benefits to the very people they sought to help? What about the polic departments adopting facial recognition technologies?" (p. 157)
+> "Did the government officials in India exploring the adoption of the Aadhaar system know about the potential for bias in the biometric solutions being offered as answers for efficient distribution of government resources and persistent identification? Did they know algorithmic bias might deny benefits to the very people they sought to help? What about the police departments adopting facial recognition technologies?" (p. 157)
 
 ## AI, AIN'T I A WOMAN?
 
@@ -400,11 +403,11 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 . . .
 
-> "I want people to see what it means when systems from tech giants box us into stereotypes we hoped to transcend with algorithms." (p. 161-162)
+> "I want people to see what it means when systems from tech giants [box us into stereotypes]{.rn-fragment rn-color=lightgreen} we hoped to transcend with algorithms." (p. 161-162)
 
 ## AI, AIN'T I A WOMAN?
 
-> "AI systems can be used as tools of oppression as well as tools of liberation. ... the critique of artificial intelligence is not a Luddite call to break machines, but a call to break harmful assumptions about machines and thus enable the construction of better tools and, more important, better societies." (p. 166)
+> "AI systems can be used as tools of oppression as well as tools of liberation. ... the critique of artificial intelligence is not a Luddite call to break machines, but a call to break [harmful assumptions about machines]{.rn-fragment rn-color=lightgreen} and thus enable the construction of better tools and, more important, better societies." (p. 166)
 
 ## AI, AIN'T I A WOMAN?
 
@@ -460,7 +463,7 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 ## Testify
 
-> "he noted the chilling effects of deploying facial recognition at protests - a threat to the First Amendment right of freedom of expression. Would you feel free to attend a protest if you knew law enforcement would deploy facial recognition to record who attended?" (p. 209)
+> "he noted the chilling effects of deploying facial recognition at protests - a threat to the First Amendment right of freedom of expression. Would you feel free to [attend a protest]{.rn-fragment rn-color=lightgreen} if you knew law enforcement would deploy facial recognition to record who attended?" (p. 209)
 
 ## Testify
 
@@ -472,9 +475,9 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 ***"Definitely white men."***
 
-"So we have a technology that was created and designed by one demographic, that is only mostly effective on that on demographic, and they are trying to sell it and impose it on the entirety of the country?" (p. 212)
+"So we have a technology that was created and designed by one demographic, that is only mostly effective on that one demographic, and they are trying to sell it and impose it on the entirety of the country?" (p. 212)
 
-## Testify
+## Testify {.smaller}
 
 > "William was wrongfully arrested in front of his two young daughters and held by law enforcement overnight. Even though Williams was eventually released the memory of this two yound girls seeing their father arrested as neighbors looked on cannot be erased." (p. 213)
 
@@ -488,9 +491,9 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 ## Betting on Coded Bias
 
-> "The excoded included people like Daniel Santos, a school teacher who received low rankings from an automated system despite winning numerous "Teacher of the Year" awards." (p. 223)
+> "The excoded included people like Daniel Santos, a school teacher who received low rankings from an automated system despite winning numerous 'Teacher of the Year' awards." (p. 223)
 
-# PART V<br>Just<br>Human {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
+# PART V<br>Just Human {background-image="images/cover.jpg" background-size="30%" background-position="right" background-color="black"}
 
 ## Drop Out
 
@@ -500,23 +503,33 @@ Team work, you will have to find your own team. You have believe in your cause a
 
 > "The Biles Refusal is a beautiful reminder of the power of saying yes to your well-being." (p. 238)
 
+## Drop Out
+
 ::: {.callout-important}
 "It is not a badge of honor to be burnt out." (p. 238)
 :::
 
 . . .
 
-> "Thank you for demonstrating a better order where health comes before gold, where self-preservation comes before thankless martyrdom, where the dreams of daughters of diasporas to be love for who they are, not what they do, come ture." (p. 239)
+> "Thank you for demonstrating a better order where health comes before gold, where self-preservation comes before thankless martyrdom, where the dreams of daughters of diasporas to be loved for who they are, not what they do, come ture." (p. 239)
 
 ## Drop Out
 
-> "I though about visiting the National Civil Rights Museum in Memphis, Tennesse, and going through exhibitions about freedom fighters who fought against Jim Crow segregation and bled in the streets and languished in jail cells so people like me couldhave the option to study at educational institutions." (p. 243)
+> "I thought about visiting the National Civil Rights Museum in Memphis, Tennesse, and going through exhibitions about freedom fighters who fought against Jim Crow segregation and bled in the streets and languished in jail cells so people like me could have the option to study at educational institutions. (p. 243)
+
+. . .
+
+> I thought of James Meredith, who in the 1960s attended the University of Mississippi, risking his life to test the bounds of the law." (p. 243)
 
 ## Golden Redemption
 
-::: {.callout-tip}
+::: {.callout-important}
 "I remember the schoolchildren who would put their arms next to mine and sigh in relief that their skin was not as dark." (p. 247)
 :::
+
+<br>
+
+. . .
 
 > "I remember the many times I walked into room, even ones where I was invited to speak, and was treated as if I was taking up space meant for important people." (p. 248)
 
@@ -532,3 +545,84 @@ Team work, you will have to find your own team. You have believe in your cause a
 "Now I knew I would need to be more strategic about where I committted my energy." (p. 253)
 :::
 
+## Cost of Inclusion and Exclusion
+
+> "we are looking at a sociotechnical problem, which was a departure from my computer science education. With a sociotechnical problem, code and data are not enough, because the issues extend beyond just how well a given system performs into, even more important, how a system will be used. Who will benefit? Who will be harmed? Who gets to decide? These were questions of power, not questions of performance metrics." (p. 257)
+
+## Cost of Inclusion and Exclusion
+
+> "A blanket rejection of AI systems that analyze human in some way would foreclose beneficial innovations." (p. 258)
+
+<br>
+
+. . .
+
+> "to analyze the cries of babies in Nigeria to detect lung conditions." (p. 258)
+
+## Cost of Inclusion and Exclusion
+
+> "her story fit the pattern that dark-skinned people are often diagnosed with skin cancer that has entered much later stages" (p. 259)
+
+<br>
+
+. . .
+
+> "The dismissal of patient concerns about their health, especially the pain of patients of color, women, and women of color also means that even if we do go to the hospital for help, our sysmptoms and pain can be discounted or underestimated." (p. 259)
+
+## Cost of Inclusion and Exclusion
+
+> "When we think about algorithmic justice - shifting power so the burdens of technology do not fall on the marginalized and the benefits do not accrue only to the privileged few - we have to think about algorithmic harm." (p. 260)
+
+<br>
+
+. . .
+
+> "reported that IBM used secret surveillance footage from the New York Police Department and equipped the department with tools to search for people in video by hair color, skin tone, and facial hair." (p. 260-261)
+
+## Sword of Knowledge
+
+> "I warned wide-eyed undergraduates not to go up against tech companies without having legal support, and I spoke about the attacks I had faced." (p. 269)
+
+<br>
+
+::: {.callout-caution}
+"Chance favors the prepared." (p. 269)
+:::
+
+## Cups of Hope
+
+::: {.callout-note}
+"I am highly educated, not highly schooled." (p. 275)
+:::
+
+<br>
+
+. . .
+
+> "You do not need a PhD from MIT to make a difference in the fight for algorithmic justice. All you need is a curious mind and a human heart." (p. 275)
+
+## Cups of Hope
+
+> "You don't have to know precisely how biometric technologies work to know that when they are used for mass surveillance and invade your privacy, they do not make us safer by default. You don't have to know what a neural net is to know that if an AI system denies you a job because of your race, gender, age, disability, or skin color, something is wrong. You don't have to be can AI researcher to know that if companies take your creative work and use it to create products without premission and compensation, you have been wronged." (p. 275)
+
+## Cups of Hope
+
+> "We can go further and demand that all companies creating AI systems based on personally identifiable information must prove consent has been obtained and must delete any ill-gotten data and the AI models created with unconsented data." (p. 276)
+
+<br>
+
+. . .
+
+> "Meta deleted more than a billion faceprints and agreed to a $650 million settlement in a legal dispute over their use of the face data uploaded by Facebook users. ... Litigation and public pushback make a difference, and so too does legislation." (p. 276) 
+
+## Cups of Hope
+
+> "The first step to addressing a problem is acknowledging it exists. I can remember when people used to question if algorithmic bias was even real or if machines could discriminate in harmful ways, since they were supposed to be "objective"." (p. 277)
+
+## Cups of Hope
+
+> "We do not have to accept conditions and traditions that undermine our ability to have dignified lives. We do not have to sit idly by and watch the strides gained in liberation movements for racial equality, gender equality, workers' rights, disability rights, immigrant rights, and many others be undermined by the hasty adoption of artificial intelligence that promises efficiency but further automates inequality." (p. 280)
+
+## Cups of Hope
+
+> "The future of AI remains open-ended. Will we let power in the hands of a few tech companies dictate our lives? Will we strive for a society that protects the rights of all people? Will we dare to believe in our individual and collective power? Will we follow the drumbeat of justice? The answers are ultimately up to us." (p. 281)
