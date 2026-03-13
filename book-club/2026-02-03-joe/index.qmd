@@ -21,6 +21,8 @@ Dr. Buolamwini is the founder of the [The Algorithmic Justice League](https://ww
 
 Why this book? Perfect alignment with SARA's values of justice, accessibility, and making tech serve everyone - not just the privileged few.
 
+<!-- [Slides](_slides-notes.html) of the Notes from the Book -->
+
 <br>
 
 ### 📺 Watch 1st Discussion (book Part I & II) on YouTube
@@ -30,6 +32,12 @@ Why this book? Perfect alignment with SARA's values of justice, accessibility, a
 ### 📺 Watch 2nd Discussion (book Part III & IV) on YouTube
 
 {{< video https://youtu.be/W1tRdqMz6Ms?si=oCNgMg8LyyKWUoO- >}}
+
+### 📺 Watch 3rd Discussion (book Part V) on YouTube
+
+{{< video https://youtu.be/tE8SKmrwGcU >}}
+
+<!-- {{< revealjs file="_slides-notes.html" height="500px" class="ratio ratio-16x9" >}} -->
 
 <br>
 

@@ -29,9 +29,16 @@ Here you will find schedules for our special online events:
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&showPrint=0&src=c2FyYS5pbnN0aXR1dGUuaW5mb0BnbWFpbC5jb20&color=%23039be5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
 ::: {.col}
 ::: {.card}
+
+## 11 March 2026
+
+Online talk "Your CV, Your Future" by Abraham George from UK
+
+{{< video https://youtu.be/1aJuwZ6QNqA?si=uvnhFp8ZgPn1vcTB >}}
+
+-----
 
 ## 27 January 2026
 
