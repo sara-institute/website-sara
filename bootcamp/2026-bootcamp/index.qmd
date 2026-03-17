@@ -134,6 +134,10 @@ Quarto replaces PowerPoint, Beamer (LaTeX), and R Markdown slides all at once - 
 :::
 ::::
 
+::: {.centering}
+# [Guest Speaker]{style="color:#b01818"}
+:::
+
 <center>
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
