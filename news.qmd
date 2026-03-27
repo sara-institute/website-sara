@@ -32,6 +32,24 @@ Here you will find schedules for our special online events:
 ::: {.col}
 ::: {.card}
 
+## 27 March 2026
+
+🎉 The 2nd SARA Bootcamp just wrapped up!
+
+{{< video https://youtu.be/dP3xK8nK1Q8?si=Gq_kuCuELJQXvu3A >}}
+
+-----
+
+## SBI Guest Lecture
+
+A heartfelt thank you to the [SBI SC/ST Employees Welfare Association](https://www.sbisewa.com/) for the warm invitation to be part of your platform! 🙏🏽 
+
+Special thanks to **Mr. Anand Pal Ahlawat** for providing this opportunity to connect! 💙
+
+It was truly an honour for our founders, Dr Ajay Kumar Koli, PhD & Dr. Kiran Lata, to speak about the transformative power of coding and technology. Conversations like these remind us why we do what we do at SARA - making knowledge accessible and inspiring the next generation of changemakers.
+
+![](images/sbi-talk.png)
+
 ## 11 March 2026
 
 Online talk "Your CV, Your Future" by Abraham George from UK

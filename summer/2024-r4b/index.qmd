@@ -1,5 +1,6 @@
 ---
-title: "1st R for Beginners"
+title: "R for Researchers"
+subtitle: "1st SARA Summer School"
 image: "images/students.jpeg"
 date: "2024-07-22"
 categories: [R, Data Science, Summer School, Completed]

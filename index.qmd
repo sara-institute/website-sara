@@ -179,7 +179,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## 2nd Summer School "R for Beginners" 25-29 July 2025 {.centering}
+## 2nd SARA Summer School <br> "R for Researchers" <br> 25-29 July 2025 {.centering}
 
 ![](images/2025-summer.jpeg){width="90%"}
 
@@ -209,7 +209,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## 2nd Winter School "Statistics using R" 23-27 Jan 2026 {.centering}
+## 2nd SARA Winter School <br> "Statistics using R" <br> 23-27 Jan 2026 {.centering}
 
 ![](images/students-winter-school26.jpeg)
 
@@ -239,24 +239,24 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 ::: {.col}
 ::: {.card}
 
-## Bootcamp "Publish using Quarto" 03 - 07 March 2025 {.centering}
+## 2nd SARA Coding Bootcamp <br> "Publish using Quarto" <br> 20-22 March 2026 {.centering}
 
-![](bootcamp/2025-bootcamp/images/students.jpg)
+![](bootcamp/2026-bootcamp/images/students.png)
 
-> *The modules were taught in a simple and informative way.*      
-> --- **Deepak Kumar, MA Psychology, UP**
+> *so much effort in slides and teaching hand-on ... teaching meticulously and not charging anything requires a lot of patience and expertise*      
+> --- **Jigeesha Bhargavi, MA Pol. Sci., Delhi**
 
-> *I got to learn great skills in data science which will help me a lot in my academic journey.*          
-> --- **Maga Ram, MA Pol. Sci., JNU**
+> *receptive in this approach, ever so ready to clarify our doubts and give insightful updates*          
+> --- **Chetna Rani, MA Pol. Sci., JNU**
 
-> *During this bootcamp, I experienced a lot of things about data science. Classes were enjoyable and I had a great experience.*       
-> --- **Rachna Rathi, BA LLB, HR**
+> *the hand-on practice which is rare has added to the confidence taht even I can build website*       
+> --- **Name not shared**
 
-> *Making data science accessible to everyone, especially those from non-technical and humnities background is a remarkable and much needed effort.*        
-> --- **Rishav Kumar, MA Pol. Sci., JNU**
+> *Thank you for providing minority students this opportunity for uplifting*        
+> --- **Name not shared**
 
->  *With the right help, guidance, and support of batch mates everything was made possible. SARA team was helpful and kind.*        
-> --- **Garima, MA Eng. Lit., GVM Sonipat. **
+>  *now I have little more confidence that I have basic knowledge about data science and I'll learn more*        
+> --- **Name not shared**
 
 [Know more](bootcamp/2025-bootcamp/index.qmd)
 

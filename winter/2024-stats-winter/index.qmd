@@ -1,5 +1,6 @@
 ---
 title: "Statistics using R"
+subtitle: "1st SARA Winter School"
 image: images/students.jpeg
 date: "2024-12-16 "
 categories: [R, Data Science, Winter School, Statistics]

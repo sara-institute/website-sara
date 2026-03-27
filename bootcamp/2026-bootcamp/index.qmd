@@ -1,20 +1,29 @@
 ---
 title: "Publish Research using Quarto"
 subtitle: "2nd SARA Bootcamp"
-image: banner.png
+image: images/students.png
 description: "A hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome."
 date: today
 categories: [R, Data Science, Bootcamp, Quarto]
 lightbox: true    
 ---
 
-::: {.hero-badge}
+## 🎉 The 2nd SARA Bootcamp just wrapped up!
+
+![](images/students.png)
+
+## 🎥 Watch video to see the highlights
+
+{{< video https://youtu.be/dP3xK8nK1Q8?si=Gq_kuCuELJQXvu3A >}}
+
+
+<!-- ::: {.hero-badge}
 20 Seats Only &nbsp;·&nbsp; Offline &nbsp;·&nbsp; 3 Days
 :::
 
 ### [[Register Now](https://forms.gle/9jTZAp5ekVzmcU6XA)]{.bg-}
 
-<br>
+<br> -->
 
 The 2nd SARA Bootcamp brings together researchers, students, and academics for three days of intensive, practical learning on how to write, format, and publish research using Quarto and R - two of the most powerful open-source tools in modern research communication.
 
