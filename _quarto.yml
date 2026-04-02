@@ -35,8 +35,8 @@ website:
     search: true
     pinned: true
     right:
-      - text: Home
-        href: index.qmd
+      # - text: Home
+      #   href: index.qmd
       - text: About
         menu: 
           - text: Mission  
@@ -45,7 +45,15 @@ website:
             href: timeline.qmd
           - text: Annual Report
             href: annual-report.qmd
-      - text: Courses
+      - text: Data Schools 
+        menu:
+          - text: Summer School
+            href: summer.qmd
+          - text: Winter School
+            href: winter.qmd
+          - text: Coding Bootcamp
+            href: bootcamp.qmd      
+      - text: Bridge Courses
         menu: 
           - text: Offline Courses
             href: offline.qmd
@@ -53,15 +61,8 @@ website:
             href: online.qmd
           # - text: Python Language
           #   href: python-course/python-course.qmd  
-      - text: Trainings 
-        menu:
-          - text: R Langauge
-            href: summer.qmd
-          - text: Statistics using R
-            href: winter.qmd
-          - text: Publish using Quarto
-            href: bootcamp.qmd
-      - text: Club
+
+      - text: Book Club
         href: book-club.qmd
       - text: Collaborations
         href: workshops.qmd
@@ -69,8 +70,8 @@ website:
         href: news.qmd
       - text: Donate 
         href: donate.qmd
-      - text: Contact
-        href: contact.qmd
+      # - text: Contact
+      #   href: contact.qmd
         
       
   page-footer:

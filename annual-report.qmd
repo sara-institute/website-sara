@@ -1,8 +1,25 @@
 ---
-title: "SARA Annual report 2024-25"
-format: html
+title: "Annual Reports"
 ---
 
-<script defer class="speakerdeck-embed" data-id="3d7348f33abc49d9830a92d04ae59b33" data-ratio="0.7072446555819477" src="//speakerdeck.com/assets/embed.js"></script>
+## SARA Annual Report 2025–26
+
+View the current report directly below. You can also download it using the button.
+
+<a href="annual-reports/sara-annual-report-2025-26.pdf" download class="btn btn-primary">
+  ⬇️ Download Report 2025–26
+</a>
+
+<br><br>
+
+<iframe class="speakerdeck-iframe" style="border: 0px; background: padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 791;" frameborder="0" src="https://speakerdeck.com/player/f8bc312457894f99bb37b44883ebd6a7" title="SARA Annual Report 2025-26" allowfullscreen="true" data-ratio="0.7079646017699115"></iframe>
+
+---
+
+## Previous Reports
+
+<a href="annual-reports/sara-annual-report-2024-25.pdf" download class="btn btn-outline-primary">
+  ⬇️ Download Report 2024–25
+</a>
 
 <br>
