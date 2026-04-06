@@ -32,11 +32,21 @@ Here you will find schedules for our special online events:
 ::: {.col}
 ::: {.card}
 
+
+
 ## 27 March 2026
 
 🎉 The 2nd SARA Bootcamp just wrapped up!
 
 {{< video https://youtu.be/dP3xK8nK1Q8?si=Gq_kuCuELJQXvu3A >}}
+
+-----
+
+## 22 March 2026
+
+Prof. Samantha MacBride from Baruch College, USA delivered this pro-bono Guest Lecture at the 2nd SARA Coding Bootcamp, March 2026.
+
+{{< video https://youtu.be/T6EDOfn4fyY?si=vXzATLhHdyz91dP9 >}}
 
 -----
 
