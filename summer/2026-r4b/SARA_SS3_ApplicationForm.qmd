@@ -157,7 +157,7 @@ hr.form-divider { border: none; border-top: 1px solid #eee; margin: 28px 0; }
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--  FORM                                                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
-<form id="appForm" action="https://formspree.io/f/xnjolgjr" method="POST">
+<form id="appForm" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
 
   <!-- Section 1: Personal information -->
   <div class="form-section-title">1 · Personal information</div>
@@ -466,6 +466,12 @@ hr.form-divider { border: none; border-top: 1px solid #eee; margin: 28px 0; }
     el.classList.toggle('show', radio.value === 'Funded');
   }
 
+  /* ── Intercept submit: show success message inline ──
+     When using Formspree, keep the form action and remove this block.
+     This handler is for local / offline previewing only.            */
+  const form = document.getElementById('appForm');
+  const usingFormspree = form.action.includes('https://formspree.io') &&
+                         !form.action.includes('https://formspree.io/f/xnjolgjr');
 
   if (!usingFormspree) {
     form.addEventListener('submit', function(e) {
