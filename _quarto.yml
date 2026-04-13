@@ -26,19 +26,11 @@ website:
   announcement:
     #icon: book
     dismissable: true
-    content: "🎉 SARA Annual Report 2026 [Link](https://speakerdeck.com/sara2023/sara-annual-report-2025-26-84ca232d-d25f-478a-9a4d-5d7b52814730
-
-Dear 700+ SARA Supporter,
-
-We are very thankful for your lovely support to SARA. 
-
-Kindly glance through SARA Report 2025-26. Let's know your feedback to improve SARA.
-
-Regards) "
+    content: "🚀 Applications Open for 3rd Summer School Jul 2026 [Registration Link](https://forms.gle/PoxbuymTz9XL28667)"
     type: success
     position: below-navbar
   
-
+  
   navbar:
     search: true
     pinned: true

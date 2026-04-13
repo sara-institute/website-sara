@@ -7,23 +7,11 @@
     ]
   },
   {
-    "listing": "/offline.html",
+    "listing": "/summer.html",
     "items": [
-      "/offline/computer/index.html",
-      "/offline/english/index.html"
-    ]
-  },
-  {
-    "listing": "/book-club.html",
-    "items": [
-      "/book-club/2026-02-03-joe/index.html"
-    ]
-  },
-  {
-    "listing": "/bootcamp.html",
-    "items": [
-      "/bootcamp/2026-bootcamp/index.html",
-      "/bootcamp/2025-bootcamp/index.html"
+      "/summer/2026-r4b/index.html",
+      "/summer/2025-r4b/index.html",
+      "/summer/2024-r4b/index.html"
     ]
   },
   {
@@ -35,10 +23,23 @@
     ]
   },
   {
-    "listing": "/summer.html",
+    "listing": "/bootcamp.html",
     "items": [
-      "/summer/2025-r4b/index.html",
-      "/summer/2024-r4b/index.html"
+      "/bootcamp/2026-bootcamp/index.html",
+      "/bootcamp/2025-bootcamp/index.html"
+    ]
+  },
+  {
+    "listing": "/book-club.html",
+    "items": [
+      "/book-club/2026-02-03-joe/index.html"
+    ]
+  },
+  {
+    "listing": "/offline.html",
+    "items": [
+      "/offline/computer/index.html",
+      "/offline/english/index.html"
     ]
   },
   {
