@@ -2,7 +2,7 @@
 title: "R for Researchers"
 subtitle: "3rd SARA Summer School 2026"
 date: "2026-04-14"
-author: "SARA Organising Team"
+author: "SARA Team"
 image: flyer.png
 format:
   html:
