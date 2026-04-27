@@ -204,6 +204,8 @@ This is a **non-profit event with no tuition fee**. Participants only contribute
 
 Whether you are new to R or looking to sharpen your analytical toolkit, this summer school offers an immersive learning experience with expert instructor in a collaborative setting.
 
+![](speakers.png)
+
 ---
 
 ## What You will Learn 
