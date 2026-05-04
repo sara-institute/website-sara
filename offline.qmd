@@ -13,4 +13,7 @@ title-block-style: default
 title-block-banner-color: "#003262"
 ---
 
+![](images/2026-offline.png)
+
+---
 

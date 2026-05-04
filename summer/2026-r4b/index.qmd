@@ -1,8 +1,8 @@
 ---
 title: "R for Researchers"
 subtitle: "3rd SARA Summer School 2026"
-date: "2026-04-14"
-author: "SARA Team"
+#date: "2026-04-14"
+#author: "SARA Team"
 image: flyer.png
 format:
   html:
@@ -219,7 +219,7 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 | **Day 2** | Data Import, Wrangling & Cleaning |
 | **Day 3** | Data Visualization & Exploratory Analysis |
 | **Day 4** | Statistical Analysis & Reproducible Research |
-| **Day 5** | Qualitative/Test Analysis & Sentiment Analysis |
+| **Day 5** | Qualitative/Text Analysis & Sentiment Analysis |
 
 :::
 
@@ -234,21 +234,21 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
   <div class="tier funded">
     <span class="badge">Fully Funded</span>
     <div class="price">₹0</div>
-    <div class="seats">5 seats available</div>
+    <div class="seats">4/5 seats available</div>
     <div class="note">Apply by 31 May. Food & Stay costs covered. Need-based.</div>
   </div>
 
   <div class="tier early">
     <span class="badge">Early Bird — 40% off</span>
     <div class="price">₹2,700</div>
-    <div class="seats">7 seats available</div>
-    <div class="note">Apply by 30 April 2026. Regular fee is ₹4,500.</div>
+    <div class="seats">3/7 seats available</div>
+    <div class="note">Apply by 10 May 2026. Regular fee is ₹4,500.</div>
   </div>
 
   <div class="tier regular">
     <span class="badge">Regular</span>
     <div class="price">₹4,500</div>
-    <div class="seats">8 seats available</div>
+    <div class="seats">8/8 seats available</div>
     <div class="note">Final Deadline 15 June. Food &amp; accommodation for 5 days.</div>
   </div>
 
@@ -303,7 +303,7 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 
   <div class="tl-item">
     <span class="tl-dot amber"></span>
-    <span class="tl-date">30 Apr 2026</span>
+    <span class="tl-date">10 May 2026</span>
     <div>
       <div class="tl-title">Early bird deadline</div>
       <div class="tl-desc">Last date to apply for 40% discounted seats</div>
@@ -364,6 +364,8 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 ```
 
 > **Refund policy:** Cancellations on or before 30 June 2026 are eligible for a 50% refund. No refund will be issued after this date. Funded seats carry no monetary refund.
+
+![](flyer.png)
 
 <center>
 
