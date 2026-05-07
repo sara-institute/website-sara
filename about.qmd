@@ -1,6 +1,6 @@
 ---
 title: "Our Mission"
-subtitle: "Coding for Everyone"
+#subtitle: "Coding is for Everyone"
 #subtitle: "SARA for Community Empowerment"
 pagetitle: "About"
 #layout: page
@@ -21,28 +21,32 @@ title-block-style: default
 title-block-banner-color: "#003262"
 ---
 
-<!-- [At the Savitribai Ramabai (SARA) Institute of Data Science, our mission is to **democratize data science** by tearing down barriers of privilege, technical complexity, and financial exclusion. Through global collaborations with experts, hands-on mentorship, and accessible resources, we equip learners to harness data for innovation, equity, and societal progress. Together, we’re building a future where education is a universal right—not a luxury—and where every individual can shape tomorrow’s data-driven world.]{.p-mission} -->
-
-<!-- <br> -->
-
 ::: {.col}
 ::: {.card}
 
 ::: {.centering}
 
-![](images/banner-cofe.png)
+![](images/banner-cofe.png){fig-align="left"}
 
 :::
 
-## Educating Tomorrow's Data Scientists
+Coding is for everyone. That is not a slogan. It is a belief we build on every day.
 
-At SARA Institute, we believe in the transformative power of education to unlock potential and drive meaningful change. Our mission is to provide data science and skill-based education to all communities, empowering individuals to shape their futures and uplift their communities.  
+## Why SARA exists
 
-Rooted in the principles of equity and access, SARA is dedicated to breaking down barriers to learning. We ensure that everyone, regardless of their background or circumstances, has the opportunity to acquire knowledge, develop skills, and thrive.  
+Data science, coding, and research have been treated as skills for a privileged few - those with the right college, the right connections, the right postcode. Communities that have faced historical exclusion - by caste, by class, by geography - were handed the same closed door, again and again.
 
-Education is not just a tool but a fundamental human right—a catalyst for social progress. By offering tuition-free courses and fostering an inclusive learning environment, we strive to create a brighter, more equitable future.  
+We started SARA because that is wrong. And because it is changeable.
 
-**Join us** in our mission to make a difference. Together, we can transform lives, empower communities, and inspire change worldwide.  
+SARA - the Institute of Data Science - exists to put the tools of the data economy into the hands of people who have been kept out of it. Not as charity. Not as a favour. But as a correction to a system that was never designed with us in mind.
+
+### What we do
+
+SARA offers no-cost courses in coding, data analysis, and research methods - open to anyone, no matter your background, degree, or prior experience.
+
+Our courses are designed to be learnable from where you are. No expensive software. No prerequisite qualifications. No gatekeeping.
+
+We teach skills that are in real demand - R, Python, statistics, data visualisation, research design - and we teach them in a way that respects the intelligence of every learner who walks through our door.
 
 :::
 :::
