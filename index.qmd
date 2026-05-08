@@ -14,7 +14,7 @@ include-in-header:
 
 # [Coding is for Everyone]{.clr-white}
 
-[No-cost courses in Coding, Data Analysis & Research]{.clr-white .p-mission}
+[No-cost courses in Data Science and Research]{.clr-white .p-mission}
 
 :::
 
@@ -36,7 +36,7 @@ include-in-header:
 
 # Our Mission 
 
-[Coding is for everyone. We offer no-cost courses in coding, data analysis, and research - open to everyone, no matter your background, degree or income. Data science has been a closed door for too long. We are opening it.]{.p-mission}
+[We believe coding is for everyone. SARA offers no-cost courses in coding, data analysis, statistics and research - open to all, no matter your background, degree or income. We all deserve a chance to learn.]{.p-mission}
 
 ::: {.button}
 [Start Learning](summer.qmd)
