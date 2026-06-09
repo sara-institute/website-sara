@@ -234,15 +234,15 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
   <div class="tier funded">
     <span class="badge">Fully Funded</span>
     <div class="price">₹0</div>
-    <div class="seats">4/5 seats available</div>
+    <div class="seats">All 5 seats filled</div>
     <div class="note">Apply by 31 May. Food & Stay costs covered. Need-based.</div>
   </div>
 
   <div class="tier early">
     <span class="badge">Early Bird — 40% off</span>
     <div class="price">₹2,700</div>
-    <div class="seats">3/7 seats available</div>
-    <div class="note">Apply by 10 May 2026. Regular fee is ₹4,500.</div>
+    <div class="seats">All 8 seats filled</div>
+    <div class="note">Apply by 31 May 2026. Regular fee is ₹4,500.</div>
   </div>
 
   <div class="tier regular">
