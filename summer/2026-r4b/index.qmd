@@ -190,7 +190,7 @@ body { font-family: 'Inter', sans-serif; color: #1a1a1a; line-height: 1.7; }
   <div class="meta-row">
     <span>📅 22–26 July 2026</span>
     <span>📍 Offline &middot; In-person</span>
-    <span>🎓 20 Seats Only</span>
+    <span>🎓 21 Seats Only</span>
     <span>💡 No Tuition Fee</span>
   </div>
 </div>
@@ -249,7 +249,7 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
     <span class="badge">Regular</span>
     <div class="price">₹4,500</div>
     <div class="seats">8/8 seats available</div>
-    <div class="note">Final Deadline 15 June. Food &amp; accommodation for 5 days.</div>
+    <div class="note">Final Deadline 30 June. Food &amp; accommodation for 5 days.</div>
   </div>
 
 </div>
@@ -321,7 +321,7 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 
   <div class="tl-item">
     <span class="tl-dot blue"></span>
-    <span class="tl-date">15 Jun 2026</span>
+    <span class="tl-date">30 Jun 2026</span>
     <div>
       <div class="tl-title">Regular registration closes</div>
       <div class="tl-desc">Final deadline for all applications</div>
@@ -330,7 +330,7 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 
   <div class="tl-item">
     <span class="tl-dot red"></span>
-    <span class="tl-date">30 Jun 2026</span>
+    <span class="tl-date">30 June 2026</span>
     <div>
       <div class="tl-title">Last date for cancellation with 50% refund</div>
       <div class="tl-desc">No refund after this date</div>
@@ -355,8 +355,8 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 
 ```{=html}
 <div class="cta-box">
-  <h3>Applications closing 15 June 2026</h3>
-  <p>Only 20 seats available -- including 5 fully funded spots.<br>
+  <h3>Applications closing 30 June 2026</h3>
+  <p>Only 21 seats available -- including 5 fully funded spots.<br>
   Mark your calendar and share with your network.</p>
   <a href="https://forms.gle/JMEGpNXk5ve2yu6a9" class="cta-btn">Apply Now</a>
   <div class="cta-note">Questions? Write to us at: sara.institute.info@gmail.com</div>

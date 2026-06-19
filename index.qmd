@@ -309,16 +309,16 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::: {.col}
 
-:::
-
-::: {.col}
-
-![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Founder & Director, SARA Institute<br>koliajaykumar@gmail.com
+![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Co-founder & Exec. Director, SARA Institute<br>[koliajaykumar\@gmail.com](mailto:%20koliajaykumar@gmail.com)
 
 :::
 
 ::: {.col}
-<!-- ![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-kiran-koli-85263a5b/)<br>Co-Founder & Director, SARA Institute<br>kolikiranlata@gmail.com -->
+
+:::
+
+::: {.col}
+![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-kiran-koli-85263a5b/)<br>Co-founder & Director, SARA Institute<br>[kolikiranlata\@gmail.com](mailto:%20kolikiranlata@gmail.com)
 :::
 
 ::: {.col}
