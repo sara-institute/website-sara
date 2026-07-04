@@ -14,18 +14,18 @@ title-block-style: default
 title-block-banner-color: "#003262"
 ---
 
-::: {.col}
+<!-- ::: {.col}
 ::: {.card}
 
 ::: {.centering}
 
-![](images/book-club.png)
+![](images/book-donation.png)
 
 :::
 
 
 
 :::
-:::
+::: -->
 
 <br>

@@ -23,12 +23,12 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  announcement:
+  # announcement:
     #icon: book
-    dismissable: true
-    content: "🚀 Applications Open for 3rd Summer School Jul 2026 [Registration Link](https://forms.gle/PoxbuymTz9XL28667)"
-    type: success
-    position: below-navbar
+    # dismissable: true
+    # content: "🚀 Applications Open for 3rd Summer School Jul 2026 [Registration Link](https://forms.gle/PoxbuymTz9XL28667)"
+    # type: success
+    # position: below-navbar
   
   
   navbar:

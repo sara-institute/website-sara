@@ -1,10 +1,9 @@
 ---
-title: "1st Book Discussion"
-subtitle: "SARA Book Club"
+title: "Unmaking AI | Dr. Joy Buolamwini"
+subtitle: "1st Book Discussion"
 image: flyer-joe.png
 format: html
-description: "Unmaking AI by Dr. Joy Buolamwini"
-date: today
+date: "18 Feb 2026"
 categories: [AI, Non-fiction, Technology, Science, Memoir, Politics]
 pagetitle: "Book Club"
 lightbox: true    

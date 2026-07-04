@@ -1,0 +1,65 @@
+/* SARA Institute — Book Donation List Styles */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+h1.title {
+  color: #1a1a2e;
+  font-size: 2rem;
+}
+
+.subtitle {
+  color: #4a90d9;
+  font-size: 1.1rem;
+}
+
+/* Status badge colours in table */
+td:has(span) {
+  font-weight: 500;
+}
+
+/* DataTable customisation */
+table.dataTable thead th {
+  background-color: #1a1a2e;
+  color: white;
+  font-size: 0.85rem;
+}
+
+table.dataTable tbody tr:hover {
+  background-color: #daeaf7 !important;
+}
+
+table.dataTable.stripe tbody tr.odd {
+  background-color: #f8f9fa;
+}
+
+/* Summary cards */
+.callout {
+  border-radius: 8px;
+}
+
+.callout h2 {
+  font-size: 2rem;
+  margin: 0.2rem 0;
+  color: #1a1a2e;
+}
+
+/* Table caption */
+caption {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 6px;
+  text-align: left;
+}
+
+/* TOC */
+#TOC {
+  border-left: 3px solid #4a90d9;
+  padding-left: 1rem;
+}
+
+/* Footer note */
+.callout-note {
+  font-size: 0.85rem;
+}

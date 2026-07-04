@@ -1,0 +1,398 @@
+---
+title: "**40 Books Donation List**"
+#subtitle: "Bridge Course Level 1"
+image: book-donation.png
+#author: "SARA Institute of Data Science, Sonipat"
+#date: "July 3, 2026" 
+date-modified: last-modified
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 2
+    toc-location: left
+    code-fold: true
+    code-summary: "Show code"
+    self-contained: true
+    page-layout: full
+    css: styles.css
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{python}
+#| label: setup
+#| include: false
+
+import pandas as pd
+from itables import show
+import itables.options as opt
+
+# Global itables options
+opt.dom = 'Qlfrtip'
+opt.classes = "display compact"
+opt.maxBytes = 0
+```
+
+## About This List
+
+::: {.callout-note icon=false}
+### 📚 How to Donate a Book to SARA
+
+SARA Institute of Data Science is building a **Bridge Course: Level 1** for first-generation learners and students from marginalised communities. You can support us by donating a book from this list in two ways:
+
+- **Send your old copy** - Post your pre-loved book directly to us at the address below
+- **Buy & ship new** - Purchase a new copy online and have it delivered to SARA
+
+**📬 Delivery address:**
+SARA Institute,
+Dr. Ambedkar Bhawan,
+Kakroi Road, Sonipat
+Haryana - 131001,
+Mobile No. +91 925 315 2024
+
+**✉️ Notify us after sending:** [sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)
+
+*Please email us with your name and the book title so we can acknowledge your donation and update this list.*
+:::
+
+---
+
+![](book-donation.png){width="70%"}
+
+## Book Donation Tracker
+
+Use the **search box** to find a specific book, or **filter by subject or status** using the column filters below.
+
+::: {.callout-tip icon=false}
+### 🟢 Status Guide
+- 🟢 **Received** - We have this book. Thank you to our donors!
+- 🟡 **In Transit** - A donor has sent this and it is on its way
+- 🔴 **Needed** - This book still needs a donor
+:::
+
+```{python}
+#| label: book-data
+
+books = [
+    # GEOGRAPHY
+    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "Needed", ""),
+    (
+        "Geography",
+        "Geography: Realms, Regions, and Concepts",
+        "H.J. de Blij & Peter Muller",
+        "Needed",
+        "",
+    ),
+    ("Geography", "Introducing Physical Geography", "Alan H. Strahler", "Needed", ""),
+    ("Geography", "How to Lie with Maps", "Mark Monmonier", "Needed", ""),
+    ("Geography", "The Power of Geography", "Tim Marshall", "Needed", ""),
+    # SOCIAL SCIENCE
+    ("Social Science", "Sociology", "Anthony Giddens", "Needed", ""),
+    (
+        "Social Science",
+        "Introduction to Sociology (OpenStax)",
+        "Heather Griffiths et al.",
+        "Needed",
+        "",
+    ),
+    ("Social Science", "The Sociological Imagination", "C. Wright Mills", "Needed", ""),
+    (
+        "Social Science",
+        "Sapiens: A Brief History of Humankind",
+        "Yuval Noah Harari",
+        "Needed",
+        "",
+    ),
+    (
+        "Social Science",
+        "Outliers: The Story of Success",
+        "Malcolm Gladwell",
+        "Needed",
+        "",
+    ),
+    # SCIENCE
+    ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Needed", ""),
+    ("Science", "The Magic of Reality", "Richard Dawkins", "Needed", ""),
+    ("Science", "What If?", "Randall Munroe", "Needed", ""),
+    (
+        "Science",
+        "The Gene: An Intimate History",
+        "Siddhartha Mukherjee",
+        "Needed",
+        "",
+    ),
+    ("Science", "Cosmos", "Carl Sagan", "Needed", ""),
+    # HISTORY
+    (
+        "History",
+        "Sapiens: A Brief History of Humankind",
+        "Yuval Noah Harari",
+        "Needed",
+        "See Social Science copy",
+    ),
+    ("History", "A Little History of the World", "E.H. Gombrich", "Needed", ""),
+    ("History", "The History Book (DK)", "DK Publishing", "Needed", ""),
+    ("History", "India After Gandhi", "Ramachandra Guha", "Needed", ""),
+    ("History", "The History of the Ancient World", "Susan Wise Bauer", "Needed", ""),
+    # ENVIRONMENTAL SCIENCE
+    (
+        "Environmental Science",
+        "Environmental Science: Toward a Sustainable Future",
+        "Richard T. Wright & Dorothy Boorse",
+        "Needed",
+        "",
+    ),
+    ("Environmental Science", "Silent Spring", "Rachel Carson", "Needed", ""),
+    ("Environmental Science", "A Sand County Almanac", "Aldo Leopold", "Needed", ""),
+    (
+        "Environmental Science",
+        "Textbook of Environmental Studies",
+        "Erach Bharucha",
+        "Needed",
+        "",
+    ),
+    (
+        "Environmental Science",
+        "How to Avoid a Climate Disaster",
+        "Bill Gates",
+        "Needed",
+        "",
+    ),
+    # MATHEMATICS
+    ("Mathematics", "Basic Mathematics", "Serge Lang", "Needed", ""),
+    (
+        "Mathematics",
+        "The Art of Problem Solving Vol. 1",
+        "Richard Rusczyk & Sandor Lehoczky",
+        "Needed",
+        "",
+    ),
+    ("Mathematics", "How to Solve It", "George Polya", "Needed", ""),
+    (
+        "Mathematics",
+        "Mathematics: From the Birth of Numbers",
+        "Jan Gullberg",
+        "Needed",
+        "",
+    ),
+    ("Mathematics", "Introductory Statistics", "Neil Weiss", "Needed", ""),
+    # GENERAL KNOWLEDGE
+    (
+        "General Knowledge",
+        "Lucent's General Knowledge",
+        "Lucent Publications",
+        "Needed",
+        "",
+    ),
+    (
+        "General Knowledge",
+        "Manorama Yearbook",
+        "Malayala Manorama",
+        "Needed",
+        "Latest edition preferred",
+    ),
+    (
+        "General Knowledge",
+        "Very Short Introductions (set of 5)",
+        "Oxford University Press",
+        "Needed",
+        "Any 5 titles welcome",
+    ),
+    (
+        "General Knowledge",
+        "The Book of General Ignorance",
+        "John Lloyd & John Mitchinson",
+        "Needed",
+        "",
+    ),
+    (
+        "General Knowledge",
+        "An Incomplete Education",
+        "Judy Jones & William Wilson",
+        "Needed",
+        "",
+    ),
+    # CIVICS & POLITY
+    (
+        "Civics & Polity",
+        "Indian Polity",
+        "M. Laxmikanth",
+        "Needed",
+        "",
+    ),
+    (
+        "Civics & Polity",
+        "Introduction to the Constitution of India",
+        "D.D. Basu",
+        "Needed",
+        "",
+    ),
+    (
+        "Civics & Polity",
+        "Why Nations Fail",
+        "Daron Acemoglu & James Robinson",
+        "Needed",
+        "",
+    ),
+    ("Civics & Polity", "Development as Freedom", "Amartya Sen", "Needed", ""),
+    ("Civics & Polity", "Politics in India", "Rajni Kothari", "Needed", ""),
+]
+
+df = pd.DataFrame(books, columns=["Subject", "Title", "Author", "Status", "Notes"])
+
+
+# Add emoji to Status for visual clarity
+def status_badge(s):
+    mapping = {
+        "Received": "🟢 Received",
+        "In Transit": "🟡 In Transit",
+        "Needed": "🔴 Needed",
+    }
+    return mapping.get(s, s)
+
+
+df["Status"] = df["Status"].apply(status_badge)
+df.index = range(1, len(df) + 1)
+```
+
+```{python}
+#| label: summary-stats
+
+total      = len(df)
+received   = df["Status"].str.startswith("🟢").sum()
+in_transit = df["Status"].str.startswith("🟡").sum()
+needed     = df["Status"].str.startswith("🔴").sum()
+pct        = round((received / total) * 100)
+```
+
+### Library Progress
+
+::: {.grid}
+
+::: {.g-col-3}
+::: {.callout-note icon=false}
+**📦 Total Books**
+
+# `{python} total`
+on the wishlist
+:::
+:::
+
+::: {.g-col-3}
+::: {.callout-tip icon=false}
+**🟢 Received**
+
+# `{python} int(received)`
+already on the shelf
+:::
+:::
+
+::: {.g-col-3}
+::: {.callout-warning icon=false}
+**🟡 In Transit**
+
+# `{python} int(in_transit)`
+on the way to us
+:::
+:::
+
+::: {.g-col-3}
+::: {.callout-important icon=false}
+**🔴 Still Needed**
+
+# `{python} int(needed)`
+waiting for a donor
+:::
+:::
+
+:::
+
+**`{python} pct`% of our library goal reached.** Every book brings us closer.
+
+---
+
+### Full Book List
+
+```{python}
+#| label: interactive-table
+
+show(
+    df,
+    columnDefs=[
+        {"width": "14%",  "targets": 0},   # Subject
+        {"width": "30%",  "targets": 1},   # Title
+        {"width": "20%",  "targets": 2},   # Author
+        {"width": "14%",  "targets": 3},   # Status
+        {"width": "22%",  "targets": 4},   # Notes
+    ],
+    layout={
+        "topStart":  "search",
+        "topEnd":    "pageLength",
+        "bottomStart":"info",
+        "bottomEnd": "paging",
+    },
+    lengthMenu=[10, 20, 40],
+    pageLength=20,
+    style="width:100%",
+    caption="SARA Foundation Library — Book Donation Wishlist",
+    classes="display compact stripe hover",
+)
+```
+
+---
+
+## By Subject
+
+```{python}
+#| label: subject-summary
+
+summary = (
+    df.groupby("Subject")["Status"]
+    .value_counts()
+    .unstack(fill_value=0)
+    .reset_index()
+)
+
+# Ensure all columns exist
+for col in ["🟢 Received", "🟡 In Transit", "🔴 Needed"]:
+    if col not in summary.columns:
+        summary[col] = 0
+
+summary["Total"] = summary[["🟢 Received", "🟡 In Transit", "🔴 Needed"]].sum(axis=1)
+summary = summary[["Subject", "🟢 Received", "🟡 In Transit", "🔴 Needed", "Total"]]
+summary = summary.sort_values("Subject").reset_index(drop=True)
+summary.index = range(1, len(summary) + 1)
+
+show(
+    summary,
+    paging=False,
+    searching=False,
+    info=False,
+    style="width:60%",
+    classes="display compact stripe",
+    caption="Donation status by subject",
+)
+```
+
+---
+
+## How to Notify Us
+
+After sending a book, please email us at **[sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)** with:
+
+1. Your **name** (for acknowledgement)
+2. The **book title** you are donating
+3. Whether you sent an **old copy** or purchased a **new one**
+4. Your **city / country** (so we can thank our community publicly if you wish)
+
+We update this list regularly. Thank you for supporting free, dignified education. 
+
+---
+
+::: {.callout-note icon=false}
+*This list is maintained by SARA Institute of Data Science, Sonipat. Last updated: `{python} pd.Timestamp.today().strftime('%d %B %Y')`*
+:::
