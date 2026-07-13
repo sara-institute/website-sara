@@ -1,5 +1,5 @@
 ---
-title: "Annihilation of Caste | Dr. B.R. Ambedkar"
+title: "Annihilation of Caste - Dr. B.R. Ambedkar"
 subtitle: "2nd Book Discussion"
 #subtitle: "SARA Book Club"
 image: flyer-ambedkar.png
@@ -13,11 +13,13 @@ lightbox: true
 
 The SARA Book Club returns for its second session with one of the most important texts in Indian intellectual history - Dr. B.R. Ambedkar's Annihilation of Caste. Written in 1936 and as urgent as ever, this book challenges us to confront the foundations of caste society and imagine a world beyond it.
 
-The session will feature a **presenter, [Dr. Ajay Koli](https://www.linkedin.com/in/ajay-kumar-koli/),**  who will walk us through the key arguments of the text, a **subject expert [Dr. Vivek Kumar Singh](https://www.linkedin.com/in/vivek-kumar-singh-jnu/)** who will offer deeper context and insight, and a **moderator [Dr. Cecilia Baldoni](https://www.linkedin.com/in/cecilia-baldoni/)** to guide an open and thoughtful discussion. Whether you have read every word or are coming to Ambedkar for the first time, you are welcome at this table.
+The session will feature a **presenter, [Dr. Ajay Koli](https://www.linkedin.com/in/ajay-kumar-koli/),**  who will walk us through the key arguments of the text, a **subject expert [Dr. Vivek Kumar Singh](https://www.linkedin.com/in/vivek-kumar-singh-jnu/)** who will offer deeper context and insight, and a **moderator [Prof. Samantha MacBride](https://www.linkedin.com/in/samantha-macbride-1664815/)** to guide an open and thoughtful discussion. Whether you have read every word or are coming to Ambedkar for the first time, you are welcome at this table.
+
+<!-- [Dr. Cecilia Baldoni](https://www.linkedin.com/in/cecilia-baldoni/) -->
 
 ---------
 
-🗓 Date: 10 July 2026
+🗓 Date: 20 July 2026
 
 🕐 Time: 8 PM IST
 
@@ -31,4 +33,17 @@ The discussion will be held on Zoom. To receive your meeting link, please contac
 
 Join us. Read, question, and discuss - because education that does not disturb the comfortable is not education at all.
 
-![](flyer-ambedkar.png)
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 125.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHOTxv9T5M/Jh126ISUOeBEoCKxrfxxMw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHOTxv9T5M&#x2F;Jh126ISUOeBEoCKxrfxxMw&#x2F;view?utm_content=DAHOTxv9T5M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2026-07-11</a> by SARA
+
+### 📺 Watch 1st Discussion on YouTube
+
+{{< video https://youtu.be/3FiG1TcJ1f8?si=1qTkjyaMRy1g7A9f >}}

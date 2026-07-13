@@ -1,5 +1,5 @@
 ---
-title: "Unmaking AI | Dr. Joy Buolamwini"
+title: "Unmasking AI - Dr. Joy Buolamwini"
 subtitle: "1st Book Discussion"
 image: flyer-joe.png
 format: html

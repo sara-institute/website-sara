@@ -32,9 +32,15 @@ Here you will find schedules for our special online events:
 ::: {.col}
 ::: {.card}
 
+## 9 July 2026 Ghana R Conference
 
+Our co-founder and Executive Director Dr. Ajay Koli was invited as an online speaker at the Ghana R Conference 2026 held at Accra, Ghana from 9-10 July 2026 with the theme: "Ghana Digitalisation Drive: Transforming the AI Eco-Space of Ghana with R Software". His talk title was "R for Beginners".
 
-## 27 March 2026
+![](images/ghana-r-conf.png){width="30%" fig-align="center"}
+
+---
+
+## 22 March 2026
 
 🎉 The 2nd SARA Bootcamp just wrapped up!
 
@@ -50,7 +56,7 @@ Prof. Samantha MacBride from Baruch College, USA delivered this pro-bono Guest L
 
 -----
 
-## SBI Guest Lecture
+## 22 March 2026 SBI Guest Lecture
 
 A heartfelt thank you to the [SBI SC/ST Employees Welfare Association](https://www.sbisewa.com/) for the warm invitation to be part of your platform! 🙏🏽 
 

@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/news.html</loc>
-    <lastmod>2026-07-03T05:40:25.364Z</lastmod>
+    <lastmod>2026-07-12T04:43:19.752Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/donate.html</loc>
@@ -69,6 +69,10 @@
     <lastmod>2026-01-10T05:23:39.014Z</lastmod>
   </url>
   <url>
+    <loc>https://sara-edu.netlify.app/book-club/2026-07-10-ambedkar/index.html</loc>
+    <lastmod>2026-07-12T05:01:28.302Z</lastmod>
+  </url>
+  <url>
     <loc>https://sara-edu.netlify.app/book-club.html</loc>
     <lastmod>2026-07-04T07:20:58.387Z</lastmod>
   </url>
@@ -78,7 +82,11 @@
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/book-club/2026-02-03-joe/index.html</loc>
-    <lastmod>2026-07-04T07:18:49.100Z</lastmod>
+    <lastmod>2026-07-12T04:45:17.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations.html</loc>
+    <lastmod>2026-07-13T04:51:49.980Z</lastmod>
   </url>
   <url>
     <loc>https://sara-edu.netlify.app/bootcamp/2025-bootcamp/index.html</loc>
@@ -143,13 +151,5 @@
   <url>
     <loc>https://sara-edu.netlify.app/workshops/mdu-eco/index.html</loc>
     <lastmod>2026-01-10T05:23:39.280Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/book-club/books-donation/sara_book_donations.html</loc>
-    <lastmod>2026-07-04T07:41:38.058Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sara-edu.netlify.app/book-club/2026-07-10-ambedkar/index.html</loc>
-    <lastmod>2026-07-04T07:16:21.225Z</lastmod>
   </url>
 </urlset>
