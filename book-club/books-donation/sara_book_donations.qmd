@@ -122,10 +122,10 @@ books = [
         "Science",
         "The Gene: An Intimate History",
         "Siddhartha Mukherjee",
-        "In Transit",
+        "Received",
         "Niraj Kushwaha donated",
     ),
-    ("Science", "Cosmos", "Carl Sagan", "In Transit", "Niraj Kushwaha donated"),
+    ("Science", "Cosmos", "Carl Sagan", "Received", "Niraj Kushwaha donated"),
     # HISTORY
     (
         "History",
