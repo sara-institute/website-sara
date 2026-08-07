@@ -198,6 +198,8 @@ body { font-family: 'Inter', sans-serif; color: #1a1a1a; line-height: 1.7; }
 
 ## About the Summer School
 
+![](2026-07-29.png)
+
 We are excited to announce the **3rd SARA Summer School on R for Researchers** -- a five-day intensive, hands-on workshop designed to equip researchers with practical R programming skills for data analysis, visualisation, and reproducible research.
 
 This is a **non-profit event with no tuition fee**. Participants only contribute toward food and accommodation. A limited number of fully funded seats are available for deserving applicants.

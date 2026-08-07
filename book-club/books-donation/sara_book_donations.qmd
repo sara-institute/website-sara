@@ -115,7 +115,7 @@ books = [
         "",
     ),
     # SCIENCE
-    ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Needed", ""),
+    ("Science", "A Short History of Nearly Everything", "Bill Bryson", "In Transit", "Anil Kumar USA donated"),
     ("Science", "The Magic of Reality", "Richard Dawkins", "Needed", ""),
     ("Science", "What If?", "Randall Munroe", "Needed", ""),
     (
@@ -269,7 +269,7 @@ needed     = df["Status"].str.startswith("🔴").sum()
 pct        = round((received / total) * 100)
 ```
 
-### Library Progress
+### SARA Library Progress
 
 ::: {.grid}
 
