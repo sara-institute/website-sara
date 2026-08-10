@@ -79,7 +79,7 @@ Use the **search box** to find a specific book, or **filter by subject or status
 
 books = [
     # GEOGRAPHY
-    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "Needed", ""),
+    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "In Transit", ""),
     (
         "Geography",
         "Geography: Realms, Regions, and Concepts",
@@ -115,7 +115,7 @@ books = [
         "",
     ),
     # SCIENCE
-    ("Science", "A Short History of Nearly Everything", "Bill Bryson", "In Transit", "Anil Kumar USA donated"),
+    ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Received", "Anil Kumar USA donated"),
     ("Science", "The Magic of Reality", "Richard Dawkins", "Needed", ""),
     ("Science", "What If?", "Randall Munroe", "Needed", ""),
     (

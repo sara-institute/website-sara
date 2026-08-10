@@ -208,6 +208,23 @@ Whether you are new to R or looking to sharpen your analytical toolkit, this sum
 
 ![](speakers.png)
 
+### 📺 Watch Highlights
+
+{{< video https://youtu.be/PpUIT1rUr-Q?si=xr6hwTpghQs7SXJ8 >}}
+
+<br>
+
+### 📺 Watch Prof. Jessica Mar Session
+
+{{< video https://youtu.be/znZLR8N6zBY?si=5dRBZhSLfzRnCP0m >}}
+
+
+<br>
+
+### 📺 Watch Dr. Ozan Evkaya Session
+
+{{< video https://youtu.be/fbnmwLksmsA?si=teIlyA3d7WCtHBtY >}}
+
 ---
 
 ## What You will Learn 

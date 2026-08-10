@@ -33,17 +33,28 @@ The discussion will be held on Zoom. To receive your meeting link, please contac
 
 Join us. Read, question, and discuss - because education that does not disturb the comfortable is not education at all.
 
-
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 125.0000%;
+<!-- <div style="position: relative; width: 100%; height: 0; padding-top: 125.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https://www.canva.com/design/DAHOTxv9T5M/Jh126ISUOeBEoCKxrfxxMw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHOTxv9T5M&#x2F;Jh126ISUOeBEoCKxrfxxMw&#x2F;view?utm_content=DAHOTxv9T5M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2026-07-11</a> by SARA
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHOTxv9T5M&#x2F;Jh126ISUOeBEoCKxrfxxMw&#x2F;view?utm_content=DAHOTxv9T5M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">2026-07-11</a> by SARA -->
 
 ### 📺 Watch 1st Discussion on YouTube
 
 {{< video https://youtu.be/3FiG1TcJ1f8?si=1qTkjyaMRy1g7A9f >}}
+
+<br>
+
+### 📺 Watch 2nd Discussion on YouTube
+
+{{< video https://youtu.be/1LtsM5Qh8_g?si=4V4fH_hsOZ-Qsl0m >}}
+
+
+<br>
+
+### 📺 Watch 3rd Discussion on YouTube
+
+{{< video https://youtu.be/5EUw2vOy9TE?si=5KLV8gZ7mTXVZDW3 >}}
