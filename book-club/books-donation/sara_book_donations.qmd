@@ -104,8 +104,8 @@ books = [
         "Social Science",
         "Sapiens: A Brief History of Humankind",
         "Yuval Noah Harari",
-        "Needed",
-        "",
+        "In Transit",
+        "PM Donated",
     ),
     (
         "Social Science",
@@ -116,7 +116,7 @@ books = [
     ),
     # SCIENCE
     ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Received", "Anil Kumar USA donated"),
-    ("Science", "The Magic of Reality", "Richard Dawkins", "Needed", ""),
+    ("Science", "The Magic of Reality", "Richard Dawkins", "In Transit", "PM Donated"),
     ("Science", "What If?", "Randall Munroe", "Needed", ""),
     (
         "Science",
@@ -136,7 +136,7 @@ books = [
     ),
     ("History", "A Little History of the World", "E.H. Gombrich", "Needed", ""),
     ("History", "The History Book (DK)", "DK Publishing", "Needed", ""),
-    ("History", "India After Gandhi", "Ramachandra Guha", "Needed", ""),
+    ("History", "India After Gandhi", "Ramachandra Guha", "In Transit", "PM Donated"),
     ("History", "The History of the Ancient World", "Susan Wise Bauer", "Needed", ""),
     # ENVIRONMENTAL SCIENCE
     (
