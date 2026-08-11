@@ -79,7 +79,7 @@ Use the **search box** to find a specific book, or **filter by subject or status
 
 books = [
     # GEOGRAPHY
-    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "In Transit", ""),
+    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "In Transit", "Vaishnavi Humane donated"),
     (
         "Geography",
         "Geography: Realms, Regions, and Concepts",
@@ -89,7 +89,7 @@ books = [
     ),
     ("Geography", "Introducing Physical Geography", "Alan H. Strahler", "Needed", ""),
     ("Geography", "How to Lie with Maps", "Mark Monmonier", "Needed", ""),
-    ("Geography", "The Power of Geography", "Tim Marshall", "Needed", ""),
+    ("Geography", "The Power of Geography", "Tim Marshall", "In Transit", "Anand Kamble donated"),
     # SOCIAL SCIENCE
     ("Social Science", "Sociology", "Anthony Giddens", "Needed", ""),
     (
@@ -146,7 +146,7 @@ books = [
         "Needed",
         "",
     ),
-    ("Environmental Science", "Silent Spring", "Rachel Carson", "Needed", ""),
+    ("Environmental Science", "Silent Spring", "Rachel Carson", "In Transit", "Anand Kamble donate"),
     ("Environmental Science", "A Sand County Almanac", "Aldo Leopold", "Needed", ""),
     (
         "Environmental Science",
