@@ -79,7 +79,7 @@ Use the **search box** to find a specific book, or **filter by subject or status
 
 books = [
     # GEOGRAPHY
-    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "In Transit", "Vaishnavi Humane donated"),
+    ("Geography", "Guns, Germs, and Steel", "Jared Diamond", "Received", "Vaishnavi Humane donated"),
     (
         "Geography",
         "Geography: Realms, Regions, and Concepts",
@@ -104,7 +104,7 @@ books = [
         "Social Science",
         "Sapiens: A Brief History of Humankind",
         "Yuval Noah Harari",
-        "In Transit",
+        "Received",
         "PM Donated",
     ),
     (
@@ -116,7 +116,7 @@ books = [
     ),
     # SCIENCE
     ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Received", "Anil Kumar USA donated"),
-    ("Science", "The Magic of Reality", "Richard Dawkins", "In Transit", "PM Donated"),
+    ("Science", "The Magic of Reality", "Richard Dawkins", "Received", "PM Donated"),
     ("Science", "What If?", "Randall Munroe", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     (
         "Science",
@@ -159,7 +159,7 @@ books = [
         "Environmental Science",
         "How to Avoid a Climate Disaster",
         "Bill Gates",
-        "In Transit",
+        "Received",
         "Zian Monika Swaroop Thool (Boston, USA) donated",
     ),
     # MATHEMATICS
@@ -235,7 +235,7 @@ books = [
         "Civics & Polity",
         "Why Nations Fail",
         "Daron Acemoglu & James Robinson",
-        "In Transit",
+        "Received",
         "Zian Monika Swaroop Thool (Boston, USA) Donated",
     ),
     ("Civics & Polity", "Development as Freedom", "Amartya Sen", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
