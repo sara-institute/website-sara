@@ -111,13 +111,13 @@ books = [
         "Social Science",
         "Outliers: The Story of Success",
         "Malcolm Gladwell",
-        "In Transit",
+        "Received",
         "Zian Monika Swaroop Thool (Boston, USA) Donated",
     ),
     # SCIENCE
     ("Science", "A Short History of Nearly Everything", "Bill Bryson", "Received", "Anil Kumar USA donated"),
     ("Science", "The Magic of Reality", "Richard Dawkins", "Received", "PM Donated"),
-    ("Science", "What If?", "Randall Munroe", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
+    ("Science", "What If?", "Randall Munroe", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     (
         "Science",
         "The Gene: An Intimate History",
@@ -147,7 +147,7 @@ books = [
         "",
     ),
     ("Environmental Science", "Silent Spring", "Rachel Carson", "In Transit", "Anand Kamble donated"),
-    ("Environmental Science", "A Sand County Almanac", "Aldo Leopold", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
+    ("Environmental Science", "A Sand County Almanac", "Aldo Leopold", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     (
         "Environmental Science",
         "Textbook of Environmental Studies",

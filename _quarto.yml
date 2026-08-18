@@ -75,7 +75,7 @@ website:
         
       
   page-footer:
-    background: "#003262"
+    background: "#1e3a5f"
     left: "SARA Institute &copy; 2026"
     center:
       - text: "{{< iconify fa6-brands bluesky >}}"

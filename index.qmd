@@ -8,6 +8,7 @@ include-in-header:
         border-bottom: none;
       }
     </style>
+theme: cosmos    
 ---
 
 ::: {.centering .banner-blue .column-screen}
