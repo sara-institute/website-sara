@@ -1,32 +1,9 @@
 [
   {
-    "listing": "/winter.html",
+    "listing": "/offline.html",
     "items": [
-      "/winter/2025-stats-winter/index.html",
-      "/winter/2024-stats-winter/index.html"
-    ]
-  },
-  {
-    "listing": "/summer.html",
-    "items": [
-      "/summer/2026-r4b/index.html",
-      "/summer/2025-r4b/index.html",
-      "/summer/2024-r4b/index.html"
-    ]
-  },
-  {
-    "listing": "/online.html",
-    "items": [
-      "/online/d3-viz-course/index.html",
-      "/online/data-viz-course/index.html",
-      "/online/python-course/index.html"
-    ]
-  },
-  {
-    "listing": "/bootcamp.html",
-    "items": [
-      "/bootcamp/2026-bootcamp/index.html",
-      "/bootcamp/2025-bootcamp/index.html"
+      "/offline/computer/index.html",
+      "/offline/english/index.html"
     ]
   },
   {
@@ -38,10 +15,34 @@
     ]
   },
   {
-    "listing": "/offline.html",
+    "listing": "/bootcamp.html",
     "items": [
-      "/offline/computer/index.html",
-      "/offline/english/index.html"
+      "/bootcamp/2026-bootcamp/index.html",
+      "/bootcamp/2025-bootcamp/index.html"
+    ]
+  },
+  {
+    "listing": "/online.html",
+    "items": [
+      "/online/d3-viz-course/index.html",
+      "/online/data-viz-course/index.html",
+      "/online/python-course/index.html"
+    ]
+  },
+  {
+    "listing": "/summer.html",
+    "items": [
+      "/summer/2026-r4b/index.html",
+      "/summer/2025-r4b/index.html",
+      "/summer/2024-r4b/index.html"
+    ]
+  },
+  {
+    "listing": "/winter.html",
+    "items": [
+      "/winter/2026-rstats-winter/index.html",
+      "/winter/2025-stats-winter/index.html",
+      "/winter/2024-stats-winter/index.html"
     ]
   },
   {

@@ -31,6 +31,13 @@ Here you will find schedules for our special online events:
 
 ::: {.col}
 ::: {.card}
+## 26 July 3rd SARA Summer School "R for Researchers"
+
+We successfully completed the 3rd SARA Summer School on "R for Researchers" - a five-day intensive, hands-on workshop designed to equip researchers with practical R programming skills for data analysis, visualisation, and reproducible research.
+
+{{< video https://youtu.be/PpUIT1rUr-Q?si=FevmCTNrV43jRpx1 >}}
+
+-----
 
 ## 9 July 2026 Ghana R Conference
 

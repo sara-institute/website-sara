@@ -134,9 +134,9 @@ books = [
         "Needed",
         "See Social Science copy",
     ),
-    ("History", "A Little History of the World", "E.H. Gombrich", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
+    ("History", "A Little History of the World", "E.H. Gombrich", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     ("History", "The History Book (DK)", "DK Publishing", "Needed", ""),
-    ("History", "India After Gandhi", "Ramachandra Guha", "In Transit", "PM Donated"),
+    ("History", "India After Gandhi", "Ramachandra Guha", "Received", "PM Donated"),
     ("History", "The History of the Ancient World", "Susan Wise Bauer", "Needed", ""),
     # ENVIRONMENTAL SCIENCE
     (
