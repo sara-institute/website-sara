@@ -85,10 +85,6 @@ Call us: 925 315 2024
 ::: {.col}
 ::: {.card}
 
-::: {.centering .lightbox}
-![](images/founders_sara.jpg){width=80%}
-:::
-
 **Get in Touch with SARA Institute of Data Science**
 
 We welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:
