@@ -11,21 +11,7 @@ listing:
 #page-layout: full
 title-block-banner: "#ffffff"
 title-block-style: default
-title-block-banner-color: "#003262"
+title-block-banner-color: "#1e3a5f"
 ---
-
-<!-- ::: {.col}
-::: {.card}
-
-::: {.centering}
-
-![](images/book-donation.png)
-
-:::
-
-
-
-:::
-::: -->
 
 <br>

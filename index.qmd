@@ -1,5 +1,5 @@
 ---
-pagetitle: "SARA | The Non-Profit Data Science Institute"
+pagetitle: "Savitribai Ramabai (SARA) Institute of Data Science"
 lightbox: true    
 include-in-header: 
   text: |
@@ -13,9 +13,9 @@ theme: cosmos
 
 ::: {.centering .banner-blue .column-screen}
 
-# [Coding is for Everyone]{.clr-white}
+# [Education for Everyone]{.clr-white}
 
-[No-cost courses in Data Science and Research]{.clr-white .p-mission}
+[Free, Open-source & Inclusive Data Science Education]{.clr-white .p-mission}
 
 :::
 
@@ -37,7 +37,7 @@ theme: cosmos
 
 # Our Mission 
 
-[We believe coding is for everyone. SARA offers no-cost courses in coding, data analysis, statistics and research - open to all, no matter your background, degree or income. We all deserve a chance to learn.]{.p-mission}
+[We believe data science education belongs to everyone. SARA offers free courses in coding, data analysis, statistics & research - open to all, no matter your background, degree, or income. We all deserve a fair chance to learn.]{.p-mission}
 
 ::: {.button}
 [Start Learning](summer.qmd)
@@ -276,13 +276,13 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::: {.column-screen .banner-white}
 
+![](images/memories-sara.png)
 
-![](images/visit-lehrara.png)
 ::::
 
 :::: {.column-page .banner-white .centering}
 
-# Sponsor a Student's Journey
+# Support SARA
 
 [Your contribution breaks barriers and opens doors to data science careers for marginalized communities and women.]{.p-mission}
 
@@ -310,7 +310,11 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::: {.col}
 
-![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Co-founder & Exec. Director, SARA Institute<br>[koliajaykumar\@gmail.com](mailto:%20koliajaykumar@gmail.com)
+:::
+
+::: {.col}
+
+![](images/ajay.png){width=65%}<br>Dr. Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)<br>Founder & Director, SARA Institute<br>[koliajaykumar\@gmail.com](mailto:%20koliajaykumar@gmail.com)
 
 :::
 
@@ -318,9 +322,6 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 :::
 
-::: {.col}
-![](images/kiran.png){width=65%}<br>Dr. Kiran Lata, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/dr-kiran-koli-85263a5b/)<br>Co-founder & Director, SARA Institute<br>[kolikiranlata\@gmail.com](mailto:%20kolikiranlata@gmail.com)
-:::
 
 ::: {.col}
 :::
@@ -334,6 +335,6 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 [With your support, we build SARA for a brighter future.]{.p-mission}
 
 
-[Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Courses](index.qmd) &nbsp; [Trainings](index.qmd) &nbsp; [News & Events](news.qmd) &nbsp; [Donate](donate.qmd) &nbsp; [Contact](contact.qmd)
+[Home](index.qmd) &nbsp; [About](about.qmd) &nbsp; [Data Schools](summer.qmd) &nbsp; [Online Classes](online.qmd) &nbsp; [News](news.qmd) &nbsp; [Donate](donate.qmd) &nbsp; [Contact](contact.qmd)
 
 :::

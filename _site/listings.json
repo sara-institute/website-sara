@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/summer.html",
+    "items": [
+      "/summer/2026-r4b/index.html",
+      "/summer/2025-r4b/index.html",
+      "/summer/2024-r4b/index.html"
+    ]
+  },
+  {
     "listing": "/offline.html",
     "items": [
       "/offline/computer/index.html",
@@ -24,17 +32,10 @@
   {
     "listing": "/online.html",
     "items": [
-      "/online/d3-viz-course/index.html",
-      "/online/data-viz-course/index.html",
-      "/online/python-course/index.html"
-    ]
-  },
-  {
-    "listing": "/summer.html",
-    "items": [
-      "/summer/2026-r4b/index.html",
-      "/summer/2025-r4b/index.html",
-      "/summer/2024-r4b/index.html"
+      "/online/2026-08-20-sapiens/index.html",
+      "/online/2025-10-24-d3-viz-course/index.html",
+      "/online/2025-06-18-excel-viz-course/index.html",
+      "/online/2025-04-19-python-course/index.html"
     ]
   },
   {

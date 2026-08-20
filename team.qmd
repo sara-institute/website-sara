@@ -1,0 +1,43 @@
+---
+pagetitle: "Team"
+page-layout: full
+backgroundcolor: "#e9e9e9"
+format: html
+css: styles.css
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+# SARA Team
+
+## SARA Trustees
+
+
+::: {.col}
+::: {.card}
+
+![](images/trustees.png)
+
+:::
+:::
+
+<br>
+
+## SARA Guest Speakers 2025-26
+
+
+::: {.col}
+::: {.card}
+
+![](images/guest-speakers25-26.png)
+
+:::
+:::
+
+<br>
+

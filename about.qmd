@@ -26,11 +26,11 @@ title-block-banner-color: "#003262"
 
 ::: {.centering}
 
-![](images/banner-cofe.png){fig-align="left"}
+![](images/banner-edu-all.png){fig-align="left"}
 
 :::
 
-Coding is for everyone. That is not a slogan. It is a belief we build on every day.
+Education is for everyone. It is a belief we build SARA every day.
 
 ## Why SARA exists
 
@@ -58,22 +58,22 @@ We teach skills that are in real demand - R, Python, statistics, data visualisat
 
 ::: {.centering}
 
-![](images/founders-kiran-ajay.jpeg)
+![](images/founder-ajay.jpeg)
 :::
 
 ## Who We Are
 
-**The SARA Education Trust (Registered)** was founded by Dr. Ajay and Dr. Kiran, along with seven trustees, with the vision to transform education and make learning accessible to all. Their unwavering commitment led to the establishment of the **Savitribai Ramabai (SARA) Institute of Data Science** in April 2023.  
+**The SARA Education Trust (Registered)** was founded by Dr. Ajay Kumar Koli, along with eight other trustees, with the vision to transform education and make learning accessible to all. Their unwavering commitment led to the establishment of the **Savitribai Ramabai (SARA) Institute of Data Science in April 2023.**
 
-**Dr. Ajay Kumar Koli**, a Ph.D. in Management Studies from the University of Hyderabad, has extensive experience teaching Market Research and Research Methodologies as an Assistant Professor in Pune. **Dr. Kiran Lata**, a Ph.D. in Dairy Chemistry from NDRI - Karnal, has published over fifteen research papers in food technology and brings years of academic and research experience as an Assistant Professor.  
+**Dr. Ajay Kumar Koli, Founder and Director of SARA,** holds a Ph.D. in Management Studies from the University of Hyderabad and brings extensive experience teaching Market Research and Research Methodologies as an Assistant Professor in Pune.
 
-At SARA, they believe in breaking barriers to education. The institute offers **tuition-free courses** in data science, computer skills, English language proficiency, and research methodologies, ensuring that quality education is accessible to all.  
+At SARA, they believe in breaking barriers to education. The institute offers tuition-free courses in data science, computer skills, English language proficiency, and research methodologies, ensuring that quality education is accessible to all.
 
-Currently based in Sonipat, Dr. Ajay and Dr. Kiran reside in a rented house, passionately dedicating themselves to the growth of SARA while embracing their roles as educators and proud parents to their beautiful daughter.  
+Currently based in Sonipat, Dr. Ajay resides with his family in a rented house, passionately dedicating themselves to the growth of SARA while embracing their roles as educators and proud parents to their beautiful daughter.
 
-Their journey is made possible through the invaluable support of **The Ambedkar Educational Society, Sonipat**, which generously provides the space at the esteemed Dr. Ambedkar Bhawan for conducting SARA's classes.  
+Their journey is made possible through the invaluable support of **The Ambedkar Educational Society, Sonipat, Haryana**, which generously provides space at the esteemed Dr. Ambedkar Bhawan for conducting SARA's classes.
 
-With a steadfast commitment to inclusivity and excellence, Dr. Ajay and Dr. Kiran continue to inspire and empower students, fostering a brighter and more equitable future through the educational initiatives at SARA Institute.  
+With a steadfast commitment to inclusivity and excellence, Dr. Ajay Kumar Koli continues to inspire and empower students, fostering a brighter and more equitable future through the educational initiatives at SARA Institute. 
 
 :::
 :::

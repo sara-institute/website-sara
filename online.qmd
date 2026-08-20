@@ -1,16 +1,39 @@
 ---
-title: "SARA Studio - *Online Courses*"
+title: "Online Lectures"
+subtitle: "Free | Online | Open to All"
 listing:
-  contents: online
+  contents: "online"
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
 #page-layout: full
 title-block-banner: "#ffffff"
 title-block-style: default
-title-block-banner-color: "#003262"
+title-block-banner-color: "#1e3a5f"
 ---
 
+## About Bridge Course
 
+A free, online foundational program designed to bridge the learning gap for first-generation students preparing for higher education. Covering essential subjects and exam-readiness skills, this course is built to give every student - regardless of background or resources - a fair starting point.
+
+## Next Class Schedule
+
+|                |                                      |
+|----------|--------------------------------------|
+|**Subject**     | History                              |
+|**Book**        | *Sapiens: A Brief History of Humankind* by *Yuval Noah Harari*|
+|**Date**        | Yet to be confirmed                                           |
+|**Time**        | Yet to be confirmed       |
+|**Mode**        | Online via Zoom (Email or DM for Zoon Link) (sessions recorded)       |
+|**Frequency**   | 2 days a week       |
+|**Duration**    | 90 minutes per session (60 min lecture + 30 min open discussion)|
+|**Eligibility** | Open to all - all ages, all backgrounds welcome|
+|**Fee**             |            Free|
+|**Language**             |            Hindi & English|
+
+
+<br>
+
+---

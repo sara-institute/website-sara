@@ -1,0 +1,20 @@
+---
+title: "Sapiens: A Brief History of Humankind - Yuval Harari"
+subtitle: ""
+date: "20 August 2026"
+author: "Ajay Koli"
+#subtitle: "SARA Book Club"
+image: sapiens.jpg
+format: html
+embed-resources: true
+#description: "Annihilation of Caste | Dr. B.R. Ambedkar"
+categories: [History, Nonfiction, Science]
+pagetitle: "Book Club"
+lightbox: true    
+---
+
+## About This Program
+
+SARA Institute of Data Science is launching a free, online lecture series on Yuval Noah Harari's Sapiens: A Brief History of Humankind - delivered entirely in Hindi, open to all age groups, and designed to bridge essential education gaps for anyone who wants to engage with big ideas, regardless of their educational background, age, or English proficiency.
+
+In keeping with SARA's mission of accessible education, this series has no eligibility criteria, no fees, and no prerequisites - just curiosity.
