@@ -1,5 +1,6 @@
 ---
 title: "SARA Data Science Winter School"
+subtitle: "Non Profit Event"
 listing:
   contents: winter
   sort: "date desc"

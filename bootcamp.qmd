@@ -1,5 +1,6 @@
 ---
 title: "SARA Data Science Bootcamp"
+subtitle: "Non-profit Event | Completely free for all women in celebration of International Women's Day "
 listing:
   contents: bootcamp
   sort: "date desc"

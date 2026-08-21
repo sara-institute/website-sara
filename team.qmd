@@ -15,16 +15,35 @@ include-in-header:
 
 # SARA Team
 
-## SARA Trustees
 
+
+## SARA Volunteers
+
+:::: {.layout-grid-img}
 
 ::: {.col}
 ::: {.card}
 
-![](images/trustees.png)
+![](images/members/sam-madam.jpg)
+
+**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)        
+New York, USA.
 
 :::
 :::
+
+::: {.col}
+::: {.card}
+
+![](images/members/ceci.jpg)
+
+**Dr. Cecilia Baldoni** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/cecilia-baldoni/)      
+Constance, Germany
+
+:::
+:::
+
+::::
 
 <br>
 
@@ -41,3 +60,13 @@ include-in-header:
 
 <br>
 
+## SARA Trustees
+
+
+::: {.col}
+::: {.card}
+
+![](images/trustees.png)
+
+:::
+:::

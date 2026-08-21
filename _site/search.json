@@ -25,7 +25,7 @@
     "href": "winter/2026-rstats-winter/index.html#program-details",
     "title": "STATISTICS USING R",
     "section": "Program Details",
-    "text": "Program Details\n\n\n\n\n\n\n\nDates\n20–24 November 2026 (Friday to Tuesday\n\n\nDuration\n5 days, approximately 40 instructional hours\n\n\nMode\nOffline\n\n\nVenue\nDr. Ambedkar Bhawan, Sonipat, Haryana\n\n\nSeats\nLimited to 25 participants\n\n\nFee\n₹5,000 (includes all meals and shared accommodation for 5 days)\n\n\nFee Waiver\nAvailable on request, no questions asked\n\n\nEligibility\nOpen to students and early researchers from Social Science and Humanities backgrounds — no prior coding or statistics experience required"
+    "text": "Program Details\n\n\n\n\n\n\n\nDates\n20–24 November 2026 (Friday to Tuesday\n\n\nDuration\n5 days, approximately 40 instructional hours\n\n\nMode\nOffline\n\n\nVenue\nDr. Ambedkar Bhawan, Sonipat, Haryana\n\n\nSeats\nLimited to 25 participants\n\n\nFee\n₹5,000 (includes all meals and shared accommodation for 5 days)\n\n\nFee Waiver\nAvailable on request, no questions asked\n\n\nEligibility\nOpen to students and early researchers from Social Science and Humanities backgrounds - no prior coding or statistics experience required"
   },
   {
     "objectID": "winter/2026-rstats-winter/index.html#curriculum-overview",
@@ -154,6 +154,20 @@
     "text": "05 April 2023, Launch of the SARA Institute at Terra City, Bhiwadi, Rajasthan.\n\n\n\nStudents, family & friends at the inaugration of SARA.\n\n\n\n\n\nFirst data science class at the SARA."
   },
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "SARA Team",
+    "section": "",
+    "text": "Dr. Samantha MacBride | \nNew York, USA.\n\n\n\n\n\nDr. Cecilia Baldoni | \nConstance, Germany"
+  },
+  {
+    "objectID": "team.html#sara-volunteers",
+    "href": "team.html#sara-volunteers",
+    "title": "SARA Team",
+    "section": "",
+    "text": "Dr. Samantha MacBride | \nNew York, USA.\n\n\n\n\n\nDr. Cecilia Baldoni | \nConstance, Germany"
+  },
+  {
     "objectID": "summer/2025-r4b/index.html#key-highlights",
     "href": "summer/2025-r4b/index.html#key-highlights",
     "title": "R for Researchers",
@@ -205,7 +219,7 @@
   {
     "objectID": "summer.html",
     "href": "summer.html",
-    "title": "2nd SARA Data Science Summer School",
+    "title": "SARA Data Science Summer School",
     "section": "",
     "text": "Star this Course on Github\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n3rd SARA Summer School 2026\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n2nd SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nOpen\n\n\n\nThank you! For the Successful Completion of the 5‑Day Data Science Summer School, “R for Researchers”, held from 25–29 July 2025\n\n\n\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n1st SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 22, 2024\n\n\n\n\n\nNo matching items"
   },
@@ -522,7 +536,7 @@
     "href": "bootcamp.html",
     "title": "SARA Data Science Bootcamp",
     "section": "",
-    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish Research using Quarto\n\n\n2nd SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nQuarto\n\n\n\nA hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome.\n\n\n\n\n\nAug 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublish using Quarto\n\n\n1st SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nCompleted\n\nQuarto\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish Research using Quarto\n\n\n2nd SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nQuarto\n\n\n\nA hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome.\n\n\n\n\n\nAug 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublish using Quarto\n\n\n1st SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nCompleted\n\nQuarto\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "bootcamp/2026-bootcamp/index.html#watch-video-to-see-the-highlights",
@@ -745,8 +759,8 @@
     "objectID": "online.html#next-class-schedule",
     "href": "online.html#next-class-schedule",
     "title": "Online Lectures",
-    "section": "Next Class Schedule",
-    "text": "Next Class Schedule\n\n\n\n\n\n\n\nSubject\nHistory\n\n\nBook\nSapiens: A Brief History of Humankind by Yuval Noah Harari\n\n\nDate\nYet to be confirmed\n\n\nTime\nYet to be confirmed\n\n\nMode\nOnline via Zoom (Email or DM for Zoon Link) (sessions recorded)\n\n\nFrequency\n2 days a week\n\n\nDuration\n90 minutes per session (60 min lecture + 30 min open discussion)\n\n\nEligibility\nOpen to all - all ages, all backgrounds welcome\n\n\nFee\nFree\n\n\nLanguage\nHindi & English"
+    "section": "🔊🔊🔊 Next Class Schedule",
+    "text": "🔊🔊🔊 Next Class Schedule\nSavitribai Ramabai (SARA) Institute of Data Science \\(\\cdot\\) SARA Bridge Course Level 1 \\(\\cdot\\) Class No. 001\n\n\n\n🎓 Subject\nHistory\n\n\n📘 Book\nSapiens: A Brief History of Humankind by Yuval Noah Harari\n\n\n📅 Date\nYet to be confirmed\n\n\n⏰ Time\nYet to be confirmed\n\n\n💻 Mode\nOnline via Zoom (Email or DM for Zoon Link) (sessions recorded)\n\n\n🔁 Frequency\n2 days a week\n\n\n⏱️ Duration\n90 minutes per session (60 min lecture + 30 min open discussion)\n\n\n🙏🏽 Eligibility\nOpen to all - all ages, all backgrounds welcome\n\n\n🤗 Fee\nFree\n\n\n🗣️ Language\nHindi & English\n\n\n☎️ Contact\n925 315 2024\n\n\n📧 Email\nsara.institute.info@gmail.com\n\n\n🔴 YouTube\nhttps://www.youtube.com/@SARADataScience"
   },
   {
     "objectID": "online/2025-06-18-excel-viz-course/index.html",
@@ -1054,7 +1068,7 @@
     "href": "winter.html",
     "title": "SARA Data Science Winter School",
     "section": "",
-    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTATISTICS USING R\n\n\n3rd SARA Winter School 2026\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n2nd SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\nEmpowering Social Science & Humanities Students with Data Skills\n\n\n\n\n\nAug 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n1st SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTATISTICS USING R\n\n\n3rd SARA Winter School 2026\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nAug 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n2nd SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\nEmpowering Social Science & Humanities Students with Data Skills\n\n\n\n\n\nJan 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n1st SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "winter/2025-stats-winter/index.html",

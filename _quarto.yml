@@ -70,7 +70,7 @@ website:
       
   page-footer:
     background: "#1e3a5f"
-    left: "SARA Institute &copy; 2026"
+    left: "SARA Institute &copy; 2023 - Present"
     center:
       - text: "{{< iconify fa6-brands bluesky >}}"
         href: https://bsky.app/profile/sarainstitute.bsky.social  

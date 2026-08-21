@@ -18,21 +18,25 @@ title-block-banner-color: "#1e3a5f"
 
 A free, online foundational program designed to bridge the learning gap for first-generation students preparing for higher education. Covering essential subjects and exam-readiness skills, this course is built to give every student - regardless of background or resources - a fair starting point.
 
-## Next Class Schedule
+## 🔊🔊🔊 Next Class Schedule
+
+Savitribai Ramabai (SARA) Institute of Data Science $\cdot$ SARA Bridge Course Level 1 $\cdot$ Class No. 001
 
 |                |                                      |
 |----------|--------------------------------------|
-|**Subject**     | History                              |
-|**Book**        | *Sapiens: A Brief History of Humankind* by *Yuval Noah Harari*|
-|**Date**        | Yet to be confirmed                                           |
-|**Time**        | Yet to be confirmed       |
-|**Mode**        | Online via Zoom (Email or DM for Zoon Link) (sessions recorded)       |
-|**Frequency**   | 2 days a week       |
-|**Duration**    | 90 minutes per session (60 min lecture + 30 min open discussion)|
-|**Eligibility** | Open to all - all ages, all backgrounds welcome|
-|**Fee**             |            Free|
-|**Language**             |            Hindi & English|
-
+|**🎓 Subject**     | History                              |
+|**📘 Book**        | *Sapiens: A Brief History of Humankind* by *Yuval Noah Harari*|
+|**📅 Date**        | Yet to be confirmed                                           |
+|**⏰ Time**        | Yet to be confirmed       |
+|**💻 Mode**        | Online via Zoom (Email or DM for Zoon Link) (sessions recorded)       |
+|**🔁 Frequency**   | 2 days a week       |
+|**⏱️ Duration**    | 90 minutes per session (60 min lecture + 30 min open discussion)|
+|**🙏🏽 Eligibility** | Open to all - all ages, all backgrounds welcome|
+|**🤗 Fee**             |            Free|
+|**🗣️ Language**        |            Hindi & English|
+|**☎️ Contact**         | 925 315 2024 |
+|**📧 Email**           | sara.institute.info@gmail.com |
+|**🔴 YouTube**   | <https://www.youtube.com/@SARADataScience> |
 
 <br>
 
