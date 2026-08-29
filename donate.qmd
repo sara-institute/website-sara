@@ -107,7 +107,7 @@ Main Office: +91 925 315 2024
 <br>
 
 **{{< fa envelope >}} Email:**<br>
-General & donation inquiries: <sara.institute.info@gmail.com>
+General & donation inquiries: **[sara.institute.info@gmail.com](mailto:sara.institute.info@gmail.com)**
 
 <br>
 

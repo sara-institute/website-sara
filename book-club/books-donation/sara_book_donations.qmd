@@ -91,7 +91,7 @@ books = [
     ("Geography", "How to Lie with Maps", "Mark Monmonier", "Needed", ""),
     ("Geography", "The Power of Geography", "Tim Marshall", "In Transit", "Anand Kamble donated"),
     # SOCIAL SCIENCE
-    ("Social Science", "Sociology", "Anthony Giddens", "Needed", ""),
+    ("Social Science", "Sociology", "Anthony Giddens", "In Transit", "PM Donated"),
     (
         "Social Science",
         "Introduction to Sociology (OpenStax)",
@@ -99,7 +99,7 @@ books = [
         "Needed",
         "",
     ),
-    ("Social Science", "The Sociological Imagination", "C. Wright Mills", "Needed", ""),
+    ("Social Science", "The Sociological Imagination", "C. Wright Mills", "In Transit", "PM Donated"),
     (
         "Social Science",
         "Sapiens: A Brief History of Humankind",
@@ -135,7 +135,7 @@ books = [
         "See Social Science copy",
     ),
     ("History", "A Little History of the World", "E.H. Gombrich", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
-    ("History", "The History Book (DK)", "DK Publishing", "Needed", ""),
+    ("History", "The History Book (DK)", "DK Publishing", "Received", "PM Donated"),
     ("History", "India After Gandhi", "Ramachandra Guha", "Received", "PM Donated"),
     ("History", "The History of the Ancient World", "Susan Wise Bauer", "Needed", ""),
     # ENVIRONMENTAL SCIENCE
@@ -168,10 +168,10 @@ books = [
         "Mathematics",
         "The Art of Problem Solving Vol. 1",
         "Richard Rusczyk & Sandor Lehoczky",
-        "Needed",
+        "In Transit",
         "",
     ),
-    ("Mathematics", "How to Solve It", "George Polya", "Needed", ""),
+    ("Mathematics", "How to Solve It", "George Polya", "In Transit", "PM Donated"),
     (
         "Mathematics",
         "Mathematics: From the Birth of Numbers",
@@ -192,7 +192,7 @@ books = [
         "General Knowledge",
         "Manorama Yearbook",
         "Malayala Manorama",
-        "In Transit",
+        "Received",
         "Zian Monika Swaroop Thool (Boston, USA) Donated",
     ),
     (
@@ -228,8 +228,8 @@ books = [
         "Civics & Polity",
         "Introduction to the Constitution of India",
         "D.D. Basu",
-        "Needed",
-        "",
+        "Received",
+        "PM Donated",
     ),
     (
         "Civics & Polity",
@@ -238,8 +238,8 @@ books = [
         "Received",
         "Zian Monika Swaroop Thool (Boston, USA) Donated",
     ),
-    ("Civics & Polity", "Development as Freedom", "Amartya Sen", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
-    ("Civics & Polity", "Politics in India", "Rajni Kothari", "In Transit", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
+    ("Civics & Polity", "Development as Freedom", "Amartya Sen", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
+    ("Civics & Polity", "Politics in India", "Rajni Kothari", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
 ]
 
 df = pd.DataFrame(books, columns=["Subject", "Title", "Author", "Status", "Notes"])
