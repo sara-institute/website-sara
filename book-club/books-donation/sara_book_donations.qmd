@@ -89,7 +89,7 @@ books = [
     ),
     ("Geography", "Introducing Physical Geography", "Alan H. Strahler", "Needed", ""),
     ("Geography", "How to Lie with Maps", "Mark Monmonier", "Needed", ""),
-    ("Geography", "The Power of Geography", "Tim Marshall", "In Transit", "Anand Kamble donated"),
+    ("Geography", "The Power of Geography", "Tim Marshall", "Received", "Anand Kamble donated"),
     # SOCIAL SCIENCE
     ("Social Science", "Sociology", "Anthony Giddens", "In Transit", "PM Donated"),
     (
@@ -131,8 +131,8 @@ books = [
         "History",
         "Sapiens: A Brief History of Humankind",
         "Yuval Noah Harari",
-        "Needed",
-        "See Social Science copy",
+        "Received",
+        "PM Donated",
     ),
     ("History", "A Little History of the World", "E.H. Gombrich", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     ("History", "The History Book (DK)", "DK Publishing", "Received", "PM Donated"),
@@ -146,7 +146,7 @@ books = [
         "Needed",
         "",
     ),
-    ("Environmental Science", "Silent Spring", "Rachel Carson", "In Transit", "Anand Kamble donated"),
+    ("Environmental Science", "Silent Spring", "Rachel Carson", "Received", "Anand Kamble donated"),
     ("Environmental Science", "A Sand County Almanac", "Aldo Leopold", "Received", "Zian Monika Swaroop Thool (Boston, USA) Donated"),
     (
         "Environmental Science",
@@ -171,7 +171,7 @@ books = [
         "In Transit",
         "",
     ),
-    ("Mathematics", "How to Solve It", "George Polya", "In Transit", "PM Donated"),
+    ("Mathematics", "How to Solve It", "George Polya", "Received", "PM Donated"),
     (
         "Mathematics",
         "Mathematics: From the Birth of Numbers",

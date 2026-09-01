@@ -43,6 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -183,14 +186,14 @@ ul.task-list li input[type="checkbox"] {
 <div class="layout-grid-img">
 <div class="col">
 <div class="card">
-<p><img src="images/members/sam-madam.jpg" class="img-fluid"></p>
+<p><a href="images/members/sam-madam.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/members/sam-madam.jpg" class="img-fluid"></a></p>
 <p><strong>Dr.&nbsp;Samantha MacBride</strong> | <a href="https://www.linkedin.com/in/samantha-macbride-1664815/"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a><br>
 New York, USA.</p>
 </div>
 </div>
 <div class="col">
 <div class="card">
-<p><img src="images/members/ceci.jpg" class="img-fluid"></p>
+<p><a href="images/members/ceci.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/members/ceci.jpg" class="img-fluid"></a></p>
 <p><strong>Dr.&nbsp;Cecilia Baldoni</strong> | <a href="https://www.linkedin.com/in/cecilia-baldoni/"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></a><br>
 Constance, Germany</p>
 </div>
@@ -202,7 +205,7 @@ Constance, Germany</p>
 <h2 class="anchored" data-anchor-id="sara-guest-speakers-2025-26">SARA Guest Speakers 2025-26</h2>
 <div class="col">
 <div class="card">
-<p><img src="images/guest-speakers25-26.png" class="img-fluid"></p>
+<p><a href="images/guest-speakers25-26.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/guest-speakers25-26.png" class="img-fluid"></a></p>
 </div>
 </div>
 <p><br></p>
@@ -211,7 +214,7 @@ Constance, Germany</p>
 <h2 class="anchored" data-anchor-id="sara-trustees">SARA Trustees</h2>
 <div class="col">
 <div class="card">
-<p><img src="images/trustees.png" class="img-fluid"></p>
+<p><a href="images/trustees.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/trustees.png" class="img-fluid"></a></p>
 </div>
 </div>
 
@@ -675,6 +678,38 @@ Constance, Germany</p>
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
