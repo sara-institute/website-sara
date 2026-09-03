@@ -179,7 +179,7 @@ books = [
         "Needed",
         "",
     ),
-    ("Mathematics", "Introductory Statistics", "Neil Weiss", "Needed", ""),
+    ("Mathematics", "Discovering Statistics Using R and RStudio (2nd Ed.)", "Andy Field", "Needed", ""),
     # GENERAL KNOWLEDGE
     (
         "General Knowledge",
