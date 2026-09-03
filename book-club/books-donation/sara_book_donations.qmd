@@ -91,7 +91,7 @@ books = [
     ("Geography", "How to Lie with Maps", "Mark Monmonier", "Needed", ""),
     ("Geography", "The Power of Geography", "Tim Marshall", "Received", "Anand Kamble donated"),
     # SOCIAL SCIENCE
-    ("Social Science", "Sociology", "Anthony Giddens", "In Transit", "PM Donated"),
+    ("Social Science", "Sociology", "Anthony Giddens", "Received", "PM Donated"),
     (
         "Social Science",
         "Introduction to Sociology (OpenStax)",
@@ -99,7 +99,7 @@ books = [
         "Needed",
         "",
     ),
-    ("Social Science", "The Sociological Imagination", "C. Wright Mills", "In Transit", "PM Donated"),
+    ("Social Science", "The Sociological Imagination", "C. Wright Mills", "Received", "PM Donated"),
     (
         "Social Science",
         "Sapiens: A Brief History of Humankind",
@@ -152,8 +152,8 @@ books = [
         "Environmental Science",
         "Textbook of Environmental Studies",
         "Erach Bharucha",
-        "Needed",
-        "",
+        "In Transit",
+        "Urja K & Arnav K Donated (High School Students)",
     ),
     (
         "Environmental Science",
@@ -168,8 +168,8 @@ books = [
         "Mathematics",
         "The Art of Problem Solving Vol. 1",
         "Richard Rusczyk & Sandor Lehoczky",
-        "In Transit",
-        "",
+        "Received",
+        "PM Donated",
     ),
     ("Mathematics", "How to Solve It", "George Polya", "Received", "PM Donated"),
     (
