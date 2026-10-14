@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "workshops/srm-sonipat/index.html",
+    "href": "workshops/srm-sonipat/index.html",
+    "title": "R for Beginners",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "workshops/jnu-pol/index.html",
+    "href": "workshops/jnu-pol/index.html",
+    "title": "Reproducible Research Made Easy - A Live Coding Demo for Social Scientists",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "workshops/gju-mmttc2/index.html#session-1---exploring-your-data-introduction-to-exploratory-data-analysis-eda-using-r",
     "href": "workshops/gju-mmttc2/index.html#session-1---exploring-your-data-introduction-to-exploratory-data-analysis-eda-using-r",
     "title": "EDA & Data Visualization",
@@ -14,60 +28,74 @@
     "text": "Session 2 - Communicating Research with Quarto\nView Slides"
   },
   {
-    "objectID": "winter/2026-rstats-winter/index.html#about-the-program",
-    "href": "winter/2026-rstats-winter/index.html#about-the-program",
-    "title": "STATISTICS USING R",
-    "section": "About the Program",
-    "text": "About the Program\nSARA Institute of Data Science, an Ambedkarite non-profit educational trust based in Sonipat, Haryana, presents its 3rd Winter School - a five-day, hands-on introduction to statistics using R, designed specifically for first-generation learners from Social Science and Humanities backgrounds.\nIn line with SARA’s mission of building data science capacity among first-generation and Dalit-Bahujan learners, this program is offered at a nominal, need-based fee, with waivers available on request - because access to quantitative skills should never depend on one’s ability to pay."
+    "objectID": "workshops/gju-hisar/index.html",
+    "href": "workshops/gju-hisar/index.html",
+    "title": "Reproducible Research using R",
+    "section": "",
+    "text": "Back to top"
   },
   {
-    "objectID": "winter/2026-rstats-winter/index.html#program-details",
-    "href": "winter/2026-rstats-winter/index.html#program-details",
-    "title": "STATISTICS USING R",
-    "section": "Program Details",
-    "text": "Program Details\n\n\n\n\n\n\n\nDates\n20–24 November 2026 (Friday to Tuesday\n\n\nDuration\n5 days, approximately 40 instructional hours\n\n\nMode\nOffline\n\n\nVenue\nDr. Ambedkar Bhawan, Sonipat, Haryana\n\n\nSeats\nLimited to 25 participants\n\n\nFee\n₹5,000 (includes all meals and shared accommodation for 5 days)\n\n\nFee Waiver\nAvailable on request, no questions asked\n\n\nEligibility\nOpen to students and early researchers from Social Science and Humanities backgrounds - no prior coding or statistics experience required"
+    "objectID": "winter/2026-rstats-winter/index.html",
+    "href": "winter/2026-rstats-winter/index.html",
+    "title": "Statistics using R",
+    "section": "",
+    "text": "A five-day, offline, hands-on, in-person course for Social Science and Humanities learners. No previous coding experience is needed.\n👥 Only 20 seats\n📅 25-29 December 2026\n🍲 Food and stay included\n📍 Dr. Ambedkar Bhawan, Sonipat, Haryana"
   },
   {
-    "objectID": "winter/2026-rstats-winter/index.html#curriculum-overview",
-    "href": "winter/2026-rstats-winter/index.html#curriculum-overview",
-    "title": "STATISTICS USING R",
-    "section": "Curriculum Overview",
-    "text": "Curriculum Overview\nThe program is structured to take complete beginners to a confident working knowledge of statistical analysis in R, using examples drawn from real social issues throughout.\nDay 1 - Foundations Introduction to R and RStudio; descriptive statistics (mean, median, mode, spread)\nDay 2 - Date Visualization Working with categorical and numerical data; data visualization; reading and interpreting distributions\nDay 3 - Probability & Sampling Foundations of probability; the normal distribution; sampling methods and survey design\nDay 4 - Inferential Statistics Hypothesis testing; confidence intervals; t-tests and chi-square tests\nDay 5 - Relationships & Regression Correlation and regression; a hands-on applied research project; closing session on research ethics\nEach day combines conceptual teaching with hands-on practice in R, using datasets relevant to education, employment, gender, and social policy."
-  },
-  {
-    "objectID": "winter/2026-rstats-winter/index.html#speakers",
-    "href": "winter/2026-rstats-winter/index.html#speakers",
-    "title": "STATISTICS USING R",
-    "section": "Speakers",
-    "text": "Speakers\nAll sessions will be taught by SARA faculty (Dr. Ajay Kumar Koli) along with pro bono online guest speakers and researchers who apply R and statistics in their own work, offering participants real, research-driven examples of how these tools are used to answer meaningful questions.\n(Speaker names and profiles will be updated as confirmed.)"
-  },
-  {
-    "objectID": "winter/2026-rstats-winter/index.html#why-statistics-matters-for-social-science-humanities-students",
-    "href": "winter/2026-rstats-winter/index.html#why-statistics-matters-for-social-science-humanities-students",
-    "title": "STATISTICS USING R",
-    "section": "Why Statistics Matters for Social Science & Humanities Students",
-    "text": "Why Statistics Matters for Social Science & Humanities Students\nStatistics is often assumed to belong to the sciences alone - but it is increasingly central to research, policy, and public discourse across every discipline.\n\nData now shapes research and policy. Understanding disparities in education, employment, health, and caste-based inequality increasingly requires the ability to read, question, and analyze data.\nQuantitative literacy has historically been gatekept. SARA believes these tools should be accessible to every student, regardless of economic or educational background.\nIt strengthens critical thinking. Learning statistics teaches students to question claims, identify misleading data, and understand the real limits of a survey or study - a skill essential well beyond any single field.\nIt expands opportunity. From research assistantships to policy work to postgraduate study, foundational statistical literacy is increasingly expected - this program aims to ensure SARA’s students are not left behind."
+    "objectID": "winter/2026-rstats-winter/index.html#programme",
+    "href": "winter/2026-rstats-winter/index.html#programme",
+    "title": "Statistics using R",
+    "section": "Programme",
+    "text": "Programme\n\n\n\n\n\n\n\nDate\nFocus\n\n\n\n\n24 December (Thursday)\nArrival and check-in in the evening\n\n\n25 December (Friday)\nGetting started: R/RStudio, data types, importing data and tidy data\n\n\n26 December (Saturday)\nDescribing data: summary statistics, tables, distributions and ggplot2\n\n\n27 December (Sunday)\nFrom sample to population: sampling, probability and confidence intervals\n\n\n28 December (Monday)\nTesting ideas: hypothesis tests, t-test, chi-square and ANOVA\n\n\n29 December (Tuesday)\nRelationships and reporting: correlation, regression and sharing results; closing ceremony around 9 PM\n\n\n30 December (Wednesday)\nDeparture\n\n\n\nA typical learning day runs from 10:00 AM to 6:00 PM, with hands-on practice, lunch and question breaks. Timings may be adjusted and confirmed with registered participants."
   },
   {
     "objectID": "winter/2026-rstats-winter/index.html#who-should-apply",
     "href": "winter/2026-rstats-winter/index.html#who-should-apply",
-    "title": "STATISTICS USING R",
-    "section": "Who Should Apply",
-    "text": "Who Should Apply\nAny student or early researcher from a Social Science or Humanities background is welcome to apply. No prior statistics or programming experience is required - only curiosity."
+    "title": "Statistics using R",
+    "section": "Who should apply?",
+    "text": "Who should apply?\n\nMaster’s, MPhil and PhD students in Social Science and Humanities\nResearchers and teachers who want practical data-analysis skills\nNGO and policy professionals working with survey data\nFirst-generation learners (five fully free seats)"
   },
   {
-    "objectID": "winter/2026-rstats-winter/index.html#how-to-register",
-    "href": "winter/2026-rstats-winter/index.html#how-to-register",
-    "title": "STATISTICS USING R",
-    "section": "How to Register",
-    "text": "How to Register\nTake Screen Shot of Bank Transfer or UPI Payment:\nAccount Name: SARA EDUCATION TRUST\nAccount Number: 42920911856\nBank Name: STATE BANK OF INDIA, Sonipat\nIFSC Code: SBIN0000721\n\n\nRegistration link: https://forms.gle/tdzyssw6F3CmtVjB8"
+    "objectID": "winter/2026-rstats-winter/index.html#instructor",
+    "href": "winter/2026-rstats-winter/index.html#instructor",
+    "title": "Statistics using R",
+    "section": "Instructor",
+    "text": "Instructor\n\nDr. Ajay Kumar Koli\nFounder and Director, SARA Institute of Data Science\nDr. Ajay Kumar Koli will teach all modules across the five days, building concepts progressively from one day to the next.\n\nAreas: Research methods, data analytics and R\nExperience: 10 years of teaching and research\nTraining: 20+ research and data-science trainings\n\n\n\nInternational online guest speakers\nInternational experts will join online for special talks. Speaker names, affiliations, talk titles and session timings will be announced soon."
   },
   {
-    "objectID": "winter/2026-rstats-winter/index.html#cancellation-refund-policy",
-    "href": "winter/2026-rstats-winter/index.html#cancellation-refund-policy",
-    "title": "STATISTICS USING R",
-    "section": "Cancellation & Refund Policy",
-    "text": "Cancellation & Refund Policy\nSince seats are limited and SARA commits in advance to catering and accommodation arrangements, the following refund policy applies:\n\n\n\nCancellation Window\nRefund\n\n\n\n\nOn or before 23 October 2026 (4+ weeks before)\n100% refund\n\n\n24 October – 6 November 2026 (2–4 weeks before)\n50% refund\n\n\nAfter 7 November 2026 (less than 2 weeks before)\nNo refund\n\n\n\nSeat Transfer: If you’re unable to attend, you may transfer your seat to another eligible participant at any time before the program begins, at no additional cost.\nExceptional Circumstances: In cases of genuine medical or family emergencies, please reach out to us directly - exceptions may be considered at SARA’s discretion.\nWaitlist: Any cancelled seat will be offered to participants on the waitlist, in order of registration.\nFor cancellations or queries, please contact us at sara.institute.info@gmail.com or call at 925 315 2024."
+    "objectID": "winter/2026-rstats-winter/index.html#fees",
+    "href": "winter/2026-rstats-winter/index.html#fees",
+    "title": "Statistics using R",
+    "section": "Fees, seats & scholarships",
+    "text": "Fees, seats & scholarships\n\n\n\n\n\n\n\n\n\nCategory\nSeats\nFee\nDeadline / details\n\n\n\n\nFully free seats\n5\n₹0\nFor first-generation learners; apply by 22 November 2026\n\n\nEarly bird\n7\n₹3,600\n40% discount until 27 November 2026, or until seats are filled\n\n\nRegular\n8\n₹6,000\nFrom 28 November 2026; registration closes 18 December 2026\n\n\nSupporter\n—\n₹8,000+\nOptional additional contribution helps support a free seat\n\n\n\nThe fee includes food, accommodation, learning materials and a certificate. A certificate is provided to participants who attend all five days.\n\n\n\n\n\n\nKey Dates\n\n\n\nFree-seat applications close 22 November · free-seat results 25 November · early bird ends 27 November · full-refund deadline 4 December · registration closes 18 December."
+  },
+  {
+    "objectID": "winter/2026-rstats-winter/index.html#venue-practical-information",
+    "href": "winter/2026-rstats-winter/index.html#venue-practical-information",
+    "title": "Statistics using R",
+    "section": "Venue & practical information",
+    "text": "Venue & practical information\nDr. Ambedkar Bhawan, Sonipat\nThe Ambedkar Educational Society, near Dayanand Hospital, Kakroi Road, Sonipat, Haryana 131001.\n\nFrom Sonipat railway station or bus stand, an e-rickshaw takes approximately 10 minutes.\nBring a laptop and charger, one recent passport-size photograph, ID proof and warm clothes.\nA blanket is provided; bring an extra one if you feel cold.\nParticipants should use their own internet connection during the stay.\nFood is vegetarian. Alcohol, smoking and tobacco are not allowed in the premises.\nAccommodation is simple, hostel-style shared dorms and washrooms, separate for men and women.\nPlease contact SARA before registering if you have accessibility requirements or health needs to discuss.\n\nArrival contact: Mr. Raj Pal - 93063 42596 or 99917 73740\nQuestions from women: Dr. Kiran Lata - 81680 60500"
+  },
+  {
+    "objectID": "winter/2026-rstats-winter/index.html#free-seat-application",
+    "href": "winter/2026-rstats-winter/index.html#free-seat-application",
+    "title": "Statistics using R",
+    "section": "Free seat application",
+    "text": "Free seat application\nFive seats are free for first-generation learners. To apply, email sara.institute.info@gmail.com by 22 November with the subject line “Free seat: [your name]”. We will announce the selected learners on 25 November.\n\nIn your email, please tell us:\n\nwho you are, where you study or work, and your city\nwhy you need a free seat, and what you hope to do with R after the Winter School\nthat you will reach the venue on 24 December and attend all five days\n\n\n\nPlease note\n\nYou must be a first-generation learner.\nYou must not be receiving any other fellowship at the time of applying.\nWrite in your own words, in 150 to 250 words. Emails written by AI, copied from others or sent as mass messages will be rejected.\nSend one email only. No documents are needed.\nA video call may be required before a free seat is confirmed.\nPriority goes to learners from marginalized communities and women.\n\nContact: 925 315 2024 · sara.institute.info@gmail.com"
+  },
+  {
+    "objectID": "winter/2026-rstats-winter/index.html#registration",
+    "href": "winter/2026-rstats-winter/index.html#registration",
+    "title": "Statistics using R",
+    "section": "Registration & payment",
+    "text": "Registration & payment\nFollow these three steps to register for the Winter School.\n\n1. Make payment\nScan the payment QR code using any UPI app.\n\n\nYou can also use SARA Bank details\n\nAccount name: SARA EDUCATION TRUST\nBank: State Bank of India, Sonipat\nAccount number: 42920911856\nIFSC: SBIN0000721\nUPI ID: 9253152024@sbi\n\nKeep a screenshot of your successful payment.\n\n\n2. Registration guidelines\n\nSelect the appropriate fee category.\nFor paid categories, complete the payment before filling in the form.\nFree seat: upload a screenshot of your SARA confirmation email.\nEnter your UTR or transaction reference number accurately.\nKeep your payment screenshot until your registration is confirmed.\nRead the photo-consent question and indicate your preference.\nSubmit the form and wait for confirmation by email.\n\n\n\n\n\n\n\nImportant\n\n\n\nPaid seats: A paid seat is confirmed only after SARA verifies the payment. Submitting the form alone does not confirm your seat.\nFree seats: Five fully free seats are available for first-generation learners. Apply by 22 November 2026. No supporting documents are required, according to the brochure.\n\n\n\n\n3. Complete Registration\n\n\nScan this QR code to open the registration form or click on this link https://forms.gle/EEne7qCCUX7LstpN6"
+  },
+  {
+    "objectID": "winter/2026-rstats-winter/index.html#flyer",
+    "href": "winter/2026-rstats-winter/index.html#flyer",
+    "title": "Statistics using R",
+    "section": "Flyer and detailed brochure",
+    "text": "Flyer and detailed brochure\nShare it today. Help someone learn tomorrow. Together, let’s make education accessible to everyone!\n\nDownload flyer (PDF) Download detailed brochure (PDF)\n\n\nFlyer preview\n\n\n\nYour browser cannot display the PDF preview. Open or download the flyer.\n\n\n\nIf the PDF preview does not load on your device, use the Download flyer button above."
   },
   {
     "objectID": "winter/2024-stats-winter/index.html",
@@ -221,7 +249,7 @@
     "href": "summer.html",
     "title": "SARA Data Science Summer School",
     "section": "",
-    "text": "Star this Course on Github\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n3rd SARA Summer School 2026\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n2nd SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nOpen\n\n\n\nThank you! For the Successful Completion of the 5‑Day Data Science Summer School, “R for Researchers”, held from 25–29 July 2025\n\n\n\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n1st SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 22, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Star this Course on Github\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n3rd SARA Summer School 2026\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 26, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n2nd SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nOpen\n\n\n\nThank you! For the Successful Completion of the 5‑Day Data Science Summer School, “R for Researchers”, held from 25–29 July 2025\n\n\n\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nR for Researchers\n\n\n1st SARA Summer School\n\n\n\nR\n\nData Science\n\nSummer School\n\nCompleted\n\n\n\n\n\n\n\n\n\nJul 22, 2024\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "privacy.html",
@@ -354,7 +382,7 @@
     "href": "offline.html",
     "title": "SARA Offline - Free Courses",
     "section": "",
-    "text": "Computer Basics Skills\n\n\n\noffline\n\ncomputer\n\n\n\n\n\n\n\n\n\nApr 2, 2025\n\n\nDr. Kiran Lata, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nEnglish Language Skill\n\n\n\noffline\n\nenglish\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\nDr. Ajay Koli, PhD\n\n\n\n\n\nNo matching items"
+    "text": "Computer Basics Skills\n\n\n\noffline\n\ncomputer\n\n\n\n\n\n\n\n\n\nApr 2, 2025\n\n\nDr. Kiran Lata, PhD\n\n\n\n\n\n\n\n\n\n\n\n\nEnglish Language Skill\n\n\n\noffline\n\nenglish\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\nDr. Ajay Koli, PhD\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -417,7 +445,7 @@
     "href": "contact.html",
     "title": "Contact SARA Team",
     "section": "",
-    "text": "Get in Touch with SARA Institute of Data Science\nWe welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:\n\n Address: SARA Institute\nDr. Ambedkar Bhavan\nNear Dayanand Hospital\nKakroi Road, Sonipat\nHaryana - 131001, India\nGoogle Map Link: https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6\n\n Phone: Main Office: +91 925 315 2024\n\n Email: General & donation inquiries: sara.institute.info@gmail.com\n\nSocial Media: Connect with us on our social media platforms to stay updated on our latest news, events, and initiatives.\n                 \n\nVisit Us: We encourage you to visit our institute and witness firsthand the impact of our educational programs. Schedule a visit by contacting our office.\n Office hours: Monday to Friday, from 09 AM to 06 PM.\n\n\nThank you for your interest in the SARA Institute. We look forward to hearing from you soon!"
+    "text": "Get in Touch with SARA Institute of Data Science\nWe welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:\n\n Address: SARA Institute\nDr. Ambedkar Bhavan\nNear Dayanand Hospital\nKakroi Road, Sonipat\nHaryana - 131001, India\nGoogle Map Link: https://maps.app.goo.gl/d9S6a3pEFNXhnJGN6\n\n Phone: Main Office: +91 925 315 2024\n\n Email: General & donation inquiries: sara.institute.info@gmail.com\n\nSocial Media: Connect with us on our social media platforms to stay updated on our latest news, events, and initiatives.\n                 \n\nVisit Us: We encourage you to visit our institute and witness firsthand the impact of our educational programs. Schedule a visit by contacting our office.\n Office hours: Monday to Friday, from 09 AM to 06 PM.\n\n\nThank you for your interest in the SARA Institute. We look forward to hearing from you soon!\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "bootcamp/2025-bootcamp/index.html",
@@ -494,7 +522,7 @@
     "href": "book-club/2026-02-03-joe/index.html",
     "title": "Unmasking AI - Dr. Joy Buolamwini",
     "section": "",
-    "text": "📚 We’re starting SARA Book Club with an inspiring choice!\n\nBook: Unmasking AI: My Mission to Protect What Is Human in a World of Machines\n\n\nAuthor: Dr. Joy Buolamwini\nDr. Buolamwini is the founder of the The Algorithmic Justice League and her book exposes how AI systems encode discrimination against women, people of color, and marginalized communities. She uncovered what she calls “the coded gaze”—the evidence of encoded discrimination and exclusion in tech products.\nWhy this book? Perfect alignment with SARA’s values of justice, accessibility, and making tech serve everyone - not just the privileged few.\n\n\n\n\n📺 Watch 1st Discussion (book Part I & II) on YouTube\n\n\n\n📺 Watch 2nd Discussion (book Part III & IV) on YouTube\n\n\n\n📺 Watch 3rd Discussion (book Part V) on YouTube"
+    "text": "📚 We’re starting SARA Book Club with an inspiring choice!\n\nBook: Unmasking AI: My Mission to Protect What Is Human in a World of Machines\n\n\nAuthor: Dr. Joy Buolamwini\nDr. Buolamwini is the founder of the The Algorithmic Justice League and her book exposes how AI systems encode discrimination against women, people of color, and marginalized communities. She uncovered what she calls “the coded gaze”—the evidence of encoded discrimination and exclusion in tech products.\nWhy this book? Perfect alignment with SARA’s values of justice, accessibility, and making tech serve everyone - not just the privileged few.\n\n\n\n\n📺 Watch 1st Discussion (book Part I & II) on YouTube\n\n\n\n📺 Watch 2nd Discussion (book Part III & IV) on YouTube\n\n\n\n📺 Watch 3rd Discussion (book Part V) on YouTube\n\n\n\n\n \n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -522,21 +550,21 @@
     "href": "book-club.html",
     "title": "SARA Book Club",
     "section": "",
-    "text": "40 Books Donation List\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnnihilation of Caste - Dr. B.R. Ambedkar\n\n\n2nd Book Discussion\n\n\n\nSocial Science\n\nHistory\n\nCivics & Polity\n\nDalit Literature\n\n\n\n\n\n\n\n\n\nJul 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nUnmasking AI - Dr. Joy Buolamwini\n\n\n1st Book Discussion\n\n\n\nAI\n\nNon-fiction\n\nTechnology\n\nScience\n\nMemoir\n\nPolitics\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\n\n\n\nNo matching items"
+    "text": "40 Books Donation List\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnnihilation of Caste - Dr. B.R. Ambedkar\n\n\n2nd Book Discussion\n\n\n\nSocial Science\n\nHistory\n\nCivics & Polity\n\nDalit Literature\n\n\n\n\n\n\n\n\n\nJul 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nUnmasking AI - Dr. Joy Buolamwini\n\n\n1st Book Discussion\n\n\n\nAI\n\nNon-fiction\n\nTechnology\n\nScience\n\nMemoir\n\nPolitics\n\n\n\n\n\n\n\n\n\nFeb 18, 2026\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "book-club/2026-07-10-ambedkar/index.html",
     "href": "book-club/2026-07-10-ambedkar/index.html",
     "title": "Annihilation of Caste - Dr. B.R. Ambedkar",
     "section": "",
-    "text": "The SARA Book Club returns for its second session with one of the most important texts in Indian intellectual history - Dr. B.R. Ambedkar’s Annihilation of Caste. Written in 1936 and as urgent as ever, this book challenges us to confront the foundations of caste society and imagine a world beyond it.\nThe session will feature a presenter, Dr. Ajay Koli, who will walk us through the key arguments of the text, a subject expert Dr. Vivek Kumar Singh who will offer deeper context and insight, and a moderator Dr. Cecilia Baldoni to guide an open and thoughtful discussion. Whether you have read every word or are coming to Ambedkar for the first time, you are welcome at this table.\n\n\n🗓 Date: 20 July 2026\n🕐 Time: 8 PM IST\n💻 Platform: Zoom\n✉️ Email us to receive Zoom Link: sara.institute.info@gmail.com\n\nThe discussion will be held on Zoom. To receive your meeting link, please contact SARA directly. The session will be recorded and uploaded to the SARA YouTube channel, so those who cannot join live can watch at their own time.\nJoin us. Read, question, and discuss - because education that does not disturb the comfortable is not education at all.\n\n\n📺 Watch 1st Discussion on YouTube\n\n\n\n\n📺 Watch 2nd Discussion on YouTube\n\n\n\n\n📺 Watch 3rd Discussion on YouTube"
+    "text": "The SARA Book Club returns for its second session with one of the most important texts in Indian intellectual history - Dr. B.R. Ambedkar’s Annihilation of Caste. Written in 1936 and as urgent as ever, this book challenges us to confront the foundations of caste society and imagine a world beyond it.\nThe session will feature a presenter, Dr. Ajay Koli, who will walk us through the key arguments of the text, a subject expert Dr. Vivek Kumar Singh who will offer deeper context and insight, and a moderator Dr. Cecilia Baldoni to guide an open and thoughtful discussion. Whether you have read every word or are coming to Ambedkar for the first time, you are welcome at this table.\n\n\n🗓 Date: 20 July 2026\n🕐 Time: 8 PM IST\n💻 Platform: Zoom\n✉️ Email us to receive Zoom Link: sara.institute.info@gmail.com\n\nThe discussion will be held on Zoom. To receive your meeting link, please contact SARA directly. The session will be recorded and uploaded to the SARA YouTube channel, so those who cannot join live can watch at their own time.\nJoin us. Read, question, and discuss - because education that does not disturb the comfortable is not education at all.\n\n\n📺 Watch 1st Discussion on YouTube\n\n\n\n\n📺 Watch 2nd Discussion on YouTube\n\n\n\n\n📺 Watch 3rd Discussion on YouTube\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "bootcamp.html",
     "href": "bootcamp.html",
     "title": "SARA Data Science Bootcamp",
     "section": "",
-    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish Research using Quarto\n\n\n2nd SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nQuarto\n\n\n\nA hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome.\n\n\n\n\n\nSep 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublish using Quarto\n\n\n1st SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nCompleted\n\nQuarto\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublish Research using Quarto\n\n\n2nd SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nQuarto\n\n\n\nA hands-on, immersive three-day offline bootcamp for researchers, academics, students, and data enthusiasts — all levels welcome.\n\n\n\n\n\nOct 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublish using Quarto\n\n\n1st SARA Bootcamp\n\n\n\nR\n\nData Science\n\nBootcamp\n\nCompleted\n\nQuarto\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "bootcamp/2026-bootcamp/index.html#watch-video-to-see-the-highlights",
@@ -1068,7 +1096,7 @@
     "href": "winter.html",
     "title": "SARA Data Science Winter School",
     "section": "",
-    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTATISTICS USING R\n\n\n3rd SARA Winter School 2026\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nSep 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n2nd SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\nEmpowering Social Science & Humanities Students with Data Skills\n\n\n\n\n\nJan 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n1st SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\nNo matching items"
+    "text": "Star\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n3rd SARA Winter School 2026\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n2nd SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\nEmpowering Social Science & Humanities Students with Data Skills\n\n\n\n\n\nJan 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics using R\n\n\n1st SARA Winter School\n\n\n\nR\n\nData Science\n\nWinter School\n\nStatistics\n\n\n\n\n\n\n\n\n\nDec 16, 2024\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "winter/2025-stats-winter/index.html",
@@ -1141,6 +1169,13 @@
     "text": "Past Workshop Highlights"
   },
   {
+    "objectID": "workshops/gju-mmttc/index.html",
+    "href": "workshops/gju-mmttc/index.html",
+    "title": "Data Analysis using R",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "workshops/ids-jaipur/index.html",
     "href": "workshops/ids-jaipur/index.html",
     "title": "R-Programming for Data Analysis and Data Visualization",
@@ -1153,5 +1188,12 @@
     "title": "R-Programming for Data Analysis and Data Visualization",
     "section": "",
     "text": "Participants Feedback"
+  },
+  {
+    "objectID": "workshops/mdu-eco/index.html",
+    "href": "workshops/mdu-eco/index.html",
+    "title": "Reproducible Research using R",
+    "section": "",
+    "text": "Back to top"
   }
 ]

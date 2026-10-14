@@ -23,13 +23,13 @@ website:
     card-style: summary_large_image
     image: social-default.png
   cookie-consent: false
-  # announcement:
-    #icon: book
-    # dismissable: true
-    # content: "🚀 Applications Open for 3rd Summer School Jul 2026 [Registration Link](https://forms.gle/PoxbuymTz9XL28667)"
-    # type: success
-    # position: below-navbar
-  
+  announcement:
+    icon: rocket
+    dismissable: true
+    content: "Applications Open for 'Statistics using R' Dec 2026 [more info](https://sara-edu.netlify.app/winter/2026-rstats-winter/)"
+    type: success
+    position: below-navbar
+  back-to-top-navigation: true
   
   navbar:
     search: true
