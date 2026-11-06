@@ -63,13 +63,15 @@ A five-day, offline, hands-on, in-person course for Social Science and Humanitie
 
 <br>
 
-### Thank you to our sponsor
+### Thank you to our supporter
 
-<!-- Replace with the JR image -->
-<img src="JumpingRivers_Primary.png"
-     alt="Official Sponsor"
-     width="220"
-     loading="lazy">
+::: {layout="[40, 25]" layout-valign="top"}
+
+![](JumpingRivers_Primary.png){width="30%"}
+
+![](logo-jr.png){width="50%"}
+
+:::
 
 Know more about [Jumping Rivers](https://www.jumpingrivers.com/)
 
