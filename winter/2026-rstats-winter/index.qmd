@@ -1,20 +1,21 @@
 ---
 title: "Statistics using R"
 subtitle: "3rd SARA Winter School 2026"
-image: "social-card.png"
-#date: today
+image: "images/flyer.jpeg"
+date: today
+date-format: medium
 format:
   html:
-    toc: true
-    toc-title: "Contents"
-    toc-depth: 2
-    toc-location: left
+    # toc: false
+    # toc-title: "Contents"
+    # toc-depth: 2
+    # toc-location: left
     theme: cosmo
     css: styles.css
     self-contained: true
     embed-resources: true
     smooth-scroll: true
-    page-layout: article
+    #page-layout: article
     title-block-banner: "#1e3a5f"
     title-block-banner-color: "#ffffff"
 execute:
@@ -24,96 +25,99 @@ categories: [R, Data Science, Winter School, Statistics]
 lightbox: true
 ---
 
-```{=html}
-<style>
-/* Small, self-contained styles; no external CSS or JavaScript required. */
-
-
-.winter-btn { display: inline-block; padding: .7rem 1rem; border-radius: .45rem; text-decoration: none; font-weight: 650; border: 1px solid #003262; }
-.winter-btn-primary { background: #003262; color: #fff !important; }
-.winter-btn-outline { color: #003262 !important; background: transparent; }
-.winter-panel { border: 1px solid var(--bs-border-color); border-radius: .7rem; padding: 1rem 1.1rem; height: 100%; }
-.winter-panel h3 { margin-top: 0; font-size: 1.08rem; }
-.winter-note { border-left: 4px solid #b08a36; padding: .75rem 1rem; background: var(--bs-tertiary-bg); border-radius: 0 .45rem .45rem 0; }
-.winter-flyer { width: 100%; max-width: 850px; display: block; margin: 0 auto; border: 1px solid var(--bs-border-color); border-radius: .5rem; }
-.winter-muted { color: var(--bs-secondary-color); font-size: .94rem; }
-.winter-speaker-photo { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: .45rem; background: var(--bs-tertiary-bg); }
-@media (max-width: 600px) {
-  .winter-hero { padding-top: 1rem; }
-  .winter-btn { width: 100%; text-align: center; }
-}
-</style>
-```
-
 <br>
 
-A five-day, offline, hands-on, in-person course for Social Science and Humanities learners. No previous coding experience is needed.
+A five-day, offline, hands-on, in-person course for all learners. No previous coding experience is needed.
 
 👥 Only 20 seats     
 📅 25-29 December 2026   
 🍲 Food and stay included     
-📍 Dr. Ambedkar Bhawan, Sonipat, Haryana
-
-
-<div class="winter-actions">
-  <a class="winter-btn winter-btn-primary" href="#registration">Registration & payment</a>
-  <a class="winter-btn winter-btn-outline" href="#fees">Fees and scholarships</a>
-  <a class="winter-btn winter-btn-outline" href="#flyer">View flyer</a>
-</div>
-
-<br>
-
-### Thank you to our supporter
-
-::: {layout="[40, 25]" layout-valign="top"}
-
-![](JumpingRivers_Primary.png){width="30%"}
-
-![](logo-jr.png){width="50%"}
-
-:::
-
-Know more about [Jumping Rivers](https://www.jumpingrivers.com/)
-
-<br>
-
-## Programme
-
-| Date | Focus |
-|---|---|
-| **24 December (Thursday)** | Arrival and check-in in the evening |
-| **25 December (Friday)** | Getting started: R/RStudio, data types, importing data and tidy data |
-| **26 December (Saturday)** | Describing data: summary statistics, tables, distributions and `ggplot2` |
-| **27 December (Sunday)** | From sample to population: sampling, probability and confidence intervals |
-| **28 December (Monday)** | Testing ideas: hypothesis tests, *t*-test, chi-square and ANOVA |
-| **29 December (Tuesday)** | Relationships and reporting: correlation, regression and sharing results; closing ceremony around 9 PM |
-| **30 December (Wednesday)** | Departure |
-
-A typical learning day runs from **10:00 AM to 6:00 PM**, with hands-on practice, lunch and question breaks. Timings may be adjusted and confirmed with registered participants.
+📍 Dr. Ambedkar Bhawan, Sonipat, Haryana     
+🔗 Registration & Payment link @sec-registration 
 
 ## Who should apply?
 
 - Master’s, MPhil and PhD students in Social Science and Humanities
 - Researchers and teachers who want practical data-analysis skills
 - NGO and policy professionals working with survey data
-- First-generation learners (five fully free seats)
+- For marginalised community & women learners (five fully free seats).
 
-## Instructor
+## Programme
 
+| Date | Focus |
+|---|---|
+| 24 December (Thursday) | *Arrival and check-in in the evening* |
+| **25 December (Friday)** | Getting started: R/RStudio, data types, importing data and tidy data |
+| **26 December (Saturday)** | Describing data: summary statistics, tables, distributions and `ggplot2` |
+| **27 December (Sunday)** | From sample to population: sampling, probability and confidence intervals |
+| **28 December (Monday)** | Testing ideas: hypothesis tests, *t*-test, chi-square and ANOVA |
+| **29 December (Tuesday)** | Relationships and reporting: correlation, regression and sharing results; closing ceremony around 7 PM |
+| 30 December (Wednesday) | *Departure* |
 
-### Dr. Ajay Kumar Koli
+A typical learning day runs from **10:00 AM to 6:00 PM**, with hands-on practice, lunch and question breaks. Timings may be adjusted and confirmed with registered participants.
 
-*Founder and Director, SARA Institute of Data Science*
+## Instructors
 
-Dr. Ajay Kumar Koli will teach all modules across the five days, building concepts progressively from one day to the next.
+:::: {.layout-grid-img}
 
-- **Areas:** Research methods, data analytics and R
-- **Experience:** 10 years of teaching and research
-- **Training:** 20+ research and data-science trainings
+::: {.col}
+::: {.card}
+
+![](images/gaston.jpg)
+
+**Gastón Becerra, PhD** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gaston-becerra-sociologia/)
+
+Assist. Prof. of Sociology 
+
+University of Buenos Aires, Argentina.
+
+::: 
+::: 
+
+::: {.col}
+::: {.card}
+
+![](images/emi.jpg)
+
+**Emi Tanaka, PhD** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/emitanaka/)
+
+Academic Statistician 
+
+The Australian National University, Australia.
+
+::: 
+:::
+
+<!-- ::: {.col}
+::: {.card}
+
+![](images/ajay.jpeg)
+
+**Dr. Ajay Kumar Koli** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
+
+Data Science Educator
+
+SARA Institute, India.
+:::
+::: -->
+
+:::: 
 
 ### International online guest speakers
 
 International experts will join online for special talks. Speaker names, affiliations, talk titles and session timings will be announced soon.
+
+- **Dec 25:** *Visualising Spatial Data in R* by Emi Tanaka
+- **Dec 28:** *Working with APIs and Web Scraping in R* by Gastón Becerra
+- **Dec 29:** *Using LLMs for Qualitative Coding in R* by Gastón Becerra
+
+### Ajay Koli, PhD | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ajay-kumar-koli/)
+
+He will teach all modules across the five days, building concepts progressively from one day to the next.
+
+- **Areas:** Research methods, data analytics and R
+- **Experience:** 10 years of teaching and research
+- **Training:** 20+ research and data-science trainings
 
 ## Fees, seats & scholarships {#fees}
 
@@ -121,7 +125,7 @@ International experts will join online for special talks. Speaker names, affilia
 |-------|:---:|:---:|---------|
 | Fully free seats | 5 | ₹0 | For first-generation learners; apply by **22 November 2026** |
 | Early bird | 7 | ₹3,600 | 40% discount until **27 November 2026**, or until seats are filled |
-| Regular | 8 | ₹6,000 | From **28 November 2026**; registration closes **18 December 2026** |
+| Regular | 8 | ₹6,000 | Registration closes **18 December 2026** |
 | Supporter | — | ₹8,000+ | Optional additional contribution helps support a free seat |
 
 The fee includes **food, accommodation, learning materials and a certificate**. A certificate is provided to participants who attend all five days.
@@ -132,22 +136,6 @@ The fee includes **food, accommodation, learning materials and a certificate**. 
 Free-seat applications close 22 November · free-seat results 25 November · early bird ends 27 November · full-refund deadline 4 December · registration closes 18 December.
 
 :::
-
-## Venue & practical information
-
-**Dr. Ambedkar Bhawan, Sonipat**  
-The Ambedkar Educational Society, near Dayanand Hospital, Kakroi Road, Sonipat, Haryana 131001.
-
-- From Sonipat railway station or bus stand, an e-rickshaw takes approximately 10 minutes.
-- Bring a laptop and charger, one recent passport-size photograph, ID proof and warm clothes.
-- A blanket is provided; bring an extra one if you feel cold.
-- Participants should use their own internet connection during the stay.
-- Food is vegetarian. Alcohol, smoking and tobacco are not allowed in the premises.
-- Accommodation is simple, hostel-style shared dorms and washrooms, separate for men and women.
-- Please contact SARA before registering if you have accessibility requirements or health needs to discuss.
-
-**Arrival contact:** Mr. Raj Pal - 93063 42596 or 99917 73740  
-**Questions from women:** Dr. Kiran Lata - 81680 60500
 
 ## Free seat application
 
@@ -170,7 +158,34 @@ Five seats are free for first-generation learners. To apply, email `sara.institu
 
 **Contact:** `925 315 2024` · `sara.institute.info@gmail.com`
 
-## Registration & payment {#registration}
+## Our supporters
+
+::: {layout="[5,-1,5]" layout-valign="center"}
+
+![](images/sonipat-bhawan.png)
+
+![](images/JumpingRivers_Primary.png){width="2.5in"}
+
+:::
+
+## Venue & practical information
+
+**Dr. Ambedkar Bhawan, Sonipat**  
+The Ambedkar Educational Society, near Dayanand Hospital, Kakroi Road, Sonipat, Haryana 131001.
+
+- From Sonipat railway station or bus stand, an e-rickshaw takes approximately 10 minutes.
+- Bring a laptop and charger, one recent passport-size photograph, ID proof and warm clothes.
+- A blanket is provided; bring an extra one if you feel cold.
+- Participants should use their own internet connection during the stay.
+- Food is vegetarian. Alcohol, smoking and tobacco are not allowed in the premises.
+- Accommodation is simple, hostel-style shared dorms and washrooms, separate for men and women.
+- Please contact SARA before registering if you have accessibility requirements or health needs to discuss.
+
+**Arrival contact:** Mr. Raj Pal - 93063 42596 or 99917 73740  
+**Questions from women:** Dr. Kiran Lata - 81680 60500
+
+
+## Registration & payment {#sec-registration}
 
 Follow these three steps to register for the Winter School.
 
@@ -178,11 +193,7 @@ Follow these three steps to register for the Winter School.
 
 Scan the payment QR code using any UPI app.
 
-<!-- Replace with the actual payment QR image -->
-<img src="qr-payment.png"
-     alt="Payment QR code"
-     width="220"
-     loading="lazy">
+![](images/qr-payment.png){width="30%"}
 
 **You can also use SARA Bank details**
 
@@ -216,27 +227,11 @@ Keep a screenshot of your successful payment.
 ### 3. Complete Registration
 
 <!-- Replace with the actual registration QR image -->
-<img src="qr-registration.png"
+<img src="images/qr-registration.png"
      alt="Registration QR code"
      width="220"
      loading="lazy">
 
 Scan this QR code to open the registration form or click on this link [https://forms.gle/EEne7qCCUX7LstpN6](https://forms.gle/EEne7qCCUX7LstpN6)
 
-## Flyer and detailed brochure {#flyer}
-
-Share it today. Help someone learn tomorrow. Together, let’s make education accessible to everyone!
-
-<div class="winter-actions">
-  <a class="winter-btn winter-btn-primary" href="winter-school-flyer.pdf" download>Download flyer (PDF)</a>
-  <a class="winter-btn winter-btn-outline" href="winter-school-brochure.pdf" download>Download detailed brochure (PDF)</a>
-</div>
-
-### Flyer preview
-
-<!-- Replace docs/3rd-sara-winter-school-2026-flyer.pdf with the final flyer PDF path. -->
-<object data="winter-school-flyer.pdf#toolbar=0&navpanes=0" type="application/pdf" width="100%" height="620" aria-label="Preview of the 3rd SARA Winter School 2026 flyer">
-  <p>Your browser cannot display the PDF preview. <a href="3rd-sara-winter-school-2026-flyer.pdf">Open or download the flyer</a>.</p>
-</object>
-
-<p class="winter-muted">If the PDF preview does not load on your device, use the Download flyer button above.</p>
+![](images/flyer.jpeg)
