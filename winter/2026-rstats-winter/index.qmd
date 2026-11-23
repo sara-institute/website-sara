@@ -123,7 +123,7 @@ He will teach all modules across the five days, building concepts progressively 
 
 | Category | Seats | Fee | Deadline / details |
 |-------|:---:|:---:|---------|
-| Fully free seats | 5 | ₹0 | For first-generation learners; apply by **22 November 2026** |
+| ~~Fully free seats~~ | ~~5~~ | ~~₹0~~ | ~~For first-generation learners; apply by **22 November 2026**~~ |
 | Early bird | 7 | ₹3,600 | 40% discount until **27 November 2026**, or until seats are filled |
 | Regular | 8 | ₹6,000 | Registration closes **18 December 2026** |
 | Supporter | — | ₹8,000+ | Optional additional contribution helps support a free seat |
@@ -137,9 +137,11 @@ Free-seat applications close 22 November · free-seat results 25 November · ear
 
 :::
 
-## Free seat application
+## Free seat application is now closed
 
-Five seats are free for first-generation learners. To apply, email `sara.institute.info@gmail.com` by **22 November** with the subject line “Free seat: [your name]”. We will announce the selected learners on **25 November.**
+We will announce the selected learners on **25 November.**
+
+<!-- Five seats are free for first-generation learners. To apply, email `sara.institute.info@gmail.com` by **22 November** with the subject line “Free seat: [your name]”. We will announce the selected learners on **25 November.**
 
 #### In your email, please tell us:
 
@@ -156,7 +158,7 @@ Five seats are free for first-generation learners. To apply, email `sara.institu
 - A video call may be required before a free seat is confirmed.
 - Priority goes to learners from marginalized communities and women.
 
-**Contact:** `925 315 2024` · `sara.institute.info@gmail.com`
+**Contact:** `925 315 2024` · `sara.institute.info@gmail.com` -->
 
 ## Our supporters
 
