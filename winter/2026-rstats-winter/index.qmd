@@ -124,7 +124,7 @@ He will teach all modules across the five days, building concepts progressively 
 | Category | Seats | Fee | Deadline / details |
 |-------|:---:|:---:|---------|
 | ~~Fully free seats~~ | ~~5~~ | ~~₹0~~ | ~~For first-generation learners; apply by **22 November 2026**~~ |
-| Early bird | 7 | ₹3,600 | 40% discount until **27 November 2026**, or until seats are filled |
+| ~~Early bird~~ | ~~7~~ | ~~₹3,600~~ | ~~40% discount until **27 November 2026**, or until seats are filled~~ |
 | Regular | 8 | ₹6,000 | Registration closes **18 December 2026** |
 | Supporter | — | ₹8,000+ | Optional additional contribution helps support a free seat |
 
